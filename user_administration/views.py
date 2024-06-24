@@ -42,7 +42,7 @@ def student_registration(request):
             except ValidationError as e:
                 return HttpResponse(str(e.messages))
 
-            student = Group.objects.get(name='student')
+            student = Group.objects.get(name='Student')
             user.groups.add(student)
             messages.success(request, "Registration Successful")
             return HttpResponseRedirect('/user_administration/user_login/')
