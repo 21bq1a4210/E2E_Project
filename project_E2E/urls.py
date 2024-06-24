@@ -24,5 +24,6 @@ urlpatterns = [
     path('', include('forgotpassword.urls')),
     path('', include('dashboard.urls')),
     path('', include('chatbot.urls')),
+    path('', include('FRS_attendance.urls')),
     path('admin/', admin.site.urls),
 ]
