@@ -152,7 +152,7 @@ CRISPY_TEMPLATE_PACK = 'bootstrap4'  # or 'bootstrap5' depending on your preferr
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_PORT = 465
+EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'greviencevvit@gmail.com'
-EMAIL_HOST_PASSWORD = 'pvhr wbrs tmbv rxty '
+EMAIL_HOST_PASSWORD = 'pvhr wbrs tmbv rxty'

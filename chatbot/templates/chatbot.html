@@ -113,7 +113,7 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ms-auto">
                 <li class="nav-item back1">
-                    <a class="nav-link " href="DashBoard1.html">Home</a>
+                    <a class="nav-link " href="{% url 'dashboard' %}">Home</a>
                 </li>
                 <li class="nav-item back1">
                     <a class="nav-link " href="Login_page.html">Login</a>
@@ -135,7 +135,7 @@
             <div class="d-flex flex-sm-column flex-row flex-nowrap bg-light align-items-center sticky-top">
                 <ul class="bg-transparent nav nav-pills nav-flush flex-sm-column flex-row flex-nowrap mb-auto mx-auto text-center align-items-center">
                     <li class="nav-item">
-                        <a href="DashBoard1.html" class="nav-link py-3 px-2" title="DASHBOARD" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Home">
+                        <a href="{% url 'dashboard' %}" class="nav-link py-3 px-2" title="DASHBOARD" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Home">
                             <img src="{% static 'images/Dashboard_svg.svg' %}" alt="Dashboard" width="30" height="24">
                         </a>
                     </li>

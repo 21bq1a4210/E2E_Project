@@ -5,7 +5,7 @@ import google.generativeai as genai
 def chat(message):
     try:
         # GOOGLE_API_KEY=userdata.get('GOOGLE_API_KEY')
-        genai.configure(api_key='AIzaSyAYcmEjIxxzDyq1N977tv0DabsJxUTubhY')
+        genai.configure(api_key='AIzaSyD8r67gzbYrR7R0rIXXNWHAg9QVY_P68Yk')
 
         model = genai.GenerativeModel('gemini-pro')
 

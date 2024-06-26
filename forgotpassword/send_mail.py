@@ -1,32 +1,35 @@
-import smtplib
-from email.message import EmailMessage
-import ssl
+from django.core.mail import send_mail
+from django.conf import settings
+
 
 class SentOTP:
     def __init__(self, mail_data):
-        self.sender = 'greviencevvit@gmail.com'
-        self.password = 'pvhr wbrs tmbv rxty'
+        self.sender = settings.EMAIL_HOST_USER
         self.receiver = mail_data['email']
         self.subject = 'Your OTP'
         self.body = f"OTP: {mail_data['otp']}"
 
     def sendMail(self):
-        mail = EmailMessage()
-        mail['From'] = self.sender
-        mail['To'] = self.receiver
-        mail['subject'] = self.subject
-        mail.set_content(self.body)
+        send_mail(
+            self.subject,
+            self.body,
+            self.sender,
+            [self.receiver],
+            fail_silently=False,
+        )
 
-        context = ssl.create_default_context()
 
-        with smtplib.SMTP_SSL('smtp.gmail.com', 465, context=context) as smtp:
-            smtp.login(self.sender, self.password)
-            smtp.send_message(mail)
+if __name__ == "__main__":
+    import django
+    import os
 
-if __name__=="__main__":
-    data= {
-        'email' : '21bq1a4210@vvit.net',
-        'otp' : 12345,
+    # Ensure Django settings are configured
+    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'project_E2E.settings')
+    django.setup()
+
+    data = {
+        'email': '21bq1a4210@vvit.net',
+        'otp': 12345,
     }
     SentOTP(data).sendMail()
-    print('mail Send')
+    print('Mail sent')

@@ -29,6 +29,9 @@ def dashboard(request):
 
     return render(request, 'dashboard.html', context)
 
+def feedback(request):
+    return render(request, 'feedback.html')
+
 def logout(request):
     print('logged out')
     auth_logout(request)

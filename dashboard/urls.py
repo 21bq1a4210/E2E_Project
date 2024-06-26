@@ -5,6 +5,8 @@ from . import views
 urlpatterns = [
     path('dashboard/', views.dashboard, name='dashboard'),
     path('logout/', views.logout, name='logout'),
+    path("", views.feedback, name='feedback'),
     path("", include("complaintbox.urls")),
+    path("", include("chatbot.urls")),
 
 ]
