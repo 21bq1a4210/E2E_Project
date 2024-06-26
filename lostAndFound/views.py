@@ -6,6 +6,7 @@ import json
 
 def LostandFound(request):
     return render(request,'lostandfound.html')
+
 def Lostform(request):
     if request.method == 'POST':
         form = LostItemForm(request.POST,request.FILES)
@@ -17,15 +18,17 @@ def Lostform(request):
             errors = form.errors.as_json()
             print(f'ERRORS  = {errors}')
     return render(request,'lostform.html',{'form':LostItemForm})
+
 def Foundform(request):
     if request.method == 'POST':
         form = FoundItemForm(request.POST,request.FILES)
         if form.is_valid():
             instance = form.save()
-            print(instance.submissionID)
             return redirect('/lostandfound/searching/id={}'.format(instance.submissionID))
+        else:
+            errors = form.errors.as_json()
+            print(f'ERRORS  = {errors}')
     return render(request,'foundform.html',{'form':FoundItemForm})
-
 
 def Searching(request,id):
     return render(request,'searching.html')

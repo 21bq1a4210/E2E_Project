@@ -65,7 +65,7 @@ class LostItems(models.Model):
     time = models.TimeField(max_length=200, default=None)
     date = models.DateField(max_length=200, default=None)
     image = models.ImageField(max_length=200,null=True, blank=True, upload_to='lostitems/')
-    description = models.CharField(max_length=500, default=None)
+    description = models.TextField( default=None)
 
 class FoundItems(models.Model):
     submissionID = FoundIDField(max_length = 100)
@@ -79,4 +79,4 @@ class FoundItems(models.Model):
     time = models.TimeField(max_length=200, default=None)
     date = models.DateField(max_length=200, default=None)
     image = models.ImageField(max_length=200,null=True, blank=True, upload_to='founditems/')
-    description = models.CharField(max_length=500, default=None)
+    description = models.CharField(default=None)

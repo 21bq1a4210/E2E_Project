@@ -30,12 +30,13 @@ def SearchItems(data):
         #     'contact' : results.values('contact')
         # }
         values = list(results.values())
+        print(item)
         if len(values) == 0:
             print(1)
             return False
         else:
             print(2)
-            sendMailTo(item,values)
+            sendMailTo(item.email,item.submissionID,item.description,values)
             return True
     elif type == 'found':
         item = FoundItems.objects.get(submissionID = data)
@@ -49,12 +50,13 @@ def SearchItems(data):
                         'description')
         results = LostItems.objects.annotate(rank=SearchRank(vector, query)).filter(rank__gte=0.0001).order_by('-rank')
         values = list(results.values())
+        print(item.name)
         if len(values) == 0:
             print(1)
             return False
         else:
             print(2)
-            sendMailTo(item,values)
+            sendMailTo(item.email,item.submissionID,item.description,values)
             return True
         
 
