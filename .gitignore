@@ -1,3 +1,11 @@
-chatbot/chatbot_model/chatbot/pytorch_model.bin
 *.pyc
-./**/*.pyc
+/venv/
+/media/
+*sqlite3
+
+*.pyc
+__pycache__
+venv/
+.vscode/
+.idea/
+db.sqlite3

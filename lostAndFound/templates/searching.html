@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+
+        function getCookie(name) {
+            let cookieValue = null;
+            if (document.cookie && document.cookie !== '') {
+                const cookies = document.cookie.split(';');
+                for (let i = 0; i < cookies.length; i++) {
+                    const cookie = cookies[i].trim();
+                    if (cookie.substring(0, name.length + 1) === (name + '=')) {
+                        cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                        break;
+                    }
+                }
+            }
+            return cookieValue;
+        }
+        function checkSearch(){
+            const csrf_token = getCookie('csrftoken')
+            const queryString = window.location.href
+            const id = queryString.split('=')[1]
+            body = document.getElementById('body')
+            fetch('/lostandfound/search/', {
+                method: 'POST', 
+                headers: {
+                    'Content-Type': 'application/json',
+                    'X-csrftoken' : csrf_token
+                },
+                body: JSON.stringify({ id: id }) 
+            })
+            .then(response => response.json())
+            .then(data => {
+                console.log(data.status)
+                if(data.status){
+                    document.getElementById('body').innerHTML = "Thank you for reaching out to us regarding your lost item.<strong> We are pleased to inform you that an item matching your description has been found.</strong>We have sent an email to the address you provided with the contact details of the person who found the item. <strong>Please check your inbox for this email,</strong> which includes the contact information and instructions on how to verify and retrieve your item directly from the finder."
+                }
+                else{
+                    document.getElementById('body').innerHTML = "Thank you for reaching out to us regarding your lost item.After thoroughly searching our database, we regret to inform you that your item is not currently listed in our inventory of found items <strong> If anyone submits an item that matches the description of your lost item, we will reach out to you via the email address you provided. </strong>"
+                    console.log(data[0])
+                }
+            })
+            // .then(res => {
+            //     console.log(isNaN(res[0]))
+            //     return res
+            // })
+            // .then(data => {
+            //     document.getElementById("body").innerHTML = data.status[0];
+            //     console.log(data.status[0]);
+            // })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+        }
+
+        checkSearch()
+    </script>
+</head>
+<body>
+    {% csrf_token %}
+    <div id="body">
+        searching
+    </div>
+</body>
+</html>

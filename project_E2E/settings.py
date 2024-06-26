@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/5.0/ref/settings/
 """
 
 from pathlib import Path
+import os
 
 from django.template.context_processors import static
 
@@ -29,6 +30,9 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+MEDIA_URL = '/media/'
+MEDIA_ROOT = os.path.join(BASE_DIR,'media')
+
 
 # Application definition
 
@@ -46,7 +50,8 @@ INSTALLED_APPS = [
     'forgotpassword.apps.ForgotpasswordConfig',
     'dashboard.apps.DashboardConfig',
     'complaintbox.apps.ComplaintboxConfig',
-    'FRS_attendance.apps.FrsAttendanceConfig',
+    'lostAndFound.apps.LostandfoundConfig',
+    # 'widget_tweaks'
 ]
 
 MIDDLEWARE = [
@@ -83,14 +88,32 @@ WSGI_APPLICATION = 'project_E2E.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/5.0/ref/settings/#databases
 
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'project_e2e',
+        'USER': 'postgres',
+        'PASSWORD': 'admin',
+        'HOST': 'localhost',
+        'PORT': '5432',
+    }
+}
 # DATABASES = {
-# 	'default': {
-# 		'ENGINE': 'django.db.backends.mysql',
-# 		'NAME': 'project_E2E',
-# 		'USER': 'root',
-# 		'PASSWORD': 'sarath',
-# 		'HOST':'localhost',
-# 	}
+#     'default': {
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': BASE_DIR / 'db.sqlite3',
+#     }
+# }
+
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.postgresql',
+#         'NAME': 'project_e2e',
+#         'USER': 'admin',
+#         'PASSWORD': 'admin',
+#         'HOST': 'localhost',
+#         'PORT': '5432',
+#     }
 # }
 
 DATABASES = {
@@ -166,4 +189,4 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'greviencevvit@gmail.com'
-EMAIL_HOST_PASSWORD = 'pvhr wbrs tmbv rxty'
+EMAIL_HOST_PASSWORD = 'pvhr wbrs tmbv rxty '
