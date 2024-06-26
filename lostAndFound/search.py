@@ -1,36 +1,25 @@
 from .models import LostItems,FoundItems
 from django.contrib.postgres.search import SearchQuery,SearchVector,SearchRank,TrigramSimilarity
 from .mail import sendMailTo
+from .bertSearch import matchSentence
 
 def SearchItems(data):
     item = None
     type = data.split('_')[0]
     if type == 'lost':
         item = LostItems.objects.get(submissionID = data)
-        query = item.itemName+' '+item.itemType+" "+item.keywords+" "+item.description
-        vector = SearchVector('itemName',
-                        'itemType',
-                        'keywords',
-                        'location',
-                        'time',
-                        'date',
-                        'description')
-        # search_query = SearchQuery(query)
-
-        # results = FoundItems.objects.annotate(
-        #         similarity = SearchRank(vector, search_query) +
-        #         TrigramSimilarity('description', query) +
-        #         TrigramSimilarity('itemName', query) +
-        #         TrigramSimilarity('itemType', query)+
-        #         TrigramSimilarity('keywords',query)
-        #         ).filter(similarity__gte=0.0001).order_by('-similarity')
-        results = FoundItems.objects.annotate(rank=SearchRank(vector, query)).filter(rank__gte=0.0001).order_by('-rank')
-        # return {
-        #     'name' : results.values('name'),
-        #     'contact' : results.values('contact')
-        # }
-        values = list(results.values())
-        print(item)
+        listOfIds = matchSentence(item,type)
+        values = [FoundItems.objects.get(submissionID = x) for x in listOfIds]
+        # query = item.itemName+' '+item.itemType+" "+item.keywords+" "+item.description
+        # vector = SearchVector('itemName',
+        #                 'itemType',
+        #                 'keywords',
+        #                 'location',
+        #                 'time',
+        #                 'date',
+        #                 'description')
+        # results = FoundItems.objects.annotate(rank=SearchRank(vector, query)).filter(rank__gte=0.0001).order_by('-rank')
+        # values = list(results.values())
         if len(values) == 0:
             print(1)
             return False
@@ -40,17 +29,18 @@ def SearchItems(data):
             return True
     elif type == 'found':
         item = FoundItems.objects.get(submissionID = data)
-        query = item.itemName+' '+item.itemType+" "+item.keywords+" "+item.description
-        vector = SearchVector('itemName',
-                        'itemType',
-                        'keywords',
-                        'location',
-                        'time',
-                        'date',
-                        'description')
-        results = LostItems.objects.annotate(rank=SearchRank(vector, query)).filter(rank__gte=0.0001).order_by('-rank')
-        values = list(results.values())
-        print(item.name)
+        listOfIds = matchSentence(item,type)
+        values = [LostItems.objects.get(submissionID = x) for x in listOfIds]
+        # query = item.itemName+' '+item.itemType+" "+item.keywords+" "+item.description
+        # vector = SearchVector('itemName',
+        #                 'itemType',
+        #                 'keywords',
+        #                 'location',
+        #                 'time',
+        #                 'date',
+        #                 'description')
+        # results = LostItems.objects.annotate(rank=SearchRank(vector, query)).filter(rank__gte=0.0001).order_by('-rank')
+        # values = list(results.values())
         if len(values) == 0:
             print(1)
             return False
