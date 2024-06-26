@@ -33,11 +33,11 @@ def SearchItems(data):
         print(item)
         if len(values) == 0:
             print(1)
-            return False
+            return [type,False]
         else:
             print(2)
             sendMailTo(item.email,item.submissionID,item.description,values)
-            return True
+            return [type,True]
     elif type == 'found':
         item = FoundItems.objects.get(submissionID = data)
         query = item.itemName+' '+item.itemType+" "+item.keywords+" "+item.description
@@ -53,11 +53,11 @@ def SearchItems(data):
         print(item.name)
         if len(values) == 0:
             print(1)
-            return False
+            return [type,False]
         else:
             print(2)
             sendMailTo(item.email,item.submissionID,item.description,values)
-            return True
+            return [type,True]
         
 
     return False
