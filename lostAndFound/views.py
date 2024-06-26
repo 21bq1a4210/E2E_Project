@@ -9,6 +9,7 @@ def LostandFound(request):
 def Lostform(request):
     if request.method == 'POST':
         form = LostItemForm(request.POST,request.FILES)
+        print(form.data)
         if form.is_valid():
             instance = form.save()
             return redirect('/lostandfound/searching/id={}'.format(instance.submissionID))

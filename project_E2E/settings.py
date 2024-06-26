@@ -48,7 +48,8 @@ INSTALLED_APPS = [
     'forgotpassword.apps.ForgotpasswordConfig',
     'dashboard.apps.DashboardConfig',
     'complaintbox.apps.ComplaintboxConfig',
-    'lostAndFound.apps.LostandfoundConfig'
+    'lostAndFound.apps.LostandfoundConfig',
+    'widget_tweaks'
 ]
 
 MIDDLEWARE = [
