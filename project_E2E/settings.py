@@ -143,7 +143,7 @@ USE_TZ = True
 STATIC_URL = 'static/'
 
 STATICFILES_DIRS = [
-    # BASE_DIR / "static",
+    BASE_DIR / "static",
     BASE_DIR / "chatbot/static",
     BASE_DIR / "complaintbox/static",
     BASE_DIR / "dashboard/static",
