@@ -12,6 +12,8 @@ https://docs.djangoproject.com/en/5.0/ref/settings/
 
 from pathlib import Path
 
+from django.template.context_processors import static
+
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -44,6 +46,7 @@ INSTALLED_APPS = [
     'forgotpassword.apps.ForgotpasswordConfig',
     'dashboard.apps.DashboardConfig',
     'complaintbox.apps.ComplaintboxConfig',
+    'FRS_attendance.apps.FrsAttendanceConfig',
 ]
 
 MIDDLEWARE = [
@@ -141,6 +144,14 @@ STATIC_URL = 'static/'
 
 STATICFILES_DIRS = [
     BASE_DIR / "static",
+    BASE_DIR / "chatbot/static",
+    BASE_DIR / "complaintbox/static",
+    BASE_DIR / "dashboard/static",
+    BASE_DIR / "forgotpassword/static",
+    BASE_DIR / "FRS_attendance/static",
+    BASE_DIR / "home/static",
+    BASE_DIR / "login/static",
+    BASE_DIR / "signup/static",
 ]
 
 # Default primary key field type
