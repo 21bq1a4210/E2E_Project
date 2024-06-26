@@ -79,4 +79,4 @@ class FoundItems(models.Model):
     time = models.TimeField(max_length=200, default=None)
     date = models.DateField(max_length=200, default=None)
     image = models.ImageField(max_length=200,null=True, blank=True, upload_to='founditems/')
-    description = models.CharField(default=None)
+    description = models.TextField(default=None)

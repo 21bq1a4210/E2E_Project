@@ -58,7 +58,7 @@
 #     return 
 
 from django.core.mail import EmailMultiAlternatives
-from django .conf import settings
+from django.conf import settings
 from email.mime.image import MIMEImage
 
 def sendMailTo(to,id,d,values):
@@ -100,6 +100,5 @@ def sendMailTo(to,id,d,values):
 
             
     msg.send()
-
 
     return
