@@ -39,6 +39,24 @@ def SearchItems(data):
             return True
     elif type == 'found':
         item = FoundItems.objects.get(submissionID = data)
+        query = item.itemName+' '+item.itemType+" "+item.keywords+" "+item.description
+        vector = SearchVector('itemName',
+                        'itemType',
+                        'keywords',
+                        'location',
+                        'time',
+                        'date',
+                        'description')
+        results = LostItems.objects.annotate(rank=SearchRank(vector, query)).filter(rank__gte=0.0001).order_by('-rank')
+        values = list(results.values())
+        if len(values) == 0:
+            print(1)
+            return False
+        else:
+            print(2)
+            sendMailTo(item,values)
+            return True
+        
 
     return False
 

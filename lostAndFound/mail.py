@@ -11,6 +11,7 @@ def sendMailTo(reporter,values):
     password = 'pvhr wbrs tmbv rxty '
     subject = "Found Item Notification"
     receiver = reporter.email
+    type = reporter.submissionID.split('_')[0]
     founders = ""
     image_paths = ['.'+settings.MEDIA_URL+i['image'] for i in values]
     print(image_paths)
@@ -29,7 +30,7 @@ def sendMailTo(reporter,values):
         <html>
         <body>
             <p>Dear User,</p>
-            <p>We are pleased to inform you that an items matching the description of your lost "{reporter.description}" has been found.</p>
+            <p>We are pleased to inform you that an items matching the description of your {type} "{reporter.description}" has been found.</p>
             {founders}
         </body>
         </html>

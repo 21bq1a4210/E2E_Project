@@ -1,18 +1,210 @@
-<!DOCTYPE html>
+<!-- {*<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+
+    body{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+        .lost-f-body{
+    height: inherit;
+    display: flex;
+}
+.lost-f-container{
+    margin: auto;
+}
+.lost-form{
+    width: 400px;
+}
+.l-f{
+    margin-top: 20px;
+    display:flex;
+    flex-direction: column;
+}
+.lfin{
+    margin-right: 0 px;
+}
+
+.lost-f-submit-in{
+    margin: auto;
+    margin-bottom: 20px;
+    height: 40px;
+    width:200px;
+    font-size: 20px;
+}
+
+    </style>
 </head>
 <body>
     <h1>Lost An Item ??</h1>
     <h3>Dont Worry . Report the item here we will search for you</h3>
     <form method="post" enctype="multipart/form-data">
         {% csrf_token %}
-        {{ form.as_p }}
-        <button type="submit">Submit</button>
+        <div class="lost-form">
+            <div class="lost-f-name l-f">
+                <label htmlFor="name" class="lost-f-name-label lflabel">Name:</label>
+                <input type="text" id="name" name="name" required class="lost-f-name-in lfin" onChange={handleName} />
+                 {{ form.name }}
+            </div>
+            <div class="lost-f-email l-f">
+                <label htmlFor="email" class="lost-f-email-label lflabel">Email:</label>
+                <input type="email" id="email" name="email" required class="lost-f-name-in lfin" onChange={handleEmail} />
+                 {{ form.email }}
+            </div>
+            <div class="lost-f-contact l-f">
+                <label htmlFor="contact" class="lost-f-contact-label lflabel">Contact:</label>
+                <input type="tel" id="contact" name="contact" pattern="[0-9]{10}" required class="lost-f-contact-in lfin" onChange={handleContact} />
+                 {{ form.contact }}
+            </div>
+            <div class="lost-f-itemName l-f">
+                <label htmlFor="itemName" class="lost-f-itemName-label lflabel" >Item Name:</label>
+                <input type="text" id="itemName" name="itemName" required class="lost-f-itemName lfin" onChange={handleItemname} />
+                 {{ form.itemName }}
+            </div>
+            <div class="lost-f-itemType l-f">
+                <label htmlFor="itemType" class="lost-f-itemType lflabel" >Item Type:</label>
+                <input type="text" id="itemType" name="itemType" required class="lost-f-itemType-in lfin" onChange={handleItemType} />
+                {{ form.itemType }}
+            </div>
+            <div class="lost-f-keywords l-f">
+                <label htmlFor="keywords" class="lost-f-keywords lflabel">Keywords:</label>
+                <input type="text" id="keywords" name="keywords" class="lost-f-keyword-in lfin" onChange={handleKeywords} />
+                {{ form.keywords }}
+            </div>
+            <div class="lost-f-location l-f">
+                <label htmlFor="location" class="lost-f-location-label lflabel" >Location:</label>
+                <input type="text" id="location" name="location" class="lost-f-location-in lfin" onChange={handleLocation} />
+                {{ form.location }}
+            </div>
+            <div class="lost-f-time l-f">
+                <label htmlFor="time" class="lost-f-time-label lflabel" >Time:</label>
+                <input type="time" id="time" name="time" class="lost-f-time-in lfin" onChange={handleTime} />
+                {{ form.time }}
+            </div>
+            <div class="lost-f-date l-f">
+                <label htmlFor="date" class="lost-f-date-label lflabel" >Date:</label>
+                <input type="date" id="date" name="date" class="lost-f-date-in lfin" onChange={handleDate} />
+                 {{ form.date }}
+            </div>
+            <div class="lost-f-image l-f" >
+                <label htmlFor="image" class="lost-f-image-label lflabel">Image:</label>
+                <input type="file" id="image" name="image" class="lost-f-image-in lfin" onChange={handleImage} />
+                 {{ form.image }}
+            </div>
+            <div class="lost-f-desc l-f" >
+                <label htmlFor="description" class="lost-f-desc-label lflabel" >Description:</label>
+                <textarea id="description" name="description" rows="4" cols="50" required class="lost-f-desc-in lfin"onChange={handleDesc}  ></textarea>
+                 {{ form.description }}
+            </div>
+            <div class="lost-f-submit l-f">
+                <button class="lost-f-submit-in lfin" >Submit</button>
+            </div>
+        </div>
+    </form>
+</body>
+</html> *} -->
+
+<!-- report_lost_item.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Report Lost Item</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .lost-f-body {
+            height: inherit;
+            display: flex;
+        }
+        .lost-f-container {
+            margin: auto;
+        }
+        .lost-form {
+            width: 400px;
+        }
+        .l-f {
+            margin-top: 20px;
+            display: flex;
+            flex-direction: column;
+        }
+        .lfin {
+            margin-right: 0px;
+        }
+        .lost-f-submit-in {
+            margin: auto;
+            margin-bottom: 20px;
+            height: 40px;
+            width: 200px;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Lost An Item ??</h1>
+    <h3>Don't Worry. Report the item here, and we will search for you.</h3>
+    <form method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        <div class="lost-form">
+            <div class="lost-f-name l-f">
+                <label for="name" class="lost-f-name-label lflabel">Name:</label>
+                {{ form.name }}
+            </div>
+            <div class="lost-f-email l-f">
+                <label for="email" class="lost-f-email-label lflabel">Email:</label>
+                {{ form.email }}
+            </div>
+            <div class="lost-f-contact l-f">
+                <label for="contact" class="lost-f-contact-label lflabel">Contact:</label>
+                {{ form.contact }}
+            </div>
+            <div class="lost-f-itemName l-f">
+                <label for="itemName" class="lost-f-itemName-label lflabel">Item Name:</label>
+                {{ form.itemName }}
+            </div>
+            <div class="lost-f-itemType l-f">
+                <label for="itemType" class="lost-f-itemType lflabel">Item Type:</label>
+                {{ form.itemType }}
+            </div>
+            <div class="lost-f-keywords l-f">
+                <label for="keywords" class="lost-f-keywords lflabel">Keywords:</label>
+                {{ form.keywords }}
+            </div>
+            <div class="lost-f-location l-f">
+                <label for="location" class="lost-f-location-label lflabel">Location:</label>
+                {{ form.location }}
+            </div>
+            <div class="lost-f-time l-f">
+                <label for="time" class="lost-f-time-label lflabel">Time:</label>
+                {{ form.time }}
+            </div>
+            <div class="lost-f-date l-f">
+                <label for="date" class="lost-f-date-label lflabel">Date:</label>
+                {{ form.date }}
+            </div>
+            <div class="lost-f-image l-f">
+                <label for="image" class="lost-f-image-label lflabel">Image:</label>
+                {{ form.image }}
+            </div>
+            <div class="lost-f-desc l-f">
+                <label for="description" class="lost-f-desc-label lflabel">Description:</label>
+                {{ form.description }}
+            </div>
+            <div class="lost-f-submit l-f">
+                <button class="lost-f-submit-in lfin">Submit</button>
+            </div>
+        </div>
     </form>
 </body>
 </html>
