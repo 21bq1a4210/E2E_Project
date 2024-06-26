@@ -77,6 +77,7 @@ def sendMailTo(to,id,d,values):
                 <p>Finder's Name : <strong>{i['name']} </strong></p>
                 <p> Contact Email : <strong>{i['email']} </strong></p>
                 <p>Contact Number : <strong>{i['contact']}</strong></p>
+                <p>Description : <strong>{i['description']}</strong>
                 <p>Here is the Image of what they have found : </p>
                 <p><img src = "cid:image{j}" alt = "Image {j}"></p>"""
         j += 1
