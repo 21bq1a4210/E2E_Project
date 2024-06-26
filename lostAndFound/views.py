@@ -13,6 +13,9 @@ def Lostform(request):
         if form.is_valid():
             instance = form.save()
             return redirect('/lostandfound/searching/id={}'.format(instance.submissionID))
+        else:
+            errors = form.errors.as_json()
+            print(f'ERRORS  = {errors}')
     return render(request,'lostform.html',{'form':LostItemForm})
 def Foundform(request):
     if request.method == 'POST':
