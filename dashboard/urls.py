@@ -8,5 +8,5 @@ urlpatterns = [
     path("feedback/", views.feedback, name='feedback'),
     path("", include("complaintbox.urls")),
     path("", include("chatbot.urls")),
-
+    path("", include("lostAndFound.urls")),
 ]

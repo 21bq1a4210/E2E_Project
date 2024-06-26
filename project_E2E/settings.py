@@ -51,6 +51,7 @@ INSTALLED_APPS = [
     'dashboard.apps.DashboardConfig',
     'complaintbox.apps.ComplaintboxConfig',
     'lostAndFound.apps.LostandfoundConfig',
+    'FRS_attendance.apps.FrsAttendanceConfig',
     # 'widget_tweaks'
 ]
 
