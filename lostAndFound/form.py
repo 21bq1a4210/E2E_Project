@@ -19,7 +19,6 @@ class LostItemForm(forms.ModelForm):
         widgets = {
             'date': forms.DateInput(attrs={'type': 'date'}),
             'time': forms.TimeInput(attrs={'type': 'time'}),
-            # 'image': forms.FileInput(attrs={'type':'image'})
         }
 
 class FoundItemForm(forms.ModelForm):

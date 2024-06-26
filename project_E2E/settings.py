@@ -13,6 +13,8 @@ https://docs.djangoproject.com/en/5.0/ref/settings/
 from pathlib import Path
 import os
 
+from django.template.context_processors import static
+
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -49,7 +51,8 @@ INSTALLED_APPS = [
     'dashboard.apps.DashboardConfig',
     'complaintbox.apps.ComplaintboxConfig',
     'lostAndFound.apps.LostandfoundConfig',
-    'widget_tweaks'
+    'FRS_attendance.apps.FrsAttendanceConfig',
+    # 'widget_tweaks'
 ]
 
 MIDDLEWARE = [
@@ -86,15 +89,16 @@ WSGI_APPLICATION = 'project_E2E.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/5.0/ref/settings/#databases
 
-# DATABASES = {
-# 	'default': {
-# 		'ENGINE': 'django.db.backends.mysql',
-# 		'NAME': 'project_E2E',
-# 		'USER': 'root',
-# 		'PASSWORD': 'sarath',
-# 		'HOST':'localhost',
-# 	}
-# }
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'project_e2e',
+        'USER': 'postgres',
+        'PASSWORD': 'admin',
+        'HOST': 'localhost',
+        'PORT': '5432',
+    }
+}
 # DATABASES = {
 #     'default': {
 #         'ENGINE': 'django.db.backends.sqlite3',
@@ -102,11 +106,22 @@ WSGI_APPLICATION = 'project_E2E.wsgi.application'
 #     }
 # }
 
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.postgresql',
+#         'NAME': 'project_e2e',
+#         'USER': 'admin',
+#         'PASSWORD': 'admin',
+#         'HOST': 'localhost',
+#         'PORT': '5432',
+#     }
+# }
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'project_e2e',
-        'USER': 'admin',
+        'USER': 'postgres',
         'PASSWORD': 'admin',
         'HOST': 'localhost',
         'PORT': '5432',
@@ -153,6 +168,14 @@ STATIC_URL = 'static/'
 
 STATICFILES_DIRS = [
     BASE_DIR / "static",
+    BASE_DIR / "chatbot/static",
+    BASE_DIR / "complaintbox/static",
+    BASE_DIR / "dashboard/static",
+    BASE_DIR / "forgotpassword/static",
+    BASE_DIR / "FRS_attendance/static",
+    BASE_DIR / "home/static",
+    BASE_DIR / "login/static",
+    BASE_DIR / "signup/static",
 ]
 
 # Default primary key field type

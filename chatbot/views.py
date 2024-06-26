@@ -1,34 +1,18 @@
-from django.shortcuts import render,redirect
-from django.http import HttpResponse
+# views.py
+from django.shortcuts import render
+from django.http import JsonResponse
+import json
+from .gemini_model import chat  # Adjust the import according to your project structure
 
-# Create your views here.
-# from chatterbot import ChatBot
-# from chatterbot.trainers import ListTrainer
-# bot=ChatBot('VVIT chatbot',read_only=False,
-#             logic_adapters=[
-#                 {
-#                     'import_path':'chatterbot.logic.BestMatch',
-#                     'default_response':'Sorry,I dont know what you are asking for',
-#                     'maximim_similarity_threshold':0.90
-#                 }])
-# list_to_train=[
-#     "Hi",
-#     "Hi, there",
-#     "what's your name",
-#     "I'm VVIT Chatbot",
-#     "where is vvit located?",
-#     "VVIT is located in Nambur",
-#
-# ]
-#
-# list_trainer=ListTrainer(bot)
-# list_trainer.train(list_to_train)
+def chatbot_page(request):
+    return render(request, 'chatbot.html')
 
-def index(request):
-    return render(request,'blog/index.html')
-def specific(request):
-    return HttpResponse("this is the specific url")
-def getResponse(request):
-    userMessage = request.GET.get('userMessage')
-    chatResponse = str(bot.get_response(userMessage))
-    return HttpResponse(chatResponse)
+def chatbot_response(request):
+    if request.method == 'POST':
+        data = json.loads(request.body)
+        user_message = data.get('message')
+        if user_message:
+            bot_response = chat(user_message)
+            return JsonResponse({'response': bot_response}, status=200)
+        return JsonResponse({'error': 'No message provided'}, status=400)
+    return JsonResponse({'error': 'Invalid request method'}, status=405)

@@ -37,5 +37,6 @@ def search(request):
     if request.method == 'POST':
         data = json.loads(request.body)
         id = data.get('id')
-        got = SearchItems(id)
-        return JsonResponse({"status":got})
+        type,got = SearchItems(id)
+        return JsonResponse({"status":got,
+                             'type':type})

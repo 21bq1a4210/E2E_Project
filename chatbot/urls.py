@@ -1,8 +1,9 @@
-from django.urls import path
+# urls.py
+from django.urls import path, include
 from . import views
 
 urlpatterns = [
-    path('',views.index,name='index'),
-    path('specific',views.specific,name='specific'),
-    path('getResponse',views.getResponse,name='getResponse')
+    path('chatbot/', views.chatbot_page, name='chatbot_page'),
+    path('chatbot-response/', views.chatbot_response, name='chatbot_response'),
+    # path("", include("dashboard.urls")),
 ]

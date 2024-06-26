@@ -1,45 +1,35 @@
-import smtplib
-from email.message import EmailMessage
-import ssl
+from django.core.mail import send_mail
+from django.conf import settings
 
-class SendMail:
-    def __init__(self, data):
-        self.data = data
-        self.sender = 'greviencevvit@gmail.com'
-        self.password = 'Saketh@4230'
 
-    def setMail(self, receiver, subject, body):
-        mail = EmailMessage()
-        mail['From'] = self.sender
-        mail['To'] = receiver
-        mail['subject'] = subject
-        mail.set_content(body)
-
-        context = ssl.create_default_context()
-
-        with smtplib.SMTP_SSL('smtp.gmail.com', 465, context=context) as smtp:
-            smtp.login(self.sender, self.password)
-            smtp.sendmail(self.sender, receiver, mail.as_string())
+class SentOTP:
+    def __init__(self, mail_data):
+        self.sender = settings.EMAIL_HOST_USER
+        self.receiver = mail_data['email']
+        self.subject = 'Your OTP'
+        self.body = f"OTP: {mail_data['otp']}"
 
     def sendMail(self):
-        receiver = self.data['email']
-        subject = 'Your OTP Code'
-        body = self.data['otp']  # Assuming the OTP is passed in the data dictionary
-        self.setMail(receiver, subject, body)
+        send_mail(
+            self.subject,
+            self.body,
+            self.sender,
+            [self.receiver],
+            fail_silently=False,
+        )
+
 
 if __name__ == "__main__":
-    # Assuming 'data' contains the required information
-    data = {
-        # 'name': 'John Doe',
-        # 'year': '2nd',
-        # 'who': 'student',
-        # 'dept': 'CSE',
-        # 'reg_number': '123456',
-        'email': '21bq1a4210@vvit.net',
-        # 'type_of_grievance': 'Academic',
-        # 'complant': 'I have a concern about the course material.'
-    }
+    import django
+    import os
 
-    # Create an instance of the SendMail class with 'data'
-    mail = SendMail(data)
-    print("mail send")
+    # Ensure Django settings are configured
+    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'project_E2E.settings')
+    django.setup()
+
+    data = {
+        'email': '21bq1a4210@vvit.net',
+        'otp': 12345,
+    }
+    SentOTP(data).sendMail()
+    print('Mail sent')
