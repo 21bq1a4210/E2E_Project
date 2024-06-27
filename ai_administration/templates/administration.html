@@ -1,0 +1,12 @@
+<html lang="en">
+    <body>
+        <form action="{% url 'ai_administration:ai_administration' %}" method="post" enctype="multipart/form-data">
+            {% block content %}
+                {% csrf_token %}
+            <input type="text" id="full_user_prompt" name="full_user_prompt" label="Query: " />
+            <input type="submit">
+            {% endblock content %}
+        </form>
+    </body>
+</html>
+
