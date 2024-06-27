@@ -44,7 +44,7 @@ def matchSentence(item,type):
         inventory = FoundItems.objects.all()
     elif type == "found":
         inventory = LostItems.objects.all()
-    sentences = [i.itemName+' '+i.itemType+" "+i.keywords+" "+i.description +'@'+i.submissionID for i in inventory]
+    sentences = [(i, i.itemName+' '+i.itemType+" "+i.keywords+" "+i.description +'@'+i.submissionID) for i in inventory]
     print(f"target sentence = {target_sentence} sentence = {sentences}")
     
     if sentences != []:
@@ -56,22 +56,24 @@ def matchSentence(item,type):
 
         similarities = []
 
-        for sentence in sentences:
+        for item, sentence in sentences:
             encoded_sentence = encode_text(sentence)
             with torch.no_grad():
                 sentence_output = model(**encoded_sentence)
                 sentence_embedding = mean_pooling(sentence_output, encoded_sentence['attention_mask'])
             
             similarity_score = cosine_similarity(target_embedding, sentence_embedding)[0][0]
-            similarities.append([sentence, similarity_score])
+            similarities.append([item, sentence, similarity_score])
 
         # Find the most similar sentence
         print(similarities)
         if similarities != []:
-            mostSimilarSentence = [x for x in similarities if x[1] > 0.6 ]
-            mostSimilarSentence.sort(key=lambda x:x[1])
-            mostSimilarSentence = mostSimilarSentence[:5]
-            return [x[0].split('@')[1] for x in mostSimilarSentence]
+            similarities = [x for x in similarities if x[2] > 0.6 ]
+            similarities.sort(key=lambda x:x[2])
+            similarities = similarities[:5]
+            return [x[0] for x in similarities]
+        else:
+            return False
         # most_similar_sentence = max(similarities, key=lambda item: item[1])
         # print(f"Most similar sentence: {most_similar_sentence[0]} with similarity score: {most_similar_sentence[1]}")
 
