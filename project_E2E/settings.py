@@ -49,7 +49,6 @@ INSTALLED_APPS = [
     'dashboard.apps.DashboardConfig',
     'complaintbox.apps.ComplaintboxConfig',
     'lostAndFound.apps.LostandfoundConfig',
-    'widget_tweaks'
 ]
 
 MIDDLEWARE = [

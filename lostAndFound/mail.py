@@ -68,16 +68,15 @@ def sendMailTo(to,id,d,values):
     from_email = settings.EMAIL_HOST_USER
     founders = ""
     j = 0
-    # type = reporter.submissonID.split('_')[0]
     print(id)
-    image_paths = [(f'image{j}','.'+settings.MEDIA_URL+i['image']) for j,i in enumerate(values)]
+    image_paths = [(f'image{j}','.'+i.image.url) for j,i in enumerate(values)]
     print(image_paths)
     for i in values:
         founders += f"""
-                <p>Finder's Name : <strong>{i['name']} </strong></p>
-                <p> Contact Email : <strong>{i['email']} </strong></p>
-                <p>Contact Number : <strong>{i['contact']}</strong></p>
-                <p>Description : <strong>{i['description']}</strong>
+                <p>Finder's Name : <strong>{i.name} </strong></p>
+                <p> Contact Email : <strong>{i.email} </strong></p>
+                <p>Contact Number : <strong>{i.contact}</strong></p>
+                <p>Description : <strong>{i.description}</strong>
                 <p>Here is the Image of what they have found : </p>
                 <p><img src = "cid:image{j}" alt = "Image {j}"></p>"""
         j += 1
