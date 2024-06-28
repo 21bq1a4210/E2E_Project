@@ -21,6 +21,7 @@
             }
             return cookieValue;
         }
+        
         function checkSearch(){
             const csrf_token = getCookie('csrftoken')
             const queryString = window.location.href
@@ -45,14 +46,6 @@
                     console.log(data[0])
                 }
             })
-            // .then(res => {
-            //     console.log(isNaN(res[0]))
-            //     return res
-            // })
-            // .then(data => {
-            //     document.getElementById("body").innerHTML = data.status[0];
-            //     console.log(data.status[0]);
-            // })
             .catch(error => {
                 console.error('Error:', error);
             });
