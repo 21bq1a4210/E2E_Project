@@ -79,6 +79,7 @@ def predict(request):
             if not cropped_faces:
                 return JsonResponse({'message': 'No faces detected'})
 
+            recognized_names = []
             for face, (x, y, w, h) in cropped_faces:
                 # Preprocess the cropped face
                 img_array = load_and_preprocess_image(face, target_size=(224, 224))
@@ -87,22 +88,9 @@ def predict(request):
                 predictions = model.predict(img_array)
                 pred_idx = np.argmax(predictions[0])
                 predicted_label = class_names[pred_idx]
+                recognized_names.append(predicted_label)
 
-                # Draw bounding box and label on the original image
-                cv2.rectangle(original_img, (x, y), (x + w, y + h), (255, 0, 0), 2)
-                cv2.putText(original_img, predicted_label, (x, y - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (255, 0, 0), 2)
-
-                # Mark attendance
-                user = get_object_or_404(User, username=predicted_label)
-                attendance, created = Attendance.objects.get_or_create(user=user, date=timezone.now().date())
-                if not created:
-                    attendance.status = 'Present'
-                    attendance.save()
-
-            _, buffer = cv2.imencode('.jpg', original_img)
-            img_str = base64.b64encode(buffer).decode('utf-8')
-
-            return JsonResponse({'message': 'Face recognized', 'image': img_str})
+            return JsonResponse({'message': 'Face recognized', 'names': recognized_names})
 
         except json.JSONDecodeError as e:
             return JsonResponse({'message': 'Invalid JSON data', 'error': str(e)})
@@ -116,12 +104,3 @@ def predict(request):
 
 def face_recognition(request):
     return render(request, 'face-1.html')
-
-
-def mark_attendance(request, username):
-    user = get_object_or_404(User, username=username)
-    attendance, created = Attendance.objects.get_or_create(user=user, date=timezone.now().date())
-    if not created:
-        attendance.status = 'Present'
-        attendance.save()
-    return JsonResponse({'message': f'Attendance marked for {user.username}'})

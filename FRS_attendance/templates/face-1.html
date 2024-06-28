@@ -94,9 +94,7 @@
                 <aside class="col-md-4">
                     <div class="card p-3">
                         <h3>Student Details</h3>
-                        <p>Name: John Doe</p>
-                        <p>ID: 123456</p>
-                        <p>Class: 10A</p>
+                        <p id="student-details">Name: John Doe</p>
                         <!-- Add more student details as needed -->
                     </div>
                 </aside>
@@ -113,6 +111,7 @@
         const faceRecognition = document.getElementById('face-recognition');
         const captureButton = document.getElementById('capture-button');
         const messageDiv = document.getElementById('message');
+        const studentDetails = document.getElementById('student-details');
 
         faceRecognition.addEventListener('click', () => {
             videoContainer.classList.remove('d-none');
@@ -155,7 +154,13 @@
             })
             .then(response => response.json())
             .then(data => {
-                displayMessage(data.message);
+                if (data.message === 'Face recognized') {
+                    const names = data.names.join(', ');
+                    studentDetails.textContent = `Names: ${names}`;
+                } else {
+                    studentDetails.textContent = data.message;
+                }
+                messageDiv.classList.remove('d-none');
             })
             .catch(error => {
                 console.error('Error:', error);
