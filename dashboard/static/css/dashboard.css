@@ -120,7 +120,8 @@ body {
     margin-top: 13.5rem;
     font-family: 'Exo', sans-serif;
     /* img size is 50x50 */
-    background: url("../images/vvit_drone_4k-min.jpeg");
+    /*background: url("../images/vvit_drone_4k-min.jpeg");*/
+    background: #AF755F;
     /*-webkit-animation: bg-scrolling-reverse 0.92s infinite;*/
     /*!* Safari 4+ *!*/
     /*-moz-animation: bg-scrolling-reverse 0.92s infinite;*/
@@ -142,6 +143,8 @@ body::before {
     font-size: 8rem;
     font-weight: 100;
     font-style: normal;
+    background: #AF755F;
+
 }
 .card1{
     background-color: transparent;

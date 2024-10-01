@@ -2,7 +2,8 @@ from django.urls import path
 from . import views
 
 urlpatterns = [
-    path('predict/', views.predict, name='predict'),
-    path('mark_attendance/<str:username>/', views.mark_attendance, name='mark_attendance'),
-    path('face_recognition/', views.face_recognition, name='face_recognition'),  # Add this line
+    path('face_recognition/', views.face_recognition_page, name='face_recognition_page'),
+    path('check_registration/', views.check_registration, name='check_registration'),
+    path('register_face/', views.register_face, name='register_face'),
+    path('mark_attendance/', views.mark_attendance, name='mark_attendance'),
 ]
