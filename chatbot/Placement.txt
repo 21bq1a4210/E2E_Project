@@ -1,0 +1,427 @@
+# Placement Profile:
+```
+    VVIT is a top-notch engineering college in Andhra Pradesh and enjoys all prestigious accreditation. We offer B. Tech programs in new branches of technology like Artificial Intelligence and Data Science, Artificial Intelligence and Machine Learning, CSE Machine Learning, CSE Internet of Things and CSE- Cyber Security, Internet of Things with Blockchain Technology apart from the regular branches of EEE, ECE, CSE, IT, Civil and Mechanical Engineering.
+    We take immense pride in developing highly skilled and motivated individuals who are well-trained in Industry Micro-Credentials to contribute to various industries with high-demand skills. We have consistently produced graduates who possess a strong academic foundation, critical thinking abilities, and a dedication to excellence through aligning with emerging industry needs. The recently held Y20 Summit youth talk on the future of work – Industry 4.0, innovation and 21st Century Skills by G20 and Bharath Block-chain Yatra organized by Information Data Systems (IDS) Sponsored by AICTE are noteworthy examples of VVIT efforts..
+```
+
+# Placement Report for Academic Year 2022-23:
+```
+    ## Top Recruiters:
+    ```
+        - Amazon WOW: 2 students, salary package: Rs. 44 LPA
+        - Morgan Stanley: 1 student, salary package: Rs. 29.8 LPA
+        - Google: 1 student, salary package: Rs. 24 LPA
+        - BNY Mellon Technology Private Limited: 1 student, salary package: Rs. 22 LPA
+        - IBM: 1 student, salary package: Rs. 11 LPA
+    ```
+
+    ## Other Recruiters:
+    ```
+        - Salesforce: 5 students, salary package: Rs. 8.25 LPA
+        - Value labs-SD: 2 students, salary package: Rs. 8 LPA
+        - SOTI: 1 student, salary package: Rs. 8 LPA
+        - DRAG AND DROP: 2 students, salary package: Rs. 8 LPA
+        - WeCP Pvt. Ltd.: 1 student, salary package: Rs. 8 LPA
+        - Virtusa CoE-PC: 2 students, salary package: Rs. 7 LPA
+        - TCS-Digital: 14 students, salary package: Rs. 7 LPA
+        - HYUNDAI: 3 students, salary package: Rs. 6.8 LPA
+        - CTS GenC Next: 26 students, salary package: Rs. 6.75 LPA
+        - INFOR: 1 student, salary package: Rs. 6.67 LPA
+        - Hexaware: 2 students, salary package: Rs. 6 LPA
+        - SOCTRONICS: 1 student, salary package: Rs. 6 LPA
+        - Accolite Digital: 2 students, salary package: Rs. 6 LPA
+    ```
+
+    ## Complete List of Recruiters:
+    ```
+        - AverQ Tech: 1 student, salary package: Rs. 4.2 LPA
+        - CYIENT: 1 student, salary package: Rs. 4.2 LPA
+        - CTS Gen C: 131 students, salary package: Rs. 4 LPA
+        - KJ Systems: 17 students, salary package: Rs. 4 LPA
+        - Delta Technologies: 11 students, salary package: Rs. 4 LPA
+        - SMART ROTAMACH: 1 student, salary package: Rs. 4 LPA
+        - EDUSTATION: 5 students, salary package: Rs. 4 LPA
+        - Infosys: 2 students, salary package: Rs. 4 LPA
+        - Tecnics Reunidas Engineers Pvt Ltd: 1 student, salary package: Rs. 4 LPA
+        - TCS-Ninja: 6 students, salary package: Rs. 3.6 LPA
+        - Vem Technologies: 4 students, salary package: Rs. 3.6 LPA
+        - Infosys-SE: 104 students, salary package: Rs. 3.6 LPA
+        - Vintrus Edu tech: 6 students, salary package: Rs. 3.6 LPA
+        - Vintrus Edutech: 8 students, salary package: Rs. 3.6 LPA
+        - Tech Mahindra: 17 students, salary package: Rs. 3.5 LPA
+        - IMEG(OC-VRS): 1 student, salary package: Rs. 3.5 LPA
+        - SDVVL: 5 students, salary package: Rs. 3.5 LPA
+        - Clarivate Analytics: 1 student, salary package: Rs. 3.5 LPA
+        - TCS - SALESFORCE: 5 students, salary package: Rs. 3.36 LPA
+        - ATMECS: 2 students, salary package: Rs. 3.25 LPA
+        - HCL Technologies: 2 students, salary package: Rs. 3.25 LPA
+        - APARNA Constructions: 2 students, salary package: Rs. 3.2 LPA
+        - KODNEST(CSR DRIVE): 8 students, salary package: Rs. 3 LPA
+        - EXCEL R: 27 students, salary package: Rs. 3 LPA
+        - Qspiders: 10 students, salary package: Rs. 3 LPA
+        - NQC LABS: 5 students, salary package: Rs. 3 LPA
+        - FUCTCH Technology PVT LTD: 1 student, salary package: Rs. 3 LPA
+        - MOLD TEK: 1 student, salary package: Rs. 3 LPA
+        - VolTech Pvt Ltd: 6 students, salary package: Rs. 3 LPA
+        - Verzeo Edutech: 5 students, salary package: Rs. 3 LPA
+        - D.E.P: 8 students, salary package: Rs. 3 LPA
+        - Conflux Systems Inc.: 4 students, salary package: Rs. 2.6 LPA
+        - Efftronics: 7 students, salary package: Rs. 2.5 LPA
+        - ISUZU Motors: 32 students, salary package: Rs. 2.5 LPA
+        - MAHINDRA(GOWRA Aerospace): 5 students, salary package: Rs. 2.5 LPA
+        - ITC Ltd: 10 students, salary package: Rs. 2.5 LPA
+        - PVS STRUCTECH: 2 students, salary package: Rs. 2.5 LPA
+        - ACE BIM Solutions: 6 students, salary package: Rs. 2.5 LPA
+        - Transcendence PVT. LTD: 2 students, salary package: Rs. 2.5 LPA
+        - SPM: 11 students, salary package: Rs. 2.5 LPA
+        - Skolar Edtech Pvt Ltd: 5 students, salary package: Rs. 2.5 LPA
+        - Just Dial Ltd: 7 students, salary package: Rs. 2.5 LPA
+        - Academor: 6 students, salary package: Rs. 2.5 LPA
+        - Robo labs: 6 students, salary package: Rs. 2.5 LPA
+        - RAP: 7 students, salary package: Rs. 2.5 LPA
+        - NUCON Aerospace: 1 student, salary package: Rs. 2.5 LPA
+        - Q-Get Financial Technologies India Pvt Ltd: 2 students, salary package: Rs. 2.4 LPA
+        - NAVA: 8 students, salary package: Rs. 2.4 LPA
+        - Sriyan Constructions: 1 student, salary package: Rs. 2.4 LPA
+        - Dalmia Cements: 1 student, salary package: Rs. 2.4 LPA
+        - Universal Automation: 5 students, salary package: Rs. 2.16 LPA
+        - Formonictechnologies Pvt Ltd: 1 student, salary package: Rs. 2.16 LPA
+        - Young Mind Technologies: 1 student, salary package: Rs. 2 LPA
+        - Srinfotech: 3 students, salary package: Rs. 2 LPA
+        - Growcontrol Induction: 2 students, salary package: Rs. 1.5 LPA
+    ```
+
+    Placement Summary:
+    ```
+        - Total number of offers: 813
+        - Total number of placements (head count): 644
+        - Average salary package: Rs. 4.38 LPA
+    ```
+```
+
+# Branch wise placement:
+```
+    ## Civil Engineering:
+    ```
+        ### 2023:
+        ```
+            - Head Count (Placements): 46
+            - Higher Education: 3
+            - Entrepreneurship: 0
+            - Total Outcomes: 49
+            - Total Students Enrolled: 116
+            - Final Course Outcome Percentage: 42.24% (49/116)
+        ```
+
+        ### 2022:
+        ```
+            - Head Count (Placements): 56
+            - Higher Education: 4
+            - Entrepreneurship: 0
+            - Total Outcomes: 60
+            - Total Students Enrolled: 104
+            - Final Course Outcome Percentage: 57.69% (60/104)
+        ```
+
+        ### 2021:
+        ```
+            - Head Count (Placements): 41
+            - Higher Education: 15
+            - Entrepreneurship: 0
+            - Total Outcomes: 56
+            - Total Students Enrolled: 92
+            - Final Course Outcome Percentage: 60.87% (56/92)
+        ```
+
+    ## CSE:
+    ```
+        ### 2023:
+        ```
+            - Head Count (Placements): 168
+            - Higher Education: 40
+            - Entrepreneurship: 0
+            - Total Outcomes: 208
+            - Total Students Enrolled: 277
+            - Final Course Outcome Percentage: 75.09% (208/277)
+        ```
+
+        ### 2022:
+        ```
+            - Head Count (Placements): 197
+            - Higher Education: 28
+            - Entrepreneurship: 0
+            - Total Outcomes: 225
+            - Total Students Enrolled: 261
+            - Final Course Outcome Percentage: 86.21% (225/261)
+        ```
+
+        ### 2021:
+        ```
+            - Head Count (Placements): 164
+            - Higher Education: 25
+            - Entrepreneurship: 0
+            - Total Outcomes: 189
+            - Total Students Enrolled: 243
+            - Final Course Outcome Percentage: 77.78% (189/243)
+        ```
+    ```
+
+    ## EEE:
+    ```
+        ### 2023:
+        ```
+            - Head Count (Placements): 113
+            - Higher Education: 6
+            - Entrepreneurship: 0
+            - Total Outcomes: 119
+            - Total Students Enrolled: 197
+            - Final Course Outcome Percentage: 60.41% (119/197)
+        ```
+
+        ### 2022:
+        ```
+            - Head Count (Placements): 109
+            - Higher Education: 16
+            - Entrepreneurship: 0
+            - Total Outcomes: 125
+            - Total Students Enrolled: 193
+            - Final Course Outcome Percentage: 64.77% (125/193)
+        ```
+
+        ### 2021:
+        ```
+            - Head Count (Placements): 74
+            - Higher Education: 13
+            - Entrepreneurship: 0
+            - Total Outcomes: 87
+            - Total Students Enrolled: 137
+            - Final Course Outcome Percentage: 63.50% (87/137)
+        ```
+    ```
+    ## Mechanical:
+    ```
+        ### 2023:
+        ```
+            - Head Count (Placements): 100
+            - Higher Education: 10
+            - Entrepreneurship: 0
+            - Total Outcomes: 110
+            - Total Students Enrolled: 188
+            - Final Course Outcome Percentage: 58.51% (110/188)
+        ```
+
+        ### 2022:
+        ```
+            - Head Count (Placements): 89
+            - Higher Education: 13
+            - Entrepreneurship: 0
+            - Total Outcomes: 102
+            - Total Students Enrolled: 173
+            - Final Course Outcome Percentage: 58.96% (102/173)
+        ```
+
+        ### 2021:
+        ```
+            - Head Count (Placements): 68
+            - Higher Education: 15
+            - Entrepreneurship: 0
+            - Total Outcomes: 83
+            - Total Students Enrolled: 135
+            - Final Course Outcome Percentage: 61.48% (83/135)
+        ```
+    ```
+    ## ECE:
+    ```
+        ### 2023:
+        ```
+            - Head Count (Placements): 122
+            - Higher Education: 6
+            - Entrepreneurship: 0
+            - Total Outcomes: 128
+            - Total Students Enrolled: 189
+            - Final Course Outcome Percentage: 67.72% (128/189)
+        ```
+
+        ### 2022:
+        ```
+            - Head Count (Placements): 146
+            - Higher Education: 6
+            - Entrepreneurship: 0
+            - Total Outcomes: 152
+            - Total Students Enrolled: 211
+            - Final Course Outcome Percentage: 72.04% (152/211)
+        ```
+
+        ### 2021:
+        ```
+            - Head Count (Placements): 96
+            - Higher Education: 24
+            - Entrepreneurship: 0
+            - Total Outcomes: 120
+            - Total Students Enrolled: 217
+            - Final Course Outcome Percentage: 55.30% (120/217)
+        ```
+    ```
+    ## IT:
+    ```
+        ### 2023:
+        ```
+            - Head Count (Placements): 95
+            - Higher Education: 52
+            - Entrepreneurship: 0
+            - Total Outcomes: 147
+            - Total Students Enrolled: 204
+            - Final Course Outcome Percentage: 72.06% (147/204)
+        ```
+
+        ### 2022:
+        ```
+            - Head Count (Placements): 129
+            - Higher Education: 20
+            - Entrepreneurship: 0
+            - Total Outcomes: 149
+            - Total Students Enrolled: 176
+            - Final Course Outcome Percentage: 84.66% (149/176)
+        ```
+
+        ### 2021:
+        ```
+            - Head Count (Placements): 95
+            - Higher Education: 30
+            - Entrepreneurship: 0
+            - Total Outcomes: 125
+            - Total Students Enrolled: 165
+            - Final Course Outcome Percentage: 75.76% (125/165)
+        ```
+    ```
+```
+
+# Training & Placement Team:
+```
+    ## Faculty Members:
+    ```
+        1. Prof. M. V. Raghu Ram - Professor and Dean - Placements
+        2. Dr. Madhav U - Associate Professor and Head, Training & Placement
+        3. Mr. Subba Reddy Y V - Assistant Professor and Central In-charge - Internships
+    ```
+    ## Trainers:
+    ```
+        1. Dr. Prasanna Anjaneyulu P - Associate Professor and Trainer - Reasoning Ability
+        2. Dr. Nirmal D B - Associate Professor and Trainer - Quantitative Ability
+        3. Dr. Pawel Veliventi - Associate Professor and Trainer - Soft Skills
+        4. Mr. Eashwar Nath Rathod - Assistant Professor and Trainer - Soft Skills
+        5. Ms. Priyanka D - Assistant Professor and Trainer - Reasoning Ability
+        6. Mr. Govinda Raju G - Assistant Professor and Trainer - Quantitative Ability
+        7. Mr. Akbar Saleem Shaik - Assistant Professor and Trainer - Quant & Reasoning Ability
+        8. Mr. Poorna Chandra Rao M - Assistant Professor and Trainer - Quantitative Ability
+    ```
+    ## Support Staff:
+    ```
+        1. Mr. Satish G - Office Coordinator
+    ```
+```
+# Department Placement Coordinators:
+```
+    1. Civil Department:
+        - Mr. Naiyer Noor Ibrahim, Assistant Professor
+        - Mobile: 6300969337
+        - Email: nooribrahim@vvit.net, sk.ibm897@gmail.com
+
+
+    2. Electrical and Electronics Engineering (EEE) Department:
+        - Dr. Ch. Ram Babu, Associate Professor
+        - Mobile: 9885388799
+        - Email: rambabueee@vvit.net, rams_babu2001@yahoo.com
+        - Mr. J Anand, Assistant Professor
+        - Mobile: 7981812252
+        - Email: janand202@gmail.com
+
+
+    3. Mechanical Engineering (ME) Department:
+        - Mr. N Kishan, Assistant Professor
+        - Mobile: 9963314444
+        - Email: kishan.n1981@vvit.net, kishan.n1981@gmail.com
+
+
+    4. Electronics and Communication Engineering (ECE) Department:
+        - Dr. Shaik Riyazuddien, Associate Professor
+        - Mobile: 9700667247
+        - Email: riyazshaik@vvit.net, drshaik84@gmail.com
+
+
+    5. Computer Science and Engineering (CSE) Department:
+        - Mr. A. Vishnu Vardhan, Associate Professor
+        - Mobile: 7386368215
+        - Email: vishnuvardhan.a@vvit.net, vishnuvardhan.299@gmail.com
+
+
+    6. Information Technology (IT) Department:
+        - Mr. Nutalapati Ashok, Associate Professor
+        - Mobile: 9985678067
+        - Email: nutalapati.ashok@vvit.net, nutalapati.ashok@gmail.com
+
+
+    7. Computer Science and Systems Operation (CSO) Department:
+        - Smt. M. Rajya Lakshmi, Associate Professor
+        - Mobile: 9704122768
+        - Email: raajivvit@gmail.com
+
+
+    8. Centre for Interdisciplinary Courses (CIC):
+        - Prof. Ravi Kumar K, Associate Professor
+        - Mobile: 9985678067
+        - Email: ravikota16@vvit.net, ravikota16@gmail.com
+
+
+    9. Artificial Intelligence and Data Science (AID) Department:
+        - Mrs. Mounika V, Assistant Professor
+        - Mobile: 9059994995
+        - Email: mounica.vanapalli@vvit.net, mounica.vanapalli@gmail.com
+
+
+    10. Computer Science and Machine Learning (CSM & AIML) Department:
+        - Mr. V Muralidhar, Associate Professor
+        - Mobile: 6303956756
+        - Email: vmdhar@vvit.net
+```
+
+# MoU:
+```
+    - PERDUE UNIVERSITY: In Progress, Epics Community Service Program
+    - APSCHE: Govt. LMS
+    - RWTH Aachen University: January 10, 2024, Academic
+    - IES & FACTOR-Y INNOVATION IN INDIA: February 17, 2024, Academic & Higher Education
+    - TATA COMMUNITY INITIATIVE TRUST: February 17, 2024, CSR - Skilling
+    - SUITS CARE INDIA PVT LTD: January 31, 2024, Student Projects
+    - EDUNET FOUNDATION: November 2, 2023, Skilling
+    - CAPABL: October 30, 2023, Skilling
+    - APIRSQUARE PVT LTD: October 16, 2023, Skilling & Entrepreneurship
+    - SHIM OVERSEAS EDUCATION CONSULTANCY: October 16, 2023, Higher Education Consultant
+    - ATOMS DIGITAL SOLUTIONS PRIVATE LIMITED: October 3, 2023, Skilling & Placement
+    - VIHAAN ELECTRIX: July 17, 2023, Skilling & Placement
+    - EXCELR: July 4, 2023, Skilling & Placement
+    - EDUNET -IBM: June 26, 2023, Skilling & Placement
+    - CODETANTRA: June 21, 2023, Coding Practice
+    - INFOSYS SPRING BOARD: June 21, 2023, Skilling
+    - SENSE SEMI CONDUCTOR: May 24, 2023, Skilling & Placement
+    - GERMAN VARSITY FOR ADVANCED STUDIES -AACHEN, GERMANY: May 10, 2023, CoE for International Education and Employment Opportunities
+    - SGIT, STEINBEIS UNIVERSITY, BERLIN, GERMANY: May 8, 2023, Employment Linked Masters's program
+    - AWS ACADEMY PROGRAM GUIDE VERSION7: January 1, 2023, Skilling & Consultant
+    - ANU GROUP OF HOSPITALS(AGH): November 28, 2022, Student Projects
+    - SOCIETY FOR LEARNING TECHNOLOGIES: November 11, 2022, Skilling
+    - VIRTUSA: August 4, 2022, Skilling, Certification & Placement
+    - EPAM: August 1, 2022, Skilling, Certification & Placement
+    - QUANTUM LEARNINGS(CENTRE OF EXCELLENCE): March 23, 2022, Skilling & Certification
+    - INFORMATION DATA SYSTEMS INC. USA. (IDS): February 17, 2022, Skilling & Certification
+    - VALADRO TECHNOLOGIES PVT LTD: January 18, 2022, Skilling & Certification
+    - BLUE PRISM: December 6, 2021, Skilling & Certification
+    - EDU SKILLS: December 4, 2021, Skilling & Certification
+    - HIEE: August 25, 2021, Skilling & Placement
+    - ICT ACADEMY: February 1, 2021, Skilling & Certification
+    - ICT ACADEMY HUAWEI: October 9, 2020, Skilling & Certification
+    - UI PATH ACADEMIC ALLIANCE: July 26, 2019, Skilling & Certification
+    - INTERNSHALA: June 21, 2019, Skilling & Certification
+    - ELEVEN01 TECHNOLOGIES: July 25, 2018, Skilling & Certification
+    - VERAKKI TECH SERVICES PRIVATE LIMITED: February 1, 2018, Skilling & Placement
+    - APSSDC: April 25, 2016, Skilling, Certification & Placement
+```
