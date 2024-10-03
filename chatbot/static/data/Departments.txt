@@ -1032,7 +1032,168 @@
         To impart quality education through exploration and experimentation and generate socially-conscious engineers, embedding ethics and values, for the advancement of science and technology.
     ```
     ## Mission:
+    ```
+        To lay the necessary scientific and mathematical foundations and prepare students for the teamwork that integrates self-learning required for success in engineering and related professions including communication skills, mutual accountability, and respect/understanding for individuals from different social strata; while also preparing them to learn, practice and apply high ethical standards  reflecting universal human values for professional development.
+    ```
+    ## Faculty:
+    ```
+        ### English:
+        ```
+            Dr. Mantri Venkata Raghu Ram, M.A, M.Phil, Ph.D, Professor & Dean (Freshman)
+            Dr. Bh. Rajya Lakshmi, M.A, M.Phil, Ph.D, Professor & HoD
+            Sri. K. Sambasivarao, M.A, M.Phil, LL.B, Associate Professor
+            Dr. K. Pavan Kumar, M.A, M.Phil, Ph.D, Associate Professor
+            Dr. U. Madhavaiah, M.A, MBA, Ph.D, Associate Professor
+            Ms. B. Padma Sree, M.A, M.Phil, Assistant Professor
+            Smt. K. Kiranmai, M.A, Assistant Professor
+            Sri. B. Joseph Fredrick Christenson, M.A, Assistant Professor
+            Sri. Y. Madhusudhanrao, M.A, Assistant Professor
+            Mrs. Dasari Usha, MA, B.Ed, Assistant Professor
+            Mrs. VC. Domi, MA, B.Ed, Assistant Professor
+            Mr. Eashwarnath Rathod Bayana, Asst. Professor, MA, MBA
+            Dr. Pawel Veliventi, M.A, Ph.D, Associate Professor
+            Dr. SONY JOSEPH, Ph.D, Assistant Professor
+            Mr. RAJENDRA KUMAR, MA, Assistant Professor
+        ```
+        ### Mathematics:
+        ```
+            Dr. J. Vijaya Kumar, M.Sc, M.Phil, Ph.D, Professor
+            Dr. C. Nagaratnamaiah, M.Sc, M.Phil, Ph.D, Professor
+            Dr. Ch. Ramprasad, M.Sc, M.Phil, Ph.D, Associate Professor
+            Dr. P. Prasanna Anjaneyulu, M.Sc, Ph.D, Associate Professor
+            Dr. Renuka Laxmi Avvari, M.Sc, M.Phil, Ph.D, Assoc. Professor
+            Dr. D. Bhasu Nirmal, M.Sc, Ph.D, Associate Professor
+            Sri. N. Siva Rama Krishna, M.Sc, M.Phil, Associate Professor
+            Sri. M. Poorna Chandra Rao, M.Sc, Assistant Professor
+            Mrs. S. Sunitha Bharathi, M.Sc, M.Phil, Assistant Professor
+            Sri. K. Rama Kishore, M.Sc, Assistant Professor
+            Sri. B. S. K. Chaitanya, M.Sc, M.Phil, Assistant Professor
+            Smt. R. Madhavi Latha, M.Sc, Assistant Professor
+            Dr. M. Venkata Ramanjaneyulu, M.Sc., M.Phil., Ph.D., Assistant Professor
+            Mr. K. Bala Chandra Prasad, M.Sc, Asst. Professor
+            Mrs. Padavala Naga Lakshmi, M.Sc, B.Ed, Assistant Professor
+            Mr. N. Raghavendra, M.Sc, Assistant Professor
+            Mr. R. Uday Bhanu, M.Sc, Assistant Professor
+            Mrs. P. Sri Lakshmi, M.Sc, Asst. Professor
+            Dr. M. Vani, M.Sc, Ph.D, Asst. Professor
+            Mrs. S. Srilatha, M.Sc, Asst. Professor
+            Smt. Ch. Radika, M.Sc, Assistant Professor
+            Mr. K. Srinivasa Rao, M.Sc, Asst. Professor
+            Mr. D. Jayadev, M.Sc, Asst. Professor
+            Mr. P. Venkata Sivaji, M.Sc, M.Phil, Assistant Professor
+            Ms. B.VASUDHA, MSc, Assistant Professor
+            Ms. G SUHASINI, MSc, Assistant Professor
+            Ms. K NAGA SAI PRASANNA, MSc, Assistant Professor
+        ```
+        ### Physics:
+        ```
+            Dr. T. Vijay Krishna, M.Sc, M.Phil, Ph.D, Professor & HoD
+            Dr. T. Madhu Mohan, M.Sc, M.Phil, Ph.D, Professor
+            Dr. A. Srivani, Ph.D, D.Sc. D.Sc(IASR), IIP, Associate Professor
+            Sri. K. Veera Reddy, M.Sc, Assistant Professor
+            Mr. P. Suneel Kumar, M.Sc, M.Phil, Assistant Professor
+            Mrs. Alapati Leelavathi, MSc, Assistant Professor
+            Mr. M. Lakshmi Bhaskar, M.Sc, B.Ed, Assistant Professor
+            Mr. Bondili Balaji Singh, M.Sc, B.Ed, Assistant Professor
+            Mr. V.T.Y Kumar, M.Phil, Asst. Professor
+            Mr. Dasari Sridhar Kumar, M.Sc, M.Ed, Assistant Professor
+            Mr. Jana Madhava Satya Veerabrahma Sarma, M.Sc, Assistant Professor
+            Ms. M.SAI SIRISHA, M.Tech, Assistant Professor
+            Mr. R.SRIDHAR BABU, MSc, Assistant Professor
+        ```
+        ### Chemistry:
+        ```
+            Dr. T. L. M. V Subba Rao, M.Sc, M.Phil, Ph.D, Professor
+            Sri. V. V. N Achary, M.Sc, Assistant Professor
+            Smt. K. Lalitha, M.Sc, Assistant Professor
+            Dr. T. Suresh, M.Sc, M.Phil, Ph.D, Assistant Professor
+            Mrs. J. Krishna Priya, B.Sc, M.Sc, Assistant Professor
+            Sri. P. Naresh, M.Sc, Assistant Professor
+            Dr. Veeranjaneyulu, Ph.D, Asst. Professor
+            Smt. Y. Sudha Rani, M.Sc, Assistant Professor
+            Mr. Sowpati Prasanna Babu, M.Sc, Assistant Professor
+            Ms. G Naga Lakshmi, M.Sc, Asst. Professor
+            Mrs. Venkata Siva Jyothi Gaddam, M.Sc, Asst. Professor
+            Mr. K.TIRUMALA PRASAD
+        ```
+        ### Environment Studies
+        ```
+            Dr. Y. Venkata Ramana, Ph.D, Assistant Professor
+            Sri. G. Rama Subbarao, M.Sc, Assistant Professor
+            Smt. J. Geetha Lalitha, M.Sc, Assistant Professor
+            Mr. N. M. Prasad, M.Sc, B.Ed, Assistant Professor
+            Mr. S. Subbirami Reddy, M.A, Asst. Professor
+        ```
+        ### Management Science:
+        ```
+            Sri. P. Guru Prasad, M.Com, LL.B, M.Phil, MBA, PGDFTM, (Ph.D), Associate Professor
+            Dr. A. V. S Ashok, Ph.D, Assoc. Professor
+            Dr. K. Lakshma Reddy, MBA, M.Com, Ph.D, Assistant Professor
+            Sri. M. Bhanu Prakash, MBA, Assistant Professor
+            Smt. P. Naga Lakshmi, M.Com, Assistant Professor
+            Mr. MVP Vijaya Kasyapa, M.Com, Asst. Professor
+            Smt. D. Suneetha, MBA, Assistant Professor
+            Sri. L. N. Dhaveji Chakravadhanula, MBA, Assistant Professor
+            Mr. Koteswara Sarma J, MA, Assistant Professor
+            Mr. Venkata Sai Krishna Nandivelugu, M.Phil, Asst. Professor
+            Dr. Ch. Madhavi, M.L.I.Sc, M.Phil, Assistant Professor
+            Sri. V. Manavendra, M.L.I.Sc, Assistant Professor
+            Ms. Ch. Renuka Devi, MCA, Asst. Professor
+            Ms. N. Malleswari, MCA, Asst. Professor
+            Mr. Akbar Saleem Shaik, MCA, Assistant Professor
+            Ms. Syed Sabiha Parveen, MBA, M.Com, Assistant Professor
+            Mr. G.SATISH
+        ```
+        ###  Physical Education:
+        ```
+            Dr. N. Arun Kumar, Ph.D, Assistant Professor
+            Dr. M. Giridhar, Ph.D, Assistant Professor,
+        ```
+        ### Library Sciences:
+        ```
+            Sri. N.V. Sai Krishna, M.L.I.Sc, M.Phil, Assistant Professor
+            Ms. N.HOSNNA, MLIC, Assistant Professor
+            Mr. E SUMANTH, MLIC, Assistant Professor
+        ```
+    ```
+    ## Infrastructure and Labs:
+    ```
+        ### English Language Communication Skills Laboratory (ELCS Lab):
+        ```
+            Area= 208.6m2
+            No of Computers = 75
+            No of Head sets = 75
+            Capacity = 60 students
+            ELCS lab is designed to operate in a LAN Environment with 75 Pentium 4 nodes and dedicated multimedia server for communication skills.
+            The communication skills lab is air-conditioned and has power backup with uninterrupted internet connectivity.
+            Exclusive training for Campus Placement Interviews and Personality Development.
+            The interactive language laboratory uses K- VAN Multimedia Software for teaching and learning English in a computer class room.
+        ```
+        ### Engineering/Applied Physics Laboratory :
+        ```
+            Area: 173.8m2
 
+            Capacity: 60 students
 
-To lay the necessary scientific and mathematical foundations and prepare students for the teamwork that integrates self-learning required for success in engineering and related professions including communication skills, mutual accountability, and respect/understanding for individuals from different social strata; while also preparing them to learn, practice and apply high ethical standards  reflecting universal human values for professional development.
+            Types of Experiments: Mechanics, Optics and Electricity
+
+            Engineering Physics laboratory has space and resources to conduct practical experiments for 60 students at a time.
+            The physics lab also houses a dark room to conduct experiments in optics and a virtual lab for experimental simulations.
+            The lab is connected to the power backup grid of the college and has internet connectivity.
+            Standard equipment is used in the lab for conducting experiments.
+        ```
+        ### Engineering / Applied Chemistry Laboratory:
+        ```
+            Area= 208.6m2
+
+            Capacity = 60 students
+
+            Types of Experiment: Volumetric and Instrumental Analysis
+
+            Engineering Chemistry laboratory has space and resources to conduct practical experiments for 60 students at a time.
+            The chemistry lab has a conventional lab to conduct experiments in volumetric analysis and an instrumentation lab for instrumental analysis.
+            The lab is connected to the power backup grid of the college and has internet connectivity.
+            Standard equipment and chemicals are used in the lab for conducting experiments.
+        ```
+    ```
 ```
