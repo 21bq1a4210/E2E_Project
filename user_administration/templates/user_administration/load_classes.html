@@ -1,0 +1,4 @@
+<option value="">-------</option>
+{% for class in classes %}
+    <option value="{{ class.pk }}"> {{ class.branch_id }} - {{ class.section }}</option>
+{% endfor %}

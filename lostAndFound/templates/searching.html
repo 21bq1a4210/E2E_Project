@@ -1,66 +1,123 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <script>
-
-        function getCookie(name) {
-            let cookieValue = null;
-            if (document.cookie && document.cookie !== '') {
-                const cookies = document.cookie.split(';');
-                for (let i = 0; i < cookies.length; i++) {
-                    const cookie = cookies[i].trim();
-                    if (cookie.substring(0, name.length + 1) === (name + '=')) {
-                        cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
-                        break;
-                    }
+{% extends "basetemplate.html" %}
+{% block content %}
+<script>
+    function getCookie(name) {
+        let cookieValue = null;
+        if (document.cookie && document.cookie !== '') {
+            const cookies = document.cookie.split(';');
+            for (let i = 0; i < cookies.length; i++) {
+                const cookie = cookies[i].trim();
+                if (cookie.substring(0, name.length + 1) === (name + '=')) {
+                    cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                    break;
                 }
             }
-            return cookieValue;
         }
-        function checkSearch(){
-            const csrf_token = getCookie('csrftoken')
-            const queryString = window.location.href
-            const id = queryString.split('=')[1]
-            body = document.getElementById('body')
-            fetch('/lostandfound/search/', {
-                method: 'POST', 
-                headers: {
-                    'Content-Type': 'application/json',
-                    'X-csrftoken' : csrf_token
-                },
-                body: JSON.stringify({ id: id }) 
-            })
-            .then(response => response.json())
-            .then(data => {
-                console.log(data.status)
-                if(data.status){
-                    if(data.type == 'lost'){
-                        document.getElementById('body').innerHTML = "Thank you for reaching out to us regarding your lost item.<strong> We are pleased to inform you that an item matching your description has been found.</strong>We have sent an email to the address you provided with the contact details of the person who found the item. <strong>Please check your inbox for this email,</strong> which includes the contact information and instructions on how to verify and retrieve your item directly from the finder."
-                    }
-                    else if(data.type == 'found'){
-                        document.getElementById('body').innerHTML = "Thank you for reaching out to us regarding the item you have found . <strong> We are pleased to inform you that an item matching your description has been found.</strong>We have sent an email to the address you provided with the contact details of the person who have lost it. <strong>Please check your inbox for this email,</strong> which includes the contact information and instructions on how to verify and give that item to its rightfull owner."
-                    }
-                }
-                else{
-                    document.getElementById('body').innerHTML = "Thank you for reaching out to us regarding your lost item.After thoroughly searching our database, we regret to inform you that your item is not currently listed in our inventory of found items <strong> If anyone submits an item that matches the description of your lost item, we will reach out to you via the email address you provided. </strong>"
-                }
-            })
-            .catch(error => {
-                console.error('Error:', error);
-            });
-        }
+        return cookieValue;
+    }
 
-        checkSearch()
-    </script>
-</head>
-<body>
+    function checkSearch() {
+        const csrf_token = getCookie('csrftoken');
+        const queryString = window.location.href;
+        const id = queryString.split('=')[1];
+        const body = document.getElementById('body');
+
+        // Add loading animation
+        body.innerHTML = '<span class="loading">Searching</span><div class="loader"></div>';
+
+        fetch('/lostandfound/search/', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'X-csrftoken': csrf_token
+            },
+            body: JSON.stringify({ id: id })
+        })
+        .then(response => response.json())
+        .then(data => {
+            console.log(data.status);
+            if (data.status) {
+                if (data.type === 'lost') {
+                    body.innerHTML = "Thank you for reaching out to us regarding your lost item. <strong>We are pleased to inform you that an item matching your description has been found.</strong> We have sent an email to the address you provided with the contact details of the person who found the item. <strong>Please check your inbox for this email,</strong> which includes the contact information and instructions on how to verify and retrieve your item directly from the finder.";
+                    body.classList.add('success');
+                } else if (data.type === 'found') {
+                    body.innerHTML = "Thank you for reaching out to us regarding the item you have found. <strong>We are pleased to inform you that an item matching your description has been found.</strong> We have sent an email to the address you provided with the contact details of the person who lost the item. <strong>Please check your inbox for this email,</strong> which includes the contact information and instructions on how to verify and return the item to its rightful owner.";
+                    body.classList.add('success');
+                }
+            } else {
+                body.innerHTML = "Thank you for reaching out to us regarding your lost item. After thoroughly searching our database, we regret to inform you that your item is not currently listed in our inventory of found items. <strong>If anyone submits an item that matches the description of your lost item, we will reach out to you via the email address you provided.</strong>";
+                body.classList.add('failure');
+            }
+        })
+        .catch(error => {
+            console.error('Error:', error);
+            body.innerHTML = "An error occurred while processing your request. Please try again later.";
+            body.classList.add('failure');
+        });
+    }
+
+    // Call the function when the page loads
+    checkSearch();
+</script>
+
     {% csrf_token %}
+    <style>
+        #body {
+            font-family: 'Arial', sans-serif;
+            font-size: 18px;
+            color: #333;
+            background-color: #087afc;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin: 50px auto;
+            width: 80%;
+            max-width: 600px;
+            min-height: 100px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+        }
+    
+        .loading {
+            font-size: 20px;
+            font-weight: bold;
+            color: #e7ebf0;
+        }
+    
+        #body.success {
+            color: #28a745;
+            border: 2px solid #28a745;
+            background-color: #e6ffee;
+        }
+    
+        #body.failure {
+            color: #dc3545;
+            border: 2px solid #dc3545;
+            background-color: #ffe6e6;
+        }
+    
+        .loader {
+            border: 4px solid #087afc;
+            border-radius: 50%;
+            border-top: 4px solid #e0e2e6;
+            width: 30px;
+            height: 30px;
+            animation: spin 1s linear infinite;
+            margin-left: 10px;
+        }
+    
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+    
     <div id="body">
-        searching
+        <span class="loading">Searching</span>
+        <div class="loader"></div>
     </div>
-</body>
-</html>
+    
+{% endblock content %}

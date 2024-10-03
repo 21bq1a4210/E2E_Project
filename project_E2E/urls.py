@@ -22,7 +22,6 @@ from django.conf.urls.static import static
 urlpatterns = [
     path('', include('home.urls')),
     path('', include('login.urls')),
-    path('', include('signup.urls')),
     path('', include('forgotpassword.urls')),
     path('', include('dashboard.urls')),
     path('', include('chatbot.urls')),
@@ -30,4 +29,6 @@ urlpatterns = [
     path('',include('dashboard.urls')),
     path('',include('lostAndFound.urls')),
     path('admin/', admin.site.urls),
+    path('user_administration/', include('user_administration.urls')),
+    path('complaints/', include('complaint_administration.urls')),
 ] + static(settings.MEDIA_URL, document_root = settings.MEDIA_ROOT)

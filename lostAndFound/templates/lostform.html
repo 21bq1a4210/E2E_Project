@@ -1,10 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+{% extends 'basetemplate.html' %}
+{% block content %}
+<!-- <!DOCTYPE html>
+<html lang="en"> -->
+<!-- <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Report Lost Item</title>
+</head> -->
+
     <style>
         body {
             display: flex;
@@ -19,7 +23,9 @@
             margin: auto;
         }
         .lost-form {
-            width: 400px;
+            width: inherit;
+            display: flex;
+            flex-direction: column;
         }
         .l-f {
             margin-top: 20px;
@@ -36,10 +42,13 @@
             width: 200px;
             font-size: 20px;
         }
+        .lost-form > div{
+            margin-left: auto;
+            margin-right: auto;
+            width:500px;
+        }
     </style>
-</head>
-<body>
-    <h1>Lost An Item ??</h1>
+    <h1 style="text-align: center;">Lost An Item ??</h1>
     <h3>Don't Worry. Report the item here, and we will search for you.</h3>
     <form method="post" enctype="multipart/form-data">
         {% csrf_token %}
@@ -93,5 +102,6 @@
             </div>
         </div>
     </form>
-</body>
-</html>
+
+<!-- </html> -->
+{% endblock content %}
