@@ -16,8 +16,8 @@ class Complaint(models.Model):
     complaint_date = models.DateTimeField(auto_now_add=True)
     complaint_time = models.TimeField(auto_now_add=True)
     complaint_message = models.CharField(max_length=1000, editable=True)
-    type_of_complaint = models.CharField(editable=True, default='public')
-    status = models.CharField(editable=True, default='pending')
+    type_of_complaint = models.CharField(editable=True, default='public',max_length=255)
+    status = models.CharField(editable=True, default='pending',max_length=255)
     complaint_title = models.CharField(max_length=100, editable=True)
 
     # Should be able to assign to multiple models such as Counsellor, ClassTeacher, HOD

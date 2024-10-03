@@ -1,16 +1,73 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+{% extends 'basetemplate.html' %}
+<!-- <!DOCTYPE html>
+<html lang="en"> -->
+<!-- <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-</head>
-<body>
+</head> -->
+<!-- <body> -->
+    {% block content %}
     <div class="body">
-        <h1>Welcome To Lost and Found portal</h1>
-        <a href= "{% url 'Lostform' %}"><h3>Lost an Item ! Click Here</h3></a>
-        <a href="{% url 'Foundform' %}"><h3>Found an Item ! Click Here</h3></a>
+        <h1>Welcome To Lost and Found Portal</h1>
+        <div class="button-container">
+            <a href="{% url 'Lostform' %}" class="button">Lost an Item? Click Here</a>
+            <a href="{% url 'Foundform' %}" class="button">Found an Item? Click Here</a>
+        </div>
     </div>
-</body>
-</html>
+    
+    <style>
+        /* Body Styling */
+        .body {
+            text-align: center;
+            background-color: #f4f4f4;
+            padding: 50px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            font-family: Arial, sans-serif;
+        }
+    
+        /* Heading Styling */
+        .body h1 {
+            font-size: 36px;
+            color: #333;
+            margin-bottom: 30px;
+            font-weight: bold;
+        }
+    
+        /* Button Container */
+        .button-container {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+    
+        /* Button Styling */
+        .button {
+            display: inline-block;
+            padding: 15px 30px;
+            text-decoration: none;
+            font-size: 18px;
+            color: white;
+            background-color: #007bff;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+            font-weight: bold;
+        }
+    
+        .button:hover {
+            background-color: #0056b3;
+        }
+    
+        /* Responsiveness for smaller screens */
+        @media (max-width: 768px) {
+            .button-container {
+                flex-direction: column;
+            }
+        }
+    </style>
+    
+    {% endblock content %}
+<!-- </body>
+</html> -->
