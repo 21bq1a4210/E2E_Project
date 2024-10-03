@@ -61,7 +61,6 @@ def decode_base64_image(image_data):
 
 @csrf_exempt
 @login_required
-
 def register_face(request):
     if request.method == 'POST':
         data = json.loads(request.body)

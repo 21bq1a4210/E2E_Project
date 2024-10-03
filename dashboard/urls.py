@@ -9,4 +9,5 @@ urlpatterns = [
     path("", include("complaintbox.urls")),
     path("", include("chatbot.urls")),
     path("", include("lostAndFound.urls")),
+    path("", include("FRS_attendance.urls")),
 ]

@@ -1,0 +1,216 @@
+# Admissions:
+```
+    ## UG Admissions:
+    ```
+        ### Admission Criteria & Procedure:
+        ```
+            Please Contact Mr. Kalyan - 9849542336 or Mr. V. Srikanth - 9959943336 for admissions details
+
+            All Admissions are provisional and subject to rules and regulations prescribed by the Government of Andhra Pradesh from time to time. The admission of any candidate even if made, will be cancelled if such admission is found to be made contrary to the above referred rules and regulations at any time. In such cases, the candidate shall not have any claim whatsoever in any manner.
+
+            The students are admitted into the four year undergraduate programs in two categories. The first category, Category-A seats constitute 70% of the total seats in the college. The Category-A seats are filled through Convener, EAMCET, Andhra Pradesh.  The second category, Category-B seats constitute 30% of the total available seats. The Category-B seats are filled by the management through the news paper advertisement.
+
+            Eligibility Criteria:
+            ```
+                A Category - Convener quota (70% of intake in each branch):
+                The candidate shall be of Indian National.
+                The candidate should have completed 16 years of age as on 31st December of the Academic year for which the admissions are being conducted.
+                The Candidate for admission to the four-year degree course in Engineering must have passed the Intermediate examination of the Board of Intermediate Education, Government of Andhra Pradesh with Mathematics, Physics and Chemistry as optional subjects, or any other examination recognized as equivalent to Intermediate thereto.
+                The Candidates seeking admission should qualify in the EAMCET Examination conducted by the Govt. of AP. The candidates will be admitted strictly in accordance with the merit secured at the Entrance Examination keeping in view the rules in force regarding the reservations of seats of various categories of candidates.
+                The candidate should satisfy Local/Non-Local status requirement as laid down in the Andhra Pradesh Educational Institutions (Regulation of Admissions) Order,1974 as subsequently amended.
+                B Category - Management Quota Seats (30% of intake in each branch)
+            ```
+        ```
+    ```
+    ## PG Admissions:
+    ```
+    ### M.Tech - Eligibility Requirements:
+
+        CATEGORY A (Convenor) seats (70% of intake in each branch):
+        ```
+            A bachelor's degree in Engg/Technology of recognized University in the concerned discipline.
+            AMIE/AMIETE or similar qualifications recognized by UPSC as equivalent to B.E./B.Tech.
+            Valid GATE Score obtained in the GATE Examination.
+            Valid rank obtained in PGECET, Andhra Pradesh.
+            Apart from requirements of qualifications as stated in the above, the admissions of sponsored candidates shall be taken.
+
+            The number of Sponsored candidates shall not be more than two in each specialization and not more than five in each department.
+            His/Her application shall be duly recommended by the sponsoring agency for admission to the course .
+            These seats are considered as supernumerary.
+            He/She must be permanent employee with the sponsoring agency for at least (2) years, after obtaining the qualifying degree.
+            The sponsoring agency must be a Government establishment or a public-sector undertaking, or a reputed private undertaking.
+            The sponsoring agency shall-certify that the candidates will be granted leave for pursuing the M.Tech. Full-Time course.
+            The candidates should satisfy local/non-local status requirement as laid down in the AP Educational institutions (Regulation of Admissions) Order 1974 as amended from time to time.
+        ```
+
+        CATEGORY B (Management) seats (30% of intake in each branch):
+        ```
+            The second category, Category-B seats constitute 30% of the total available seats.
+            15% of Category B seats are available to NRI candidates who have passed the qualifying examination with not less than 60% of aggregate marks or Cumulative Grade Point Average (CGPA) equivalent to 6 on a scale of 10.
+            The left over seats shall be filled on merit basis by the institution with sponsored candidates.
+            Vacant seats if any may be filled on merit basis with eligible candidates including those securing not less than 60% of aggregate marks in the qualifying examination.
+        ```
+    ```
+
+    ## INTAKE & FEE DETAILS:
+    ```
+        ### Details of Intake into B.Tech Program (AY : 2024-25):
+        ```
+            Courses Offered at Vasireddy Venkatadri Institute of Technology (VVIT)
+
+            VVIT offers 11 B.Tech programs with the following details:
+            ```
+                1. B.Tech - Computer Science & Engineering (CSE)
+                - Course Code: CSE
+                - Total Intake: 480
+                - Category A Seats: 384 (including 10% EWS)
+                - Category B Seats: 72 Non-NRI, 72 NRI
+                - Total B Category Seats: 144
+
+
+                2. B.Tech - Computer Science & Engineering (Artificial Intelligence & Machine Learning) (CSM)
+                - Course Code: CSM
+                - Total Intake: 360
+                - Category A Seats: 288
+                - Category B Seats: 54 Non-NRI, 54 NRI
+                - Total B Category Seats: 108
+
+
+                3. B.Tech - Computer Science & Engineering (Artificial Intelligence) (CAI)
+                - Course Code: CAI
+                - Total Intake: 180
+                - Category A Seats: 144
+                - Category B Seats: 27 Non-NRI, 27 NRI
+                - Total B Category Seats: 54
+
+
+                4. B.Tech - Artificial Intelligence & Data Science (AID)
+                - Course Code: AID
+                - Total Intake: 180
+                - Category A Seats: 144
+                - Category B Seats: 27 Non-NRI, 27 NRI
+                - Total B Category Seats: 54
+
+
+                5. B.Tech - Information Technology (INF)
+                - Course Code: INF
+                - Total Intake: 180
+                - Category A Seats: 144
+                - Category B Seats: 27 Non-NRI, 27 NRI
+                - Total B Category Seats: 54
+
+
+                6. B.Tech - Electronics & Communication Engineering (ECE)
+                - Course Code: ECE
+                - Total Intake: 180
+                - Category A Seats: 144
+                - Category B Seats: 27 Non-NRI, 27 NRI
+                - Total B Category Seats: 54
+
+
+                7. B.Tech - Electrical and Electronics Engineering (EEE)
+                - Course Code: EEE
+                - Total Intake: 180
+                - Category A Seats: 144
+                - Category B Seats: 27 Non-NRI, 27 NRI
+                - Total B Category Seats: 54
+
+
+                8. B.Tech - Computer Science & Engineering (Internet of Things and Cyber Security including Blockchain Technology) (CIC)
+                - Course Code: CIC
+                - Total Intake: 120
+                - Category A Seats: 96
+                - Category B Seats: 18 Non-NRI, 18 NRI
+                - Total B Category Seats: 36
+
+
+                9. B.Tech - Civil Engineering (CIV)
+                - Course Code: CIV
+                - Total Intake: 120
+                - Category A Seats: 96
+                - Category B Seats: 18 Non-NRI, 18 NRI
+                - Total B Category Seats: 36
+
+
+                10. B.Tech - Mechanical Engineering (MEC)
+                - Course Code: MEC
+                - Total Intake: 120
+                - Category A Seats: 96
+                - Category B Seats: 18 Non-NRI, 18 NRI
+                - Total B Category Seats: 36
+
+
+                11. B.Tech - Computer Science & Engineering (Internet of Things) (CSO)
+                - Course Code: CSO
+                - Total Intake: 60
+                - Category A Seats: 48
+                - Category B Seats: 9 Non-NRI, 9 NRI
+                - Total B Category Seats: 18
+
+
+                Total
+                - Total Intake: 2160
+                - Category A Seats: 1728
+                - Category B Seats: 324 Non-NRI, 324 NRI
+                - Total B Category Seats: 648
+            ```
+
+            Tuition Fees:
+            ```
+                - Category A: Rs. 65,200/-
+                - Category B Non-NRI: Rs. 1,95,600/-
+                - Category B NRI: $5,000/-
+            ```
+            Note: Category B Non-NRI seats will be filled by the Government through online counseling only.
+        ```
+
+        ### M.Tech Program Details for Academic Year 2024-25:
+        ```
+            Vasireddy Venkatadri Institute of Technology (VVIT) offers M.Tech programs with the following details:
+            M.Tech Courses and Intake:
+           ```
+                1. M.Tech - Computer Science & Engineering (CSE)
+                    - Total Intake: 18
+                    - Category A Seats: 12
+                    - Category B Seats: 6
+
+                2. M.Tech - Electronics & Communication Engineering (ECE) - VLSI & Embedded Systems Design
+                    - Total Intake: 18
+                    - Category A Seats: 12
+                    - Category B Seats: 6
+
+                3. M.Tech - Electrical and Electronics Engineering (EEE) - Power Electronics & Electrical Drives
+                    - Total Intake: 9
+                    - Category A Seats: 6
+                    - Category B Seats: 3
+
+                4. M.Tech - Mechanical Engineering (ME) - Machine Design
+                    - Total Intake: 9
+                    - Category A Seats: 6
+                    - Category B Seats: 3
+
+                5. M.Tech - Civil Engineering - Structural Engineering
+                    - Total Intake: 18
+                    - Category A Seats: 12
+                    - Category B Seats: 6
+
+
+                Total Intake:
+                - M.Tech: 72
+                - B.Tech: 2376
+                - Total: 2448
+            ```
+
+           Course Fees for Academic Year 2024-25:
+           ```
+                - B.Tech: Rs. 65,200 per year
+                - M.Tech: Rs. 60,400 per year
+           ```
+            Note: The convener quota fees are as specified above.
+    ```
+
+    ## Previous Rank Info:
+    ```
+        page link: ```Previous Rank Info```
+    ```
+```

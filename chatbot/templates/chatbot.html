@@ -133,35 +133,42 @@
     <div class="row">
         <div class="bg-transparent col-sm-auto bg-light sticky-top">
             <div class="d-flex flex-sm-column flex-row flex-nowrap bg-light align-items-center sticky-top">
-                <ul class="bg-transparent nav nav-pills nav-flush flex-sm-column flex-row flex-nowrap mb-auto mx-auto text-center align-items-center">
+                <ul class="  bg-transparent nav nav-pills nav-flush flex-sm-column flex-row flex-nowrap mb-auto mx-auto text-center align-items-center">
                     <li class="nav-item">
                         <a href="{% url 'dashboard' %}" class="nav-link py-3 px-2" title="DASHBOARD" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Home">
                             <img src="{% static 'images/Dashboard_svg.svg' %}" alt="Dashboard" width="30" height="24">
                         </a>
                     </li>
                     <li>
-                        <a href="PropertyLoss.html" class="nav-link py-3 px-2" title="PROPERTY_LOSS" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Dashboard">
-                            <img src="{% static 'images/Property.svg' %}" alt="Property" width="38" height="38">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="complaint.html" class="nav-link py-3 px-2" title="MY_COMPLAINT" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="MyComplaints">
-                            <img src="{% static 'images/checklist.svg' %}" alt="My_complaints" width="38" height="38">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="feed.html" class="nav-link py-3 px-2" title="LOGOUT" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="AddComplaint">
-                            <img src="{% static 'images/add_complaint.svg' %}" alt="add_complaint" width="38" height="38">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="chat-bot.html" class="nav-link py-3 px-2" title="CHAT BOT" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="AddComplaint">
+                        <a href="{% url 'chatbot_page' %}" class="nav-link py-3 px-2" title="CHAT BOT" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="AddComplaint">
                             <img src="{% static 'images/chat-bot.svg' %}" alt="chat bot" width="38" height="38">
                         </a>
                     </li>
                     <li>
-                        <a href="feed.html" class="nav-link py-3 px-2" title="LOGOUT" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="AddComplaint">
-                            <img src="{% static 'images/logout.svg' %}" alt="add_complaint" width="38" height="38">
+                        <a href="{% url 'lostandfound' %}" class="nav-link py-3 px-2" title="PROPERTY_LOSS" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Dashboard">
+                            <img src="{% static 'images/Property.svg' %}" alt="Property" width="38" height="38">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="{% url 'face_recognition_page' %}" class="nav-link py-3 px-2" title="FRS" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Dashboard">
+                            <img src="{% static 'images/FACE.svg' %}" alt="Property" width="38" height="38">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="{% url 'complaint' %}" class="nav-link py-3 px-2" title="RegisterComplaint" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="MyComplaints">
+                           <img src="{% static 'images/checklist.svg' %}" alt="Registrations_complaints" width="38" height="38">
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="{% url 'feedback' %}" class="nav-link py-3 px-2" title="Feedback" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="AddComplaint">
+                            <img src="{% static 'images/add-file.svg' %}" alt="feed_back" width="38" height="38">
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="{% url 'logout' %}" class="nav-link py-3 px-2" title="LOGOUT" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="AddComplaint">
+                            <img src="{% static 'images/logout.svg' %}" alt="logout" width="38" height="38">
                         </a>
                     </li>
                 </ul>
@@ -180,8 +187,8 @@
                 </div>
             </div>
             <div class="chat-input">
-                <input type="text" id="user-input" placeholder="Type your message...">
-                <button id="send-message">
+                <input type="text" id="user-input" placeholder="AskVVIT is ready to answer your question" disabled> <!-- Initially disabled -->
+                <button id="send-message" disabled> <!-- Initially disabled -->
                     <img src="{% static 'images/sendicon.svg' %}" alt="Send">
                 </button>
             </div>
@@ -190,24 +197,24 @@
 </div>
 
 <script>
-    // Send message
-    document.getElementById('send-message').onclick = function() {
-        sendMessage();
-    };
+    let timerInterval;
+    let timeLeft = 60; // 1 minute countdown for each query
+    let isWaiting = false; // To track if waiting for the next query
 
-    document.getElementById('user-input').addEventListener('keypress', function(e) {
-        if (e.key === 'Enter') {
-            sendMessage();
-        }
-    });
+    // Enable input for the first message (you can do this on page load)
+    enableInput();
 
+    // Send message function
     function sendMessage() {
+        if (isWaiting || document.getElementById('user-input').disabled) return; // Prevent sending if still waiting
+
         const userInput = document.getElementById('user-input').value;
         if (userInput.trim() === '') return;
 
         addMessage('user-message', userInput, '{% static "images/user-chat-bot.svg" %}');
         document.getElementById('user-input').value = '';
 
+        // Send the message to the server
         fetch('/chatbot-response/', {
             method: 'POST',
             headers: {
@@ -220,8 +227,48 @@
         .then(data => {
             addMessage('bot-message', data.response, '{% static "images/chat-bot-msg.svg" %}');
         });
+
+        // After sending the first message, start the countdown
+        startCountdown();
     }
 
+    // Start countdown after sending the message
+    function startCountdown() {
+        isWaiting = true; // Mark as waiting for the next input
+        timeLeft = 60; // Reset time for the next query
+
+        document.getElementById('user-input').disabled = true;
+        document.getElementById('send-message').disabled = true;
+
+        timerInterval = setInterval(function() {
+            timeLeft--;
+            updatePlaceholder(timeLeft);
+
+            if (timeLeft <= 0) {
+                clearInterval(timerInterval); // Stop the countdown
+                enableInput(); // Re-enable input
+            }
+        }, 1000); // Update every second
+    }
+
+    // Update the placeholder text with countdown or ready message
+    function updatePlaceholder(seconds) {
+        if (seconds > 0) {
+            document.getElementById('user-input').placeholder = `your next query in ${seconds} sec`;
+        } else {
+            document.getElementById('user-input').placeholder = "AskVVIT is ready to answer your question";
+        }
+    }
+
+    // Function to re-enable the input after countdown
+    function enableInput() {
+        isWaiting = false; // Reset waiting status
+        document.getElementById('user-input').disabled = false;
+        document.getElementById('send-message').disabled = false;
+        document.getElementById('user-input').placeholder = "AskVVIT is ready to answer your question"; // Ready to ask
+    }
+
+    // Add message to the chat
     function addMessage(className, text, icon) {
         const messages = document.getElementById('chat-messages');
         const messageElement = document.createElement('div');
@@ -254,6 +301,19 @@
         }
         return cookieValue;
     }
+
+    // Add keypress listener for Enter
+    document.getElementById('user-input').addEventListener('keypress', function(e) {
+        if (e.key === 'Enter' && !isWaiting) {
+            sendMessage();
+        }
+    });
+
+    // Add click listener for the Send button
+    document.getElementById('send-message').onclick = function() {
+        sendMessage();
+    };
 </script>
+
 </body>
 </html>

@@ -49,8 +49,18 @@
                         </a>
                     </li>
                     <li>
+                        <a href="{% url 'chatbot_page' %}" class="nav-link py-3 px-2" title="CHAT BOT" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="AddComplaint">
+                            <img src="{% static 'images/chat-bot.svg' %}" alt="chat bot" width="38" height="38">
+                        </a>
+                    </li>
+                    <li>
                         <a href="{% url 'lostandfound' %}" class="nav-link py-3 px-2" title="PROPERTY_LOSS" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Dashboard">
                             <img src="{% static 'images/Property.svg' %}" alt="Property" width="38" height="38">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="{% url 'face_recognition_page' %}" class="nav-link py-3 px-2" title="FRS" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Dashboard">
+                            <img src="{% static 'images/FACE.svg' %}" alt="Property" width="38" height="38">
                         </a>
                     </li>
                     <li>
@@ -64,11 +74,7 @@
                             <img src="{% static 'images/add-file.svg' %}" alt="feed_back" width="38" height="38">
                         </a>
                     </li>
-                    <li>
-                        <a href="{% url 'chatbot_page' %}" class="nav-link py-3 px-2" title="CHAT BOT" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="AddComplaint">
-                            <img src="{% static 'images/chat-bot.svg' %}" alt="chat bot" width="38" height="38">
-                        </a>
-                    </li>
+
                     <li>
                         <a href="{% url 'logout' %}" class="nav-link py-3 px-2" title="LOGOUT" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="AddComplaint">
                             <img src="{% static 'images/logout.svg' %}" alt="logout" width="38" height="38">
@@ -86,13 +92,11 @@
             <div class="card bg-transparent col-12 col-sm-12 col-md-8 col-lg-8 col-xl-8 ">
                 <div class="card bg-transparent d-flex flex-row justify-content-center ">
                 <div class="para">
-                    <h4> Hi,<strong id="studentName">{{name}} </strong>&#x1F44B;<br></h4>
-                    <ul>
-                    <p style="color: #F6FBFF">Explore the dashboard for the quick access <br>
+                    <h4 style="color: #050b10"> Hi,<strong id="studentName">{{name}} </strong>&#x1F44B;<br></h4>
+                    <p style="color: #050b10">Explore the dashboard for the quick access <br>
                     essentials like filling complaint,requests <br>
                     knowing the no of complaints have made.<br>
                     need help?contact our support team we are here for you</p>
-                    </ul>
                 </div>
                     <div class="image_card ">
                         <img src="{% static 'images/Telecommuting-pana.svg' %}" alt="image"  width="auto">
@@ -167,19 +171,19 @@
                                     <div class="row">
                                         <div class="col-sm-12">
                                             <div class="col-sm-12" style="color: #F6FBFF">
-                                                <h4 class="mb-0">Profile</h4>
-                                                <p class="" style="color: #F6FBFF">StudentName: {{ name }}</p>
-                                                <p class="" style="color: #F6FBFF">RollNo: {{ rollnumber }}</p>
-                                                <p class="" style="color: #F6FBFF">Email: {{ email }}</p>
-                                                <p class="" style="color: #F6FBFF">Branch: {{ branch }}</p>
-                                                <p class="" style="color: #F6FBFF">Section: {{ section }}</p>
-                                                <p class="" style="color: #F6FBFF">Year: {{ year }}</p>
+                                                <h4 class="mb-0" style="color: #000710">Profile</h4>
+                                                <p class="" style="color: #000710">StudentName: {{ name }}</p>
+                                                <p class="" style="color: #000000">RollNo: {{ rollnumber }}</p>
+                                                <p class="" style="color: #000000">Email: {{ email }}</p>
+                                                <p class="" style="color: #000000">Branch: {{ branch }}</p>
+                                                <p class="" style="color: #000000">Section: {{ section }}</p>
+                                                <p class="" style="color: #000000">Year: {{ year }}</p>
                                             </div>
 
                                         </div>
 
                                 </div>
-                                    <button class="btn btn-primary" onclick="saveButton()">Edit</button>
+{#                                    <button class="btn btn-primary" onclick="saveButton()">Edit</button>#}
 
                                 </div>
 

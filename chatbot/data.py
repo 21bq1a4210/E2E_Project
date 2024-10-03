@@ -69,8 +69,7 @@ S.No	Name of the Course	Course Code	Total Intake	Category A Seats(intake + EWS@1
 5	B.Tech - Information Technology	 INF	180	144	27	27	54
 6	B.Tech - Electronics & Communication Engineering	 ECE	180	144	27	27	54
 7	B.Tech - Electrical and Electronics Engineering	 EEE	180	144	27	27	54
-8	B.Tech - Computer Science & Engineering
-(Internet of Things and Cyber Security including Blockchain Technology)	 CIC	120	96	18	18	36
+8	B.Tech - Computer Science & Engineering (Internet of Things and Cyber Security including Blockchain Technology)	 CIC	120	96	18	18	36
 9	B.Tech - Civil Engineering	 CIV	120	96	18	18	36
 10	B.Tech - Mechanical Engineering	 MEC	120	96	18	18	36
 11	B.Tech - Computer Science & Engineering
