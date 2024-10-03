@@ -49,7 +49,6 @@ INSTALLED_APPS = [
     'chatbot.apps.ChatbotConfig',
     'forgotpassword.apps.ForgotpasswordConfig',
     'dashboard.apps.DashboardConfig',
-    'complaintbox.apps.ComplaintboxConfig',
     'lostAndFound.apps.LostandfoundConfig',
     'FRS_attendance.apps.FrsAttendanceConfig',
     # 'widget_tweaks'
