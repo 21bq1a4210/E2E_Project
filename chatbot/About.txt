@@ -1,0 +1,579 @@
+#About VVIT:
+```
+    ##About:
+    ```
+        Vasireddy Venkatadri Institute of Technology (VVIT) was established in the year 2007, with an intake of 240 students in four B. Tech programs under Social Educational Trust in Nambur village, Guntur, AP, by Er. Vasireddy Vidya Sagar. It is  located strategically between Guntur and Vijayawada in the capital region of Amaravati, AP. In a short span of 15 years, with an annual intake capacity of 1914 and 72 students into B.Tech (CE, EEE, ME, ECE, CSE, IT, CSM, CSO, CIC, AIM and AID) and M. Tech (CSE, VLSI&ES, PEED, MD, SE) programmes respectively, today more than  6000 students, 345 teaching staff and 225 non-teaching staff strive to fulfil the vision of VVIT.
+        In tune with the commitment, setting itself a benchmark as very best in terms of education, extracurricular activities and placements, VVIT has emerged as one of the top ten Engineering Colleges from the 200 engineering colleges affiliated to JNTU Kakinada. The subsequent years saw the inception of B.Tech & M.Tech programmes and signing of MoUs with Industry and Training & Placement Companies like Infosys, Tech Mahindra, Social Agro, Efftronics, AMCAT and Cocubes.  In 2014, VVIT was recognised as the nodal centre for skill development programmes of APSSDC, Govt. of AP.  The institute also has tie-ups with premier institutes like ISB to develop Entrepreneurial skills of the students.
+        Centre of Excellence (CoE) by Siemens India was established in the year 2016 under MoU with APSSDC, AP to promote Industry Institute interface and strengthen employability skills in students. It is the youngest Engineering College in the state to achieve this recognition. MoUs with Google Inc. USA for establishing Google Code labs, University Innovative Fellowship (UIF) program by Stanford University USA and  Venture Development Centre established by Northeastern University, Boston signify our commitment to quality technical education where VVIT is lauded by the press as the first institution in the state to seal the agreements.  Students are encouraged to become members in professional bodies like CSI, IEEE, IE(I), ISTE, ASME, ASCE etc. and organize seminars, workshops, colloquies as Student Chapters in the college.
+        On achieving permanent affiliation to JNTUK, Kakinada, NAAC ‘A” grade certification (CGPA 3.09) and B. Tech programmes (CE, EEE, ME, ECE, CSE, IT) accredited by NBA, VVIT has set its sight on centrally funded research projects with 10 completed and 6 running DST projects and consultancy service from other departments.  VVIT as part of its commitment to research, has published 13 patents, 16 books and nearly 690 journal papers and also has a ‘Research Centre affiliated to JNTUK’.
+        Apart from the departmental libraries, a central library with student book bank for all students with access to e-journals, DELNET, NPTEL and IUCEE caters to the academic and research needs of the students. In-House Placement Training team, absolute discipline, air-conditioned classrooms, seminar halls, multimodal teaching methodology, campus placement training, caring teachers, committed support staff, proactive managing committee, vigilant security, homely  hostels, a dedicated canteen to serve hygienic and nutritious food, 1Gbps dedicated lines for seamless internet connectivity, a 100 KW rooftop grid tied solar plant to supply green power, a fleet of 70 buses to extend glitchless transport facility, a mineral water plant, 250KVA and 80KVA generators, indoor sports arena and outdoor grounds with a 400 m athletic track make VVIT a uniquely different professional college in this region.  Student Activity Council (SAC) is a very active student body on the campus that runs students clubs culminating in organizing annual Intercollegiate and Inter-University Cultural and Sporting Competitions under the banner VIVA-VVIT. Volunteering for NCC and NSS wings of the college and SAC forum gives desired opportunities for our students to interact with students from other colleges, community and develop life skills, social responsibility and professional ethical values.
+        Realizing the slogan that “Everyone Counts,” VVIT has the unique achievement of having placed most its students in MNCs like Tech Mahindra, Infosys, TCS, Wipro, Athena Health Care, Open Text,  Genpact, Sutherlands, CSS Corp, Convergys, Apps Associates, etc. (almost 50 companies)  every year.
+    ```
+
+    ## Key Persons:
+    ```
+        Sri. Vasireddy Vidyasagar
+        Chairman, Social Educational Trust
+        Email: vvidyasagar@yahoo.com
+
+        Sri. Suryadevara Badari Prasad
+        Secretary, Social Educational Trust
+        Email: prasadbadari@gmail.com
+
+        Sri. Mamillapalli Sree Krishna
+        Joint Secretary
+        Email: krishna@vvit.net
+    ```
+
+    ## Social Educational Trust:
+    ```
+        Social Education Trust (Regd. No. 214/2006) was founded in 2006 under the Indian Trust Act by Er. Vasireddy Vidya Sagar, a noted educationist, philanthropist and doyen of computer education in Guntur.
+        The chief objective of the Trust is to set up and develop educational infrastructure that offers quality education at primary, secondary, higher and tertiary levels that confirms to global standards by establishing colleges, schools, and professional educational institutions without profit motive.
+        The Trust aims at initiating and promoting educational activities related to career and employment development like vocational training, skill based training, preparation for entrance, screening or competitive tests for both public and private services conducted by state, national and international agencies.
+        The Trust also aims to promote and foster education among socially backward and economically poor strata of the society by conferring scholarship to poor and deserving students in the form of financial grants to pay their tuition fees and other educational expenses.
+        To realize the above objectives, as a first step, the Social Education Trust instituted Vasireddy Venkatadri Institute of Technology in 2007 with an intake of 240 students and 40 teaching and non teaching staff in a 12 acre campus amid lush green fields in a completely rural environment in Nambur village in Guntur district. By 2021, the number of students studying at the college has risen to 6000 and the Trust has already created employment directly to over 500 and indirectly to more than 1000 persons. To cater to the rising educational demands of the New Capital Region the Trust proposes to establish a school with International standards offering best quality education complete with comprehensive personality development in the region.
+
+        Trust Board:
+        1. Vasireddy Vidya Sagar – Chairman and Managing Trustee
+        2. Kondisetty Rajendra – Vice-Chairman
+        3. Suryadevara Badari Prasad - Secretary
+        4. Rayudu Suresh Kumar – Treasurer
+        5. Mamillapalli Vedavani – Trustee
+        6. V Vijaya Kumar – Trustee
+        7. V Sarala Devi – Trustee
+        8. Adusumalli Sudhakar - Trustee
+        9. V Aruna Priya – Trustee
+    ```
+
+    ## Vision, Mission and Objectives:
+    ```
+        #### Vision:
+        ```
+            To impart quality education through exploration and experimentation and generate socially-conscious engineers, embedding ethics and values, for the advancement in science and technology.
+        ```
+
+        #### Mission:
+        ```
+            To educate students with a practical approach to dovetail them to industry-needs.
+            To govern the institution with a proactive and professional management with passionate teaching faculty.
+            To provide holistic and integrated education and achieve over all development of students by imparting scientific and technical, social and cognitive, managerial and organizational skills.
+            To compete with the best and be the most preferred institution of the studious and the scholarly.
+            To forge strong relationships and linkage with the industry.
+        ```
+
+        #### Objectives:
+        ```
+            Equip the institute with state of the art infrastructure comparable to the best in the industry.
+            Tap the resources of the best minds in the field as faculty and visiting faculty.
+            Groom students to become global entrepreneurs and responsible citizens.
+            Provide financial assistance to meritorious students.
+            Requisition the services of the best HR managers to place our students in reputed industries.
+            Provide conducive atmosphere to the faculty for Research & Development and ensure active participation of the students.
+        ```
+    ```
+
+    ### People:
+    ```
+        Contact Details
+        S.No	Name	Phone	Email ID
+        1	Sri. V. Vidya Sagar - Chairman	#	vvidyasagar@yahoo.com
+        2	Sri. S. Badri Prasad - Secretary	#	prasadbadari@hotmail.com
+        3	Sri. M. Sree Krishna - Jt. Secretary (Academics)	#	krishna@vvit.net
+        4	Dr. Y. Mallikarjuna Reddy - Principal	9949359336	principal@vvit.net
+        5	Dr. P. Nageswara Rao - Director	#	director@vvit.net
+        6	Dr. R. Naveen - Director (SIEMENS COE)	9440311088	naveen@vvit.net
+        7	Dr. N. Kumarswamy - Dean (Administration)	9490386288	kumarswamy@vvit.net
+        8	Dr. K. Giribabu - Dean (Academics)	9885263148	kgiribabu@vvit.net
+        9	 Dr. M. V. Raghu Ram - Dean (Freshman and Placements)	8500450220	 mv.raghuram@vvit.net
+        10	Dr. T. Sreedhar Babu - HOD, Civil Dept.	9490772244	sreedharbabu@vvit.net
+        11	Dr. K. Satyanarayana - HOD, ME Dept.	9440484851	satyam918@gmail.com
+        12	Dr. M. Yaswanth Bhanumurthy - HOD, ECE Dept.	9704135453	mybhanu@vvit.net
+        13	Dr. V. Ram Chandran Bhatt - HOD, CSE Dept.	9441410285	vrc.bhatt@gmail.com
+        14	Dr. A. V. Naresh Babu - HOD, EEE Dept.	9849509478	avnareshbabu@vvit.net
+        15	Dr. A. Kalavathi - HOD, IT Dept.	9440201567	kalavathi_alla@vvit.net
+        16	Sri. J. Koteswara Sarma - AO	9866384336	jksarma@vvit.net
+        17	Dr. P. Ammireddy - Controller of Examinations	9848068948	vvitcoe@vvit.net
+        18	Mr. N. Siva Rama Krishna - Deputy Controller of Examinations	9849048992	vvitdce@vvit.net
+        19	Sri. K. Suresh Babu - Training Officer (CSE)	9866179668	kollurusuresh@vvit.net
+        20	Placement Office	#	tpo@vvit.net
+        21	Dr. K. V. L Somasekhar - ED Cell	8297948223	kvl@vvit.net
+    ```
+    ### Committees:
+    ```
+        #### Statutory Committees:
+        ```
+            #### Governing Body:
+            ```
+                ##### Chairman:
+                ```
+                    Vasireddy Vidya Sagar is a visionary with rich experience in the field of Academics and industry. A person who dares to dream big and commands the ability to make them come true. He has a Bachelor of Engineering degree from Bangalore University. He has over 20 years of experience in the field of Education. He is in the field of computer education since 1994 as a managing partner of Social Computers which has a franchisee of Aptech, a multinational company. It was one of the leading Computer Education Institutes in Coastal Andhra Pradesh for over a decade.
+                    He was the Project Head for the prestigious project of Government of Andhra Pradesh 1000 computerisation project for Guntur, Prakasam and Nalgonda district zone imparting computer education for over 75000 students. The project was successfully completed in 2010. Further he has been heading similar projects of ICT@5000 and ICT@1300 schools computerization projects in GUNTUR district. Under this project more than 550 employees are working with more than 100000 school children being educated annually.
+
+                    He is the managing trustee of Social Education trust under which an engineering college was started in the name of Vasireddy Venkatadari Institute of Technology, at Namburu village Pedakanani Mandal with the present students around 4000. Working with missionary zeal, he has effectively used his skills for the establishment of professional Educational Institutions that compare with the best in the state of Andhra Pradesh. The college is proudly ranked 2nd among the 470 odd colleges set up in the last decade in united Andhra Pradesh.
+
+                    Having benefited from world class quality education from Sainik School Korukonda, he always felt that he owed a good school to the society. 21 years in the field of academics, and now, to provide formal world class education for children he started VIVA-The School by VVIT which is the first International School in the newly formed state of Andhra Pradesh.
+
+                    He is the Proprietor of Social Computer Services, a Software Technology Park of India (STPI) registered Medical Transcription Unit, a pioneering enterprise in coastal Andhra Pradesh.
+
+                    He is also the managing partner of Social Agro Industries, a cotton seed oil extraction and refinery which also help the students of Vasireddy Venkatadri Institute of Technology to get hands on experience of industrial atmosphere.
+
+                    His innate business acumen and ethical business practices led him to succeed in all these highly competitive and pioneering efforts in varied fields.
+
+                    He is an active social worker and played a prominent role in development of several Educational Institutions, temples, churches and Dargas. He is active member of round table, Honorary Chairman of Sri Tyagaraja Cultural Association, Guntur, Bharatiya Vidya Bhavan and other cultural organizations.
+                ```
+
+                ##### Secretary:
+                ```
+                    He along with Chairman plays a key role in defining the college vision and strategy. He brings his invaluable experience in managing people at various levels always ensuring a smooth and satisfactory relationship. He has experience in administering and maintaining the campus and designing and executing students activities to achieve the all round personality of the students. It is his deep-rooted academic interest that fuelled his endeavors in the field of education.
+
+                    He is a Post Graduate from Vikram University Ujjain, Madhya Pradesh and has acquired his Masters degree in Geology and he has also done M.Sc. (Tech) in Mineral Exploration and obtained M Phil degree from the same University. He is young and energetic member of the management team and is actively managing the Educational Institution. With the full time dedication to the Management coupled with the guidance provided by learned professors, the college has achieved great heights in the field of technical education. He believes that our nation needs not just engineers and managers but virtuous men and women who can be professionals and entrepreneurs armed with Integrity and discipline and good citizens capable of utilizing their talents in building our Nation into a world power.
+
+                    He has a considerable experience as an Exploration Geologist in Mineral Exploration Corporation and served at various places in Rajasthan, Bihar (now Jharkhand), Madhya Pradesh and Maharashtra. He resigned the job and took up Aptech Computer Education unit at Eluru which is still running successfully in the name of Sri Sai Software and Informatics.
+
+                    He was the Project co-ordinator for 1000 schools computerization project in three districts, ICT@5000 and ICT@1300 schools Computerization project. Presently he is monitoring the day to day work of Vasireddy Venkatadri Institute of Technology.
+
+                    Apart from regular activities he is also into agriculture at Sekuru Village and Chiluvuru Village with varied crops of Lemon, Sapota gardens, paddy cultivation and other seasonal crops.
+                ```
+
+                ##### Joint Secretary (Academics):
+                ```
+                    Sri Mamillapalli Sree Krishna, the Joint Secretary of VVIT holds a Masters degree in Computer Science and Engineering from JNTUK, Kakinada. He is one of the earliest members to have started teaching Computer Science and Engineering subjects in the entire coastal Andhra Pradesh. After completing his graduation in engineering from GITAM, Visakhapatnam, in 1987, he underwent training in the advanced computer science topics in NIIT. He worked as a faculty member in NIIT from 1989 to 1994.
+
+                    In 1994 he joined Sri Vasireddy Vidya Sagar, another young technocrat, to establish the first franchise centre of APTECH Computers in Andhra Pradesh at Guntur. Mr Sree Krishna’s contributions helped The APTECH Computer at Guntur to emerge as a centre of learning for those who aspired to be software professionals.
+
+                    In 2007 he Joined VVIT as the Joint Secretary. An alumnus of Sainik School, Korukonda, Mr Sree Krishna is an astute administrator. He has been a guiding force behind the success of the Training and Placement Cell of the College.
+
+                    Though he spends most of his time in the administrative work of the college, he always keeps himself abreast with the developments taking place in the field of technology.
+                ```
+
+                ##### Principal:
+                ```
+                    Dr. Yennapusa Mallikarjuna Reddy  born on 1st JUNE  1965, obtained his B.E degree in Electronics & Communications  from Osmania, University  Hyderabad  in 1987, and Master ’s degree in ECE (Instrumentation &  Control Systems) from JNTU, Kakinada in 1990 and Ph.D  in Radar Signal and Image Processing  from Osmania, University  Hyderabad  Mar 2009. He has a professional teaching experience of 31 years.
+
+                    Dr. Mallikarjuna Reddy is an active researcher in the areas like Digital Signal Processing, Radar Image Processing, Speech Processing, Missile Technology, EMF, Fiber Optics, Neural Networks, Digital Communications, Machine Learning & Deep Learning, IOT, etc.  and published 30 research papers in peer-reviewed International and National Journals which are SCI indexed and in International Conferences . As a Principal Investigator he obtained a grant of Rs 60 lakhs for Major Research Projects funded by DST. He is an active reviewer for an International Journal “AMSE Periodicals FRANCE – Modeling, Measurement & Control and for “IACSIT” and ICSCI.
+
+                    As the Principal of the college he implemented several best practices, few of them are Performance based Appraisal System(PBAS), Establishment of collaborative labs with Industry, Setting up of Department Incubation Centre’s, Conduct of Model exhibition on ‘Innovation Day’ (Engineers Day), Promotion of R&D through up gradation of qualifications & research publications, external Academic Audit, and implementation of Industry relevant flexible curriculum leading to Outcome based Teaching-Learning, Student Development and Research. He played a key role in successful implementation in rating the college with grade ‘A’ by NAAC and accreditating NBA for all B.Tech courses and substantial improvement in campus placements.
+
+                    Dr. Mallikarjuna reddy has been ratified as Principal of VVIT, by JNTU Kakinada in the year 2011 and performs following duties as Principal – Administrative Duties, R&D projects, Teaching, Exams, Campus placements and Soft skills training. He worked as Head of ECE dept., running PG and PG programs, assisting management in administrative works, Design of course curriculum, Paper setting for university exams, Coordinator for student association activities, student training programs and Industry Institute Interaction, Coordinator for Campus placements, Soft skills training and   Alumni Association. He holds the following Membership of Scientific and Professional Societies:
+
+                    Follow of Institute of Engineers – FIE, M.No. 115694/7
+                    Life Member in ISTE – MISTE LM 8015.
+                    Member in IEEE
+                    He was awarded as best teacher in 2019, 2010,2007,2005,2004 in various colleges. He is Supervisor for Guiding Ph.D students recognized by JNTU Kakinada, JNTU Hyderabad, and Rayalaseema University. He is author for 9 books in different subjects like Probability Theory and Stochastic Process, Signals and Stochastic Processes and Electromagnetic Waves and Transmission Lines. At present he is guiding scholars in emerging technologies like Medical Image Processing, Machine Learning and Deep learning
+                ```
+
+                ##### Global Ambassador
+                ```
+                    Sri Mahadev Vasireddy with a bachelors in computer science from Penn State university is Vice Chairman of Vasireddy Venkatadri Institute of Technology (VVIT) and VIVA The School. He also executes responsibilities as Chief Relations Officer of both the educational institutions, VVIT and VIVA. He is the elder son of Sri Vasireddy Vidya Sagar, Managing Trustee of Social Educational Trust and Chairman of Vasireddy Venkatadari Institute of Technology and VIVA The School run by the trust.
+                    Sri Mahadev Vasireddy is an innovative and resourceful person with out of the box ideas to drive the institutes into the industry 4.0 era. He is an effective communicator and great motivator of the team VVIT & VIVA. In the last couple of years, he has shouldered the responsibility of strengthening the existing team and building new strengths. He played a crucial role in unfolding the vision of his father, by coordinating with APSSDC, Siemens COE, Google Code Labs, Dassault lab teams and other stakeholder teams. With age working to his advantage, he is very popular with the student community and steers Student Activity Council with élan.
+                    Sri Mahadev Vasireddy, following his father’s spirit of dreaming big has been working on to bring the world closer through "Freela – truly free freelancing" a blockchain based decentralised initiative as its Founder and CEO.
+                ```
+            ```
+
+            ##### Board of Studies (BoS):
+            ```
+               #####  BoS - CSE:
+               ```
+                    1-Dr V Ramachandran-BOS Chairman
+                    2-Prof M H M Krishna Prasad-Principal, University College of Engineering JNTUK-University Nominee
+                    3-Prof E Sreenivasa Reddy-Dean, University College of Engineering Acharya Nagarjuna University-External BOS Member and Subject Expert
+                    4-Dr G Sanjay Gandhi-Professor, Dept of CSE-Member
+                    5-Dr A Kalavathi-HOD, IT-Member
+                    6-Dr T Sudhir-HOD, AID-Member
+                    7-Dr K Suresh Babu-HOD, AIML-Member
+                    8-Dr M R N Tagore-HOD, CIC-Member
+                    9-Dr Bh Rajya Lakshmi-HOD S & H-Member
+                    10-Prof Dr T Vijaya Krishna-Dept of S & H-Member
+                    11-Dr T Kameswara Rao-Professor, Dept of CSE-Member
+                    12-Dr N Lakshmi Prasanna-Associate Professor-Member
+                    13-Dr O Aruna-Associate Professor-Member
+                    14-Dr P Srinivasa Rao-Associate Professor-Member
+                    15-Dr Ch V Suresh-HOD, CSO-Member
+                    16-Mr P R Krishna Prasad-Associate Professor-Member
+                    17-Mr K Mohan Krishna-Associate Professor-Member
+                    18-Mr J Madhu Babu-Associate Professor-Member
+                    19-Mr P Siva Prasad-Associate Professor-Member
+                    20-Mr A Vishnu Vardhan-Asst Professor-Member
+                    21-Mr Ch Hari Prasad-Asst Professor-Member
+                    22-Mr S Narendra-Asst Professor-Member
+                    23-Ms Sravya Pranati-Student Member-Student Member
+                    24-Mr Nandyala Konda Babu-Associate Project Lead Dharani Info Technologies-Industry Member
+               ```
+
+                ##### BoS - ECE:
+                ```
+                    1. Dr. M.Y. Bhanu Murthy - BOS Chairman, Professor & HoD ECE, VVIT
+                    2. Dr. N. Balaji - University Nominee and External BOS Member, Professor of ECE, UCEK, JNTUK, Kakinada
+                    3. Dr. B. Anuradha - External BOS Member and Subject Expert, Professor of ECE, S.V. University, Tirupati
+                    4. Dr. T. Satya Savithri - External BOS Member and Subject Expert, Professor of ECE, JNTUH College of Engineering, Hyderabad
+                    5. Dr. K. Giri Babu - Member, Professor of ECE & Dean of Academics, VVIT
+                    6. Dr. P. Ammi Reddy - Member, Professor of ECE & CoE, VVIT
+                    7. Dr. Sk. Enaul Haq - Member, Professor of ECE, VVIT
+                    8. All faculty members of the department - Members, Dept. of ECE, VVIT
+                    9. Mr. Chakravarti Bheemisetti - Industry Expert and External BOS Member, Senior Analog Design Engineer, Intel Technology India Pvt. Ltd., Bengaluru
+                    10. Mrs. Manasa Yarramasu - Member, Alumnus, Senior Engineer, Qualcomm, Hyderabad
+                ```
+
+                ##### BoS - IT:
+                ```
+                    1. Dr. A. Kalavati: Chairman, Head of Department [no department specified]
+                    2. Entire faculty of each specialization: Members, Department Subject Experts
+                    3. Dr. S Jyothi: Member, Outside Subject Expert, Professor of CSE at Sri Padmavathi Mahila Viswa Vidyalayam, Tirupathi
+                    4. Dr. E. Srinivasa Reddy: Member, Outside Subject Expert, Professor of CSE at Acharya Nagarjuna University (ANU), Guntur
+                    5. Dr. D.Rajya Lakshmi: Member, University Expert, Professor, CSE Department & Principal, UCEN, JNTUK, Kakinada
+                    6. Sri G V Manoj Kumar: Member, Industry Expert, Scientist-F, NSTL, DRDO, Vizag
+                    7. Sri Sainadh Alapati: Member, Meritorious PG Alumni, Technical Lead, Innovation Centre, HCL, Chennai
+                ```
+
+                ##### BoS - EEE:
+                ```
+                    1. Dr. A.V. Naresh Babu: Chairman, Head of Department (HOD)
+                    2. Entire faculty of each specialization: Members, Department Subject Experts
+                    3. Dr. Sankar Peddapati: Member, Outside Subject Expert, Assistant Professor, Electrical and Electronics Engineering, National Institute of Technology, Andhra Pradesh
+                    4. Dr. B. Amarendra Reddy: Member, Outside Subject Expert, Associate Professor, Department of Electrical and Electronics Engineering, Andhra University, Visakhapatnam
+                    5. Dr. K. Ravindra: Member, University Expert, Professor, Electrical and Electronics Engineering Department, University College of Engineering, JNTU, Kakinada
+                    6. Mr. P. Durga Srinivas: Member, Industry Expert, Assistant Executive Engineer, Dr. NTTPS, Ibrahimpatnam, Krishna
+                    7. Mr. K. Harish Acharya: Member, Alumni, Research Engineer, Hyundai Mobis, IT Park, Madhapur, Hyderabad
+                ```
+                ##### BoS - Civil:
+                ```
+                    1. Dr. T. Sridhar Babu_: Chairman, Professor and Head of Department
+                    2. Entire faculty of each specialization_: Members, Department Subject Experts
+                    3. Dr. P. Konda Rama Rao_: Member, Outside Subject Expert, Professor of Civil Engineering Department, Government Engineering College, Gudlavelluru, Krishna District
+                    4. Dr. M. Ravindra Krishna_: Member, Outside Subject Expert, Professor, KITS, Guntur
+                    5. Dr. G. Abbaiah_: Member, University Expert, Professor, Civil Engineering Department & Director UGSA, JNTUK, Kakinada
+                    6. Sri. Pagadala Rajesh_: Member, Industry Expert, Managing Director, Pagadala Constructions Pvt. Ltd., Hyderabad
+                    7. Shaik Mohammad Khasim_: Member, Meritorious PG Alumni, Assistant Engineer, Panchayatiraj, Chilakaluripet, Guntur District
+                ```
+
+                #### BoS - MCA:
+                ```
+                    1. Dr. N. Koteswaramma: Chairman, Head of Department
+                    2. Entire faculty of each specialization: Members, Department Subject Experts
+                    3. Dr. K. Kartika Pavan: Member, Outside Subject Expert, Professor of MCA Department, RVRJC, Guntur
+                    4. Dr. E. Srinivasa Reddy: Member, Outside Subject Expert, Professor of CSE, ANU, Guntur
+                    5. Dr. O. Srinivasa Rao: Member, University Expert, Professor, CSE Department, UCEK, JNTUK, Kakinada
+                    6. Sri G V Manoj Kumar: Member, Industry Expert, Scientist-F, NSTL, DRDO, Vizag
+                    7. Meritorious PG Alumni: Member (Name not specified)
+                ```
+
+                #### BoS - CSO:
+                ```
+                    1. Dr. Ch. V. Suresh - Professor & Head - BOS Chairman
+                    2. Dr. K. Giri Babu - Professor & Dean of Academics - Dept. Subject Expert-Senior member
+                    3. Dr. S. Krishna Prasad - Associate Professor - Dept. Subject Expert-Member
+                    4. Mrs. K. Vineela - Assistant Professor - Dept. Subject Expert-Member
+                    5. Dr. S. Kiran - Assistant Professor, Department of CSE, YSR Engineering College of YVU, Proddatur, Kadapa - Outside Subject Expert-Member
+                    6. Dr. Y. Rama Devi - Professor & Head, Department of CSE, CBIT, Hyderabad - Outside Subject Expert-Member
+                    7. Dr. K. Chandra Bhushana Rao - Professor & Head, Department of ECE, UCEV, JNTUK, Vizianagaram - University nominee- Member
+                    8. Mr. S. Tejaswa Kumar - Digital Tech Developer Sr Analyst, Accenture, Telangana - Industry Expert-Member
+                    9. Ms. Naidu Sindhura - Associate Software Engineer, TCS, Chennai - Meritorious PG Alumni- Member
+                ```
+
+                ##### BoS - S&H:
+                ```
+                    1. Dr. M.V. Raghuram: Chairman, Professor and Head of Department
+                    2. Entire faculty of each specialization: Members, Department Subject Experts
+                    3. [Names listed separately]: Member, Outside Subject Expert
+                    4. [Names listed separately]: Member, Outside Subject Expert
+                    5. Dr. Madupalli Suresh Kumar: Member, University Expert, Professor, Department of English, Acharya Nagarjuna University, Guntur
+                    6. [Names listed separately]: Member, Industry Expert
+
+                    ###### English:
+                    ```
+                        1. Dr. T. Sarada
+                            - Email: saradabalaji@gmail.com
+                            - Designation: Associate Professor
+                            - Affiliation: Sri Venkateswara University, Tirupati
+
+                        2. Dr. A. Rama Naga Hanuman
+                            - Mobile: 9603168881
+                            - Email: Alapati.dr@gmail.com
+                            - Designation: Associate Professor
+                            - Affiliation: University College of Engineering, Visakhapatnam
+
+                        3. Dr. G. Chenna Reddy
+                            - Mobile: 9849254816
+                            - Email: cryujju27@gmail.com
+                            - Designation: Professor
+                            - Affiliation: Acharya Nagarjuna University (ANU), Nagarjuna Nagar
+
+                        4. Dr. Madupalli Suresh Kumar
+                            - Designation: Professor
+                            - Department: English
+                            - Affiliation: Acharya Nagarjuna University, Guntur
+                            - Position: University Expert Member
+                    ```
+
+                    ###### Mathematics:
+                    ```
+                        1. Dr. Reddy Y N
+                            - Designation: Professor
+                            - University/Institute: National Institute of Technology, Warangal
+                            - Contact: 8332969447, ynreddy@nitw.ac.in
+                            - Note: National Institute of Technology, Warangal is a public technical and research university recognized as an Institute of National Importance by the Government of India ¹.
+                        2. Dr. K Siva Prasad
+                            - Designation: Assistant Professor
+                            - University/Institute: Acharya Nagarjuna University
+                            - Contact: 9885314659, Siva235prasad@yahoo.co.in
+                        3. Dr. K. Sobhan Babu
+                            - Designation: Professor
+                            - University/Institute: JNTU University College of Engineering, Narasaraopet
+                    ```
+
+                    ###### Physics:
+                    ```
+                        1. Dr. V. Mani
+                            - Designation: Scientist-E
+                            - University/Institute/Industry: Centre for Materials for Electronics Technology (CMET), Hyderabad
+                        2. Dr. V. R. K. Murthy
+                            - Designation: Professor (Retd.)
+                            - University/Institute: VIT, Amaravathi (Formerly at IIT Madras)
+                        3. Dr. A. Srinivasa Rao
+                            - Designation: Associate Professor
+                            - University/Institute: Delhi Technological University (DTU), Delhi
+                        4. Dr. G. Padmaja Rani
+                            - Designation: Professor and Head of Department
+                            - University/Institute: Department of Physics, JNTUK, Kakinada
+                            - Additional Role: Professor In-charge, School of Pharmacy
+                    ```
+
+                    ###### Chemistry:
+                    ```
+                        1. Dr. R. Venkatanadh
+                            - Designation: Professor and Head of Department
+                            - University/Institute: Gitam University, Bangalore
+                            - Contact: 9902632733, doctornadh@yahoo.co.in
+
+                        2. Dr. I. Srikanth
+                            - Designation: Scientist-E
+                            - University/Institute/Industry: Advanced Systems Laboratory (ASL), Defence Research and Development Organisation (DRDO), Hyderabad
+                            - Contact: srikanth@yahoo.co.uk, nanocomps@gmail.com
+
+                        3. Dr. S. Satya Veni
+                            - Designation: Assistant Professor
+                            - University/Institute: Department of Chemistry, Jawaharlal Nehru Technological University (JNTU), Kakinada
+                    ```
+
+                    ###### Management Science:
+                    ```
+                       1. Dr. M. S. Narayana
+                            - Designation: Head of Department (MBA)
+                            - University/Institute: Narasaraopeta Engineering College (NEC), Narasaraopeta
+
+                       2. Dr. Jayasankar Prasad
+                            - Designation: Head of Department (MBA)
+                            - University/Institute: Krishna University
+
+                       3. Dr. Nagaraju Battu
+                            - Designation: Head, Department of Human Resource Management
+                            - University/Institute: Department of Management Studies, Acharya Nagarjuna University
+                    ```
+                ```
+            ```
+            ##### Finance Committee:
+            ```
+               The Finance Committee present the financial implications and the audit report to the Governing Body. It also serves as an advisory team, which would offer sagacious suggestions to the Governing Body to use the funds with discretion.
+
+                Objective:  To ensure proper utilization of fund.
+
+                Composition of Finance Committee:
+
+                The Principal (Chairman).
+                One person to be nominated by the Governing Body of the college for a period of two years.
+                Finance Officer of the affiliating University
+                One senior-most teacher of the college to be nominated in rotation by the Principal for two years.
+                Term : Term of the Finance Committee will be two years.
+
+                Meetings : The Finance Committee will meet at least twice a year
+
+                Meeting Schedule and Process of convening a meeting:
+
+                The member secretary is expected to issue a circular with the schedule and agenda one week in advance, with the consent of the Chairman. However, the Chairman reserves the right to conduct any emergency session under certain circumstances that can be deemed to be an emergency situation.
+
+                            If it is not possible for the member secretary to convene a meeting because of any academic or administrative reasons, one of the senior members of the committee can take up the responsibility of convening the meeting with the prior approval of the Chairman. Tentative schedule of the meetings during the academic year has to be drawn by the convener in consultation with the Chairman.
+
+                Quorum and other standard tenets;
+
+                Attendance of 1/3 of its total strength is considered the quorum for the meeting.
+                The committee may prepare a draft plan for items to be presented for further processing by the relevant bodies.
+                If any member comes up with an innovative proposal, he/she may be advised to prepare a full-stretch document of the project put forward with projected financial commitment with relevant documents failing which such open suggestions can deferred to the next meeting by requesting the members to be more focused in their approach.
+                The deliberations are strictly confidential and shall be confined to in-house circulation, and if any member is found leaking the information to external agencies, the matter shall be reported for correctional administration.
+                Functions of the Finance Committee:
+
+                The Finance Committee shall act as an advisory body to the Governing Body, to consider:
+
+                Budget estimates relating to the grant received/receivable from UGC, and income from fees, etc. collected for the activities to undertake the scheme of autonomy; and
+                Audited accounts for the above.
+                To recommend fixation/revision of fees and other charges payable by the students to the College Governing Council.
+                see that expenses incurred have budgetary provision recommend for approval financial proposals made by other committees with or without modification
+                check that necessary formalities have been observed in incurring expenses
+                check process bills placed for payment
+                consider proposal for enhancement of wage/allowance or engagement of temporary staff
+
+                ```
+                    1. Dr. Y. Mallikarjuna Reddy
+                        - Designation: Principal
+                        - Position: Chairman
+
+                    2. Finance Officer (nominated by the Governing Body)
+                        - Designation: Finance Officer
+                        - Position: Member
+
+                    3. Finance Officer of the affiliating University
+                        - Designation: Finance Officer
+                        - Position: Member
+
+                    4. Dr. N. Kumara Swamy
+                        - Designation: Dean (Academics)
+                        - Position: Member
+                 ```
+            ```
+            ##### Academic Council:
+            ```
+                Academic Council has been constituted with the Principal as the Chairman, three members from the University, experts from outside the college representing such areas as Industry, Education,Engineering etc., all heads of departments, senior faculty of the college and a member secretary. Academic Council is the principal academic body of this Autonomous Institute. It is responsible for laying down, regulating, and maintaining the standards of instruction, education and examination within the Institute. It has the right to advise the Governing Body on all academic matters.
+                ```
+                    1. Dr. Y Mallikarjuna Reddy: Principal and Chairman
+                    2. Dr. T. Sridhar Babu: Head of Department, Civil Engineering, Member
+                    3. Dr. R. Eswaraiah: Head of Department, Computer Science and Engineering, Member
+                    4. Dr. K. Giri Babu: Head of Department, Electronics and Communication Engineering, Member
+                    5. Dr. A.V. Naresh Babu: Head of Department, Electrical and Electronics Engineering, Member
+                    6. Dr. A Kalavathi: Head of Department, Information Technology, Member
+                    7. Dr. K. Satyanarayana: Head of Department, Mechanical Engineering, Member
+                    8. Dr. N. Koteswaramma: Head of Department, Master of Computer Applications, Member
+                    9. Dr. M.V. Raghuram: Head of Department, Science and Humanities, Member
+                    10. Dr. T. Srinivasa Rao: Professor, Mechanical Engineering, Member
+                    11. Dr. P. Sudhakar: Professor, Computer Science and Engineering, Member
+                    12. Dr. M.Y.Bhanu Murthy: Professor, Electronics and Communication Engineering, Member
+                    13. Dr. T. Vijay Krishna: Professor, Science and Humanities, Member
+                    14. Col. TMRN Chari: Engineering Expert, Member
+                    15. Satya Topalli: HR Manager, Sphere Soft Solutions, Industry Expert, Member
+                    16. Sri Polisetty Syam Sunder: Industry Expert, Member
+                    17. Mallineni Venkat Rao: Head, iON, TCS, Hyderabad, Industry Expert, Member
+                    18. Dr. D. Narendranath: Consultant Homeopath, Doctor, Member
+                    19. Sri Posani Suresh: Master Trainer, Educationalist, Member
+                    20. Dr. V.V. Subba Rao: Professor, Mechanical Engineering Department, and Registrar, JNTUK, Kakinada, JNTUK University Nominee, Member
+                    21. Dr. G. Yesuratnam: Professor, Civil Engineering Department, and DAP, JNTUK, Kakinada, JNTUK University Nominee, Member
+                    22. Dr. R. Srinivasa Rao: Professor, Electrical and Electronics Engineering Department, and DE, JNTUK, Kakinada, JNTUK University Nominee, Member
+                    23. Dr. N. Kumara Swamy: Professor, Civil Engineering, and Dean of Academics, VVIT, Member Secretary
+                ```
+            ```
+        ```
+
+        #### Non Statutory Committees:
+        ```
+            page link: ```https://www.vvitguntur.com/about/committees/non-statutory-committees```
+        ```
+    ```
+
+    ## Achievements:
+    ```
+        2007-2010: Establishment and Expansion
+        - Established with 4 UG programs (EEE, ECE, CSE, IT) and 240 students
+        - Introduced MCA program and increased intake in CSE
+        - Transferred affiliation from JNTU Hyderabad to JNTUK
+        - MoU with Aptech for placement training
+
+
+        2011-2014: New Programs and Partnerships
+        - Started B.Tech in Civil and Mechanical Engineering
+        - Introduced PG courses in M.Tech (EEE, CSE)
+        - Partnerships with Infosys, Co Cubes, Monster, and Social Agro Industries
+        - Established Nodal Centre of APSSDC
+
+
+        2015-2018: Accreditation and Research
+        - Accredited with A grade by NAAC
+        - Permanent affiliation to JNTUK
+        - NBA accreditation for ECE and IT programs
+        - Established 15 state-of-the-art labs of Siemens Centre of Excellence
+        - Sanctioned DST projects and FDPs worth INR 1 crore
+        - Recognised Research Centre in ECE dept by JNTUK
+
+
+        2019-2020: Autonomy and New Programs
+        - Became an autonomous institution
+        - AICTE sanctioned four new B.Tech programs in emerging areas (AI, DS, IoT)
+        - Ranked top private engineering college by Times Engineering Rankings
+        - Ranked among top 25 institutes in the country by ARIIA Ranking
+    ```
+
+    ## SWOT Analysis:
+    ```
+        ### STRENGTHS:
+        ```
+            Accredited by NAAC with ‘A’ grade.
+            B.Tech ECE, CSE, EEE, ME & IT programs are accredited by NBA.
+            Permanent affiliation to Jawaharlal Nehru Technological University Kakinada.
+            An ISO 9001:2009 certification.
+            VVIT is among the two private engineering colleges out of 300 engineering colleges in the state selected by AP State Government to host Siemen’s Center of Excellence. Under this Center of Excellence CNC India Ltd. Bangaluru sets up ROBOTICS lab, LAKSHMI MACHINES WORKS, Coimbatore sets up CNC Lab, METAFAB Engineers (I) Pvt. Ltd sets up Automotive body repair and paint Lab, BEACON LIFTS Ltd sets up Lift installation and maintenance Lab and DESIGN TECH systems Ltd, Pune sets up the remaining labs.
+            Established Skill Development Center of AP State Skill Development Corporation (APSSDC, Hyderabad) to impart skills to enhance employability of the students and unemployed youth in the region.
+            The first College in the region to have installed a roof top solar power plant of 100 KW with an aim of producing green power.
+            Conducting ‘TEP’ (Technology Entrepreneurship Program) of Indian School of Business (ISB) through Entrepreneurship Development Cell at the campus.
+            Conducting ‘iSpark program’ by INFOSYS Technologies – more than 300 students per year visit Infosys Hyderabad campus to understand the real world industry expectations.
+            Our students achieved many awards and prizes in National Level Technical contests conducted by various premier institutions like IITM, VIT, JNTUK and other Universities.
+            Developed 54 Mobile apps with innovative ideas through APSSDC.
+            Industrial MOU with Infosys Campus Connect.
+            MOU with Kalpah Innovations, Visakhapatnam to collaborate on Medical Imaging.
+            MOU with Robotics Core School to offer Advanced Embedded courses on campus.
+            MOU with Social Agro Industries to collaborate on Electronic Automation.
+            MOU with Quality People, Vijayawada to develop software products.
+            MOU with IUCEE (Indo Universal Collaboration for Engineering Education) for knowledge upgradation.
+            Training MOUs with Cocubes, Monster, Seventh Sense, Ikya Global, Talents Show and Oompfh.
+        ```
+
+        ### WEAKNESSES:
+        ```
+            Students, being from rural area, are striving to meet national and global standards in technical education and facing language barriers.
+            Institute has to upgrade their teaching community for more funded projects; quality research and development; and patents and consultancy.
+
+            OPPORTUNITIES:
+
+            Institute is continuously organizing various development programs for the benefit of teachers and students through seminars, workshops, conferences, symposiums and other student meets.
+            Ever increasing demand for technical education at UG & PG level of Engineering & Technology.
+            Many more opportunities for tie-ups with both established and start-up companies in India and abroad for enhancing learning outcomes.
+         ```
+
+        ### THREATS:
+        ```
+            Institute has competition from other technical universities.
+            Fast changing world with cutting edge technologies.
+        ```
+    ```
+
+    ## Strategic Goals:
+    ```
+        ### Short Term Goals:
+        ```
+            To make the institute as an autonomous institute.
+            To get all programmes accredited by NBA.
+            To introduce new need based programmes at U.G and P.G level.
+            To strengthen the curriculum.
+            To incorporate more number of electives in the curriculum.
+            To establish R&D Centres in all departments.
+            To establish technology business incubation centre.
+            To encourage innovations and self-employment through Entrepreneurship Development Cell.
+            To improve industry-institute interaction with the collaboration of at least three industries per department.
+            To focus more on training and placements.
+            To accelerate faculty development programmes.
+            To strengthen counseling.
+            To improve transparency level.
+            To make feedback system more effective.
+            To conduct training programmes for supporting technical staff.
+            To provide more community services in adopted villages.
+            To accelerate objective oriented NSS programmes in nearby slum areas.
+            To constantly up-grade content to bridge gaps between learning outcomes and employability.
+            To support weak students, focusing on ensuring equity among all categories of students.
+            To offer value-addition courses beyond the curriculum during off hours for students and local community.
+        ```
+
+        ### Long Term Goals:
+        ```
+            To undertake national and international Research and Development works in all the disciplines and to emerge as centers of excellence.
+            To encourage sponsored and collaborative research with industries, tailor-made training for working professionals, testing and calibration services etc.
+            To ensure that all the faculty members possess Ph.D degrees.
+            To enter into more number of MOUs with International and National organizations.
+            To make this Institute as one of the best learning centres.
+        ```
+    ```
+```

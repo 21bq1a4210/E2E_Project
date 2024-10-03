@@ -187,11 +187,19 @@
                 </div>
             </div>
             <div class="chat-input">
-                <input type="text" id="user-input" placeholder="AskVVIT is ready to answer your question" disabled> <!-- Initially disabled -->
-                <button id="send-message" disabled> <!-- Initially disabled -->
+                <select id="info-type" class="form-select" aria-label="Select Info Type" style="width: 200px;">
+                    <option value="about">About</option>
+                    <option value="admissions">Admissions</option>
+                    <option value="departments">Departments</option>
+                    <option value="facilities">Facilities</option>
+                    <option value="placement">Placement</option>
+                </select>
+                <input type="text" id="user-input" placeholder="AskVVIT is ready to answer your question" disabled>
+                <button id="send-message" disabled>
                     <img src="{% static 'images/sendicon.svg' %}" alt="Send">
                 </button>
             </div>
+
         </div>
     </div>
 </div>
@@ -205,32 +213,38 @@
     enableInput();
 
     // Send message function
-    function sendMessage() {
-        if (isWaiting || document.getElementById('user-input').disabled) return; // Prevent sending if still waiting
+    // Send message function
+function sendMessage() {
+    if (isWaiting || document.getElementById('user-input').disabled) return; // Prevent sending if still waiting
 
-        const userInput = document.getElementById('user-input').value;
-        if (userInput.trim() === '') return;
+    const userInput = document.getElementById('user-input').value;
+    const infoType = document.getElementById('info-type').value; // Get selected info type
 
-        addMessage('user-message', userInput, '{% static "images/user-chat-bot.svg" %}');
-        document.getElementById('user-input').value = '';
+    if (userInput.trim() === '') return;
 
-        // Send the message to the server
-        fetch('/chatbot-response/', {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-                'X-CSRFToken': getCookie('csrftoken') // Add CSRF token for security
-            },
-            body: JSON.stringify({ message: userInput })
-        })
-        .then(response => response.json())
-        .then(data => {
-            addMessage('bot-message', data.response, '{% static "images/chat-bot-msg.svg" %}');
-        });
+    // Combine the info type and user input message
+    const combinedMessage = `[${infoType.toUpperCase()}] ${userInput}`;
 
-        // After sending the first message, start the countdown
-        startCountdown();
-    }
+    addMessage('user-message', combinedMessage, '{% static "images/user-chat-bot.svg" %}');
+    document.getElementById('user-input').value = '';
+
+    // Send the message to the server
+    fetch('/chatbot-response/', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+            'X-CSRFToken': getCookie('csrftoken') // Add CSRF token for security
+        },
+        body: JSON.stringify({ message: combinedMessage }) // Send the combined message
+    })
+    .then(response => response.json())
+    .then(data => {
+        addMessage('bot-message', data.response, '{% static "images/chat-bot-msg.svg" %}');
+    });
+
+    // Start the countdown after sending the message
+    startCountdown();
+}
 
     // Start countdown after sending the message
     function startCountdown() {
