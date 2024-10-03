@@ -45,13 +45,13 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'home.apps.HomeConfig',
     'login.apps.LoginConfig',
-    'signup.apps.SignupConfig',
     'chatbot.apps.ChatbotConfig',
     'forgotpassword.apps.ForgotpasswordConfig',
     'dashboard.apps.DashboardConfig',
     'lostAndFound.apps.LostandfoundConfig',
     'FRS_attendance.apps.FrsAttendanceConfig',
-    'complaint_administration'
+    'complaint_administration',
+    'user_administration'
     # 'widget_tweaks'
 ]
 
@@ -93,8 +93,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'project_e2e',
-        'USER': 'postgres',
-        'PASSWORD': 'admin',
+        'USER': 'bhargavbunty',
+        'PASSWORD': 'Bhavana@2004',
         'HOST': 'localhost',
         'PORT': '5432',
     }
@@ -116,19 +116,6 @@ DATABASES = {
 #         'PORT': '5432',
 #     }
 # }
-
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'project_e2e',
-        'USER': 'postgres',
-        'PASSWORD': 'admin',
-        'HOST': 'localhost',
-        'PORT': '5432',
-    }
-}
-
-
 
 # Password validation
 # https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators
@@ -191,3 +178,4 @@ EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'greviencevvit@gmail.com'
 EMAIL_HOST_PASSWORD = 'pvhr wbrs tmbv rxty '
+AUTH_USER_MODEL='user_administration.CustomUser'

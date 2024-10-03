@@ -1,17 +1,18 @@
 from django.shortcuts import render, get_object_or_404, redirect
 from django.contrib.auth import logout as auth_logout
-from signup.models import Student, User
+from user_administration.models import CustomUser, Student
+
 # Create your views here.
 def dashboard(request):
     #Get the User object based on the provided 'username'
     username = request.session.get('username', None)  # Retrieve username from session
-    user = get_object_or_404(User, username=username)
+    user = get_object_or_404(CustomUser, username=username)
 
     # Now, retrieve the associated Student object
     student = get_object_or_404(Student, user=user)
 
     # Extract the required fields
-    student_name = student.user.get_full_name()  # Assuming you want the full name
+    student_name = student.user.username  # Assuming you want the full name
     roll_number = student.roll_number
     email = student.user.email
     branch = student.branch

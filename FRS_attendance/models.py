@@ -1,5 +1,5 @@
 from django.db import models
-from django.contrib.auth.models import User
+from user_administration.models import CustomUser
 from django.utils import timezone
 
 class Attendance(models.Model):
@@ -8,7 +8,7 @@ class Attendance(models.Model):
         ('Absent', 'Absent'),
     ]
 
-    user = models.ForeignKey(User, on_delete=models.CASCADE)
+    user = models.ForeignKey(CustomUser, on_delete=models.CASCADE)
     date = models.DateField(default=timezone.now)
     status = models.CharField(max_length=10, choices=STATUS_CHOICES, default='Absent')
 
@@ -20,7 +20,7 @@ class Attendance(models.Model):
 
 
 class FaceRegistration(models.Model):
-    user = models.OneToOneField(User, on_delete=models.CASCADE)
+    user = models.OneToOneField(CustomUser, on_delete=models.CASCADE)
     face_features = models.BinaryField(null=True, blank=True)  # Store the face features in binary format
     face_image = models.ImageField(upload_to='face_images/', null=True, blank=True)  # Store the face image
 
