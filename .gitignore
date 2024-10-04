@@ -2,8 +2,6 @@
 /venv/
 /media/
 *sqlite3
-/migrations/
-
 *.pyc
 __pycache__
 venv/
