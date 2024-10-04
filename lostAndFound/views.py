@@ -3,7 +3,9 @@ from .form import LostItemForm,FoundItemForm
 from .search import SearchItems
 from django.http import JsonResponse
 import json
+from django.contrib.auth.decorators import login_required
 
+@login_required
 def LostandFound(request):
     return render(request,'lostandfound.html')
 

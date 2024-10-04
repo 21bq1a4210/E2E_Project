@@ -25,6 +25,7 @@ def preprocess_image(image):
     img = cv2.resize(image, (160, 160))  # FaceNet uses 160x160 input size
     return np.expand_dims(img, axis=0)
 
+@login_required
 def face_recognition_page(request):
     # Render the page for face recognition (e.g., a template with the webcam input)
     return render(request, 'face-1.html')

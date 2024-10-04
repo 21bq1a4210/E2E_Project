@@ -1,0 +1,388 @@
+# Google CodeLabs:
+```
+    Google Developers Code labs  are top-of-the-line  Computer labs optimized  for group work and mobile development.   They will be installed at 2 college campuses across India.
+    The purpose of these labs is to help maintain interest in product/application development beyond our initial trainings, as well as serving as an incentive for the host Universities to be involved in our training program.   We want these labs, like the course, to be available to as many people as people, so we’re primarily considering campus locations that are part of very large state-run Universities.
+    These labs will be funded entirely by Google, including maintenance and IT support through the end of the skilling initiative.  At the end of our initiative, the CodeLabs space and equipment will remain the property of the host college/university.
+    Code Lab Be Used For:
+         ```
+            The primary use of these spaces will be to host our curriculum on
+            Machine Learning /AI
+            Mobile Development
+            Web Development
+            Cloud/Analytics
+            IoT
+        ```
+    and train-the-trainer sessions for said curriculum.. Otherwise they will be open for use by the college as regular computers labs, although Google reserves the right to use them for special programming, such as
+    Hackthons
+    GDG/WTM meetups
+    Faculty refresh courses on our curriculum
+    Short prigramming workshops, on other Google products
+    Design workshops, in partnership with UIF
+    Event live-stream viewing parties
+    Launchpad startup events
+    Speaker Series – Distinguished speakers from Industry/Academia (Hands on curriculum to be developed based on the talk given by the speaker)
+```
+
+# Siemens' Center of Excellence:
+```
+    Siemens Industry Software India Pvt. Ltd. (SISW), a wholly owned subsidiary of Siemens Product Lifecycle Management Software Inc., recently signed an agreement with the State of Andhra Pradesh Skill Development Corporation for the establishment of six Centers of Excellence (COEs) and thirty Technical Institutes across the state. The agreement was signed jointly by SISW and their partner, DesignTech Systems Ltd. (DesignTech) on 30th June 2015 at the APSSDC Office, Hyderabad.
+    The six COEs will address diverse industry segments like Automotive, Industrial machinery, Industrial automation, Aerospace & defense, and Shipbuilding. The collaboration will train students on relevant industry processes and help create industry-ready trained personnel. This industry-readiness and relevance of skills will attract better career opportunities for students and will eventually foster further industrial development in the state of Andhra Pradesh. The COEs are unique in their ability as they will be able to stitch together the virtual world of engineering and manufacturing simulation with the physical world of product development and manufacturing.
+    Equipped with the latest PLM software solutions from Siemens PLM Software, such as NXTM software for digital product engineering, Teamcenter® software for digital lifecycle management and Tecnomatix® software for digital manufacturing, and state-of-the-art industrial automation equipment from Siemens Industry these COEs will have the latest computer numerical controllers (CNC), programmable logic controllers (PLC), computer integrated manufacturing units (CIM) comprising of CNC milling and turning machines, automated guided vehicles (AGV), industrial robots, automatic storage and retrieval systems, vision inspection systems for quality control, CIM controllers and software and rapid prototyping machines. All the software is integrated using the Siemens Total Integrated Automation (TIA) portal, and each of the COEs will have seven fully equipped laboratories staffed with instructors trained and certified by SISW.
+    In addition to the 6 COEs, to cater to the dual need of percolating industry knowledge throughout the technical skill supply chain as well as catering to various levels of job requirements that exist in this ecosystem, a unique hub & spoke model is developed where the COEs cater to the white collar requirements and t-SDIs focus on the grey & blue collar spectrum. These 30 technical-Skill Development Institutes training centers are focused on skilling students in vocational trades – Automotive, Electrician, Electronics, Manufacturing & Fabrication, and Agro & Farm machineries, at Polytechnic/ ITI level. These centers are built with industry partnership with companies like Mahindra First Choice for Automotive, Schneider for Electrical, HCL for Electronics, LMW for Manufacturing, ESAB for Welding and John Deere for Agriculture.
+
+    ## Open Technology Platform: Scalable, Modular & Independent:
+    ```
+        The Open technology is scalable, modular and Independent. The centers can be expanded to incorporate latest technologies as and when the new technologies and developed and available. These centers are technologically independent.
+    ```
+
+    ## Self-learning Interactive modules – DIAS based (Digitally Advanced Interactive System):
+    ```
+        This model being digital, can be extended to the SDC level. It is hence incomparable coverage for the masses and grass roots.
+    ```
+
+    ## Unique and Advanced Hub & Spoke Delivery Model:
+    ```
+        The hub and spoke approach make it possible to get a large scale deployment and scale-up possibility with minimum time and investment. It also optimally leverages the physical infrastructure to cover as much territory as possible. These centers act as a foundation for adding other courses, collaborators, partners as per the need of AP, India and also globally. The spokes (t-SDI) are connected to the hubs (COE) for learning assistance and advanced lab infrastructure. These spokes are further linked to the SDCs to provide reach to district and village level students. This Hub and spoke model reaches one level deeper than the previous only “COE model”, which has been developed in various other states of India. “COEs” are focused to skill students for relevant growth industries – Automotive, Aerospace & Defense, Industrial Machineries, and Shipbuilding, at competent Engineering Colleges, whereas “t-SDIs” are focused on skilling students in vocational trades – Automotive, Electrician, Electronics, Manufacturing & Fabrication, and Agro & Farm machineries, at Polytechnic/ ITI level. COEs (Centers of Excellence) are created as advanced knowledge centres in Engineering Colleges with focus on student training, R&D, conducting industry sessions, etc. They will act as hubs for a set of t-SDIs. t-SDIs (technical-Skill Development Institutes) are designed to train students on technical and vocational trades at polytechnic/ ITI levels. Each COE hub will be linked with 5 unique t-SDIs with a combination of three trades in each one of them. SDCs (Skill Development Centres) are local e-enabled centres that will access digital content available with COEs and t-SDIs to help spread beginner level vocational skills across AP.
+    ```
+
+    ## Industry Relevant, Self -Sustaining Platform:
+    ```
+        This is an industry relevant academic program. Any new technology additions and refreshes as per industry needs are easily incorporated in minimum time. The model is self sustaining. It is prime funded but operationally sustainable. These centers are being developed on a “Built – Operate – Transfer” model. The complete setup will be transferred relevant institutions/ bodies post 3 years. An additional 1 year of supervisory and subject matter expertise will also be provided to APSSDC.
+    ```
+
+    ## Global Relevance:
+    ```
+        The world needs Technically Skilled workforce and India has a unique advantage of having 47 million surplus manpower in 2020. India has another advantage of the “demographic bulge” occurring at age bracket of 15–29. India has world’s largest population in this age bracket. If “adequately skilled”, India can fulfill the skilled labour deficit of developed world (~50 million). These courses are being developed after research of various vocational courses available internationally (in particular: Germany, Singapore, South Africa and Korea). The latest skills required in international markets have been incorporated into the already extensive courses available in India.
+    ```
+```
+
+# University Innovation Fellows by Google and Stanford University:
+```
+    The University Innovation Fellows program empowers students to become agents of change at their schools. The Fellows are a global community of students leading a movement to ensure that all students gain the
+
+    necessary attitudes, skills and knowledge required to compete in the economy of the future. These student leaders from schools around the world create new opportunities that help their peers develop an entrepreneurial mindset, build creative confidence, seize opportunities, define problems and address global challenges.
+
+    Fellows are creating student innovation spaces, founding entrepreneurship organizations, hosting experiential events, and working with faculty and administrators to develop courses. They serve as advocates for lasting institutional change with academic leaders and represent their schools at national events.
+
+    The University Innovation Fellows is a program of Stanford University’s Hasso Plattner Institute of Design (d.school). The program was created as part of the National Center for Engineering Pathways to Innovation (Epicenter), a five-year National Science Foundation grant.
+```
+
+# Dassault Systemes:
+```
+    Andhra Pradesh State Skill Development Corporation (APSSDC) in association with M/s. Dassault Systemes, France, has established a 3D Experience lab in the premises of Vasireddy Venkatadri Institute of Technology in the academic year 2018 with a capacity of 36 systems of computers with high configuration (i7 processor, 1TB hard disk and 16GB RAM). The 3D experience lab facilitates licensed software from M/s. Dassault Systemes, France, to train the students and faculty members of Mechanical, Civil and Electrical Engineering Departments, which operates from a server of 64GB RAM, arranged in the lab. The licenses are connected through the internet server only.
+
+    ## Objectives:
+    ```
+        To enhance the employability skill for engineering graduates in research & development technology implementation by imparting skills in engineering design in 3D experience platform throughout the four year academic program.
+
+        Students to implement innovative thoughts on 3D experience platform for product development.
+        Improve students’ confidence levels by working in domains such as Aerospace, Automotive and Offshore engineering.
+        Improved opportunities & placement, sustainability upon recruitment.
+    ```
+    ## Target group:
+    ```
+        II, III and IV year Mechanical, Electrical and Civil Engineering faculty members and students, both UG and PG levels.
+
+        ### Levels of training:
+        ```
+            #### Level A:
+            ```
+                The level A course focuses on II, III and IV year Mechanical, Electrical and Civil Engineering faculty members and students and covers the software applications, introduction of Mechanical design, digital manufacturing equipment system and Finite Element Analysis, with a course duration of 150 hours in which 70 hours are for class room training and the remaining 80 hours are intended for hands-on-practice.
+
+                The level A has three modules as follows.
+
+                CATIA: It is a platform to design, sketch, surfacing, drafting and assembling of the components. The platform has a wide variety of workbenches. The designed models can be exported to different other software like Solid works, Creo, Unigraphics and .STLfor 3D printing. The CATIA platform requires 60 hours.
+
+                DELMIA: The industrial engineering problems can be solved on DELMIA like Process planning, scheduling, routing, time study and flow study. It covers digital manufacturing processes and needs 30 hours of learning.
+
+                SIMULIA: Simulation and analysis of the engineering problems are dealt in SIMULIA. Both Mechanical (structural, fluidics, frequency etc.) and thermal (heat transfer, computation fluid dynamics etc.) problems are taught in this domain. It requires 60 hours of learning.
+            ```
+            #### Level B:
+            ```
+                The level B focuses on the diploma and III year engineering students, those who have completed level A. it covers the basic domain specific training related to three industry verticals such as Automotive, Aerospace and Ship building ( Marine and Off-shore).
+            ```
+            #### Level C:
+            ```
+                It focuses on Final year engineering students who have completed level A & B. It covers the advanced industry domain specific training. The course will spread across three months and will include an application project.
+            ```
+            #### Level D:
+            ```
+                The capstone project of the eighth semester can be performed by the students under the guidance of one local and one industry mentor. The duration of the project depends on the team size, capacity and complexity of the other projects.
+            ```
+```
+# VVIT TEP - ISB:
+```
+    Technology Entrepreneurship Program (TEP), an ISB initiative supported by Andhra Pradesh Information Technology Academy. The TEP program was initiated in September, 2013, with the objective of promoting Technology Entrepreneurship as a viable career option and nurture the culture of entrepreneurship in the region. An Agreement was made between APITA, ISB and VVIT.
+
+    The Programme was inaugurated by Mr.K.Taraka Rama Rao,Hon’ble Minister for IT and Panchayatraj, Government of Telengana and Key note Address by Mr.H.K.Mittal,  Adviser, Member Secretary, NSTEDB & TDB. Mr.Rama Rao has advised Colleges to promote Technology Entrepreneurship as a viable career option for students and nurture the culture of entrepreneurship in the region. He also said that it is need of the hour to enrich the professional courses by introducing innovation and entrepreneurship education.
+
+    Mr.Mittal in his key noteaddress advised colleges to provide Environment/Experience for Engineering students to create Investable technology based start-ups.
+```
+
+# Grievance Redressal:
+```
+    1. Dr. Y. Mallikarjuna Reddy, Principal, serves as the Chairman.
+    2. Dr. T Sridhar Babu, HOD, CE, acts as the Convener.
+    3. Sri. A. Sudarshan Reddy, Professor, IT, is a Member.
+    4. Smt. P. Pavani, Asst. Prof, CSE, is a Member.
+    5. Smt. M. Rajya Lakshmi, Asst. Prof, IT, is a Member.
+    6. Dr. P. Lakshman Naik, Assoc. Prof, EEE, is a Member.
+    7. Dr. R. Ratna Prasad, Prof, CE, is a Member.
+    8. Dr. J. Vijaya Kumar, Prof, S&H, is a Member.
+    9. Smt. Lakshmi Vineetha, Asst. Prof, MEC, is a Member.
+    10. Sri. V.T. Venkateswarlu, Assoc. Prof, ECE, is a Member.
+    11. Dr. M. Giridhar, Asst. Prof, S&H, APD, is a Member.
+    12. Sri. V. Srikanth, Programmer, IT, is a Member.
+    13. Sri.N. Kalyana Srinivas, Programmer, CSE, is a Member.
+    14. Mr. B. Jagadeesh, Student, 4th ME, is a Student Member.
+    15. Ms. K. Sravya, Student, 4th CE, is a Student Member.
+```
+
+# Central Library:
+```
+    The college has a computerized library well equipped with a large collection of books under the categories of academics, reference and general.  All the books are bar-coded and indexed using the latest library management software.  The library also subscribes to both national and international magazines, journals and periodicals in addition to leading national dailies.
+    It is a book house of knowledge, where its prime motto is to guide every student in an appropriate way and pave the road to success. It meets the innumerable needs of the students in the academic curriculum. It satiates the intellectual hunger and quenches the thirst for knowledge of the scholarly students.  The book collection ranges from literary classics to management guide and from career counselors to technical reviews.
+
+    ## Library Details : Volumes, Titles & Journals:
+    ```
+        Computer Science and Engineering (CSE):
+        - Total Volumes: 17,720
+        - Titles: 1,875
+        - Journals: 48
+
+        Computer Science and Engineering - Artificial Intelligence (CSE-AI) M.Tech:
+        - Total Volumes: 5,560
+        - Titles: 645
+        - Journals: 18
+
+        Electronics and Communication Engineering (ECE):
+        - Total Volumes: 11,700
+        - Titles: 1,680
+        - Journals: 18
+
+        Electrical and Electronics Engineering (EEE):
+        - Total Volumes: 9,580
+        - Titles: 1,290
+        - Journals: 18
+
+        Information Technology (IT):
+        - Total Volumes: 9,265
+        - Titles: 1,475
+        - Journals: 18
+
+        Civil Engineering:
+        - Total Volumes: 9,150
+        - Titles: 990
+        - Journals: 12
+
+        Mechanical Engineering:
+        - Total Volumes: 9,375
+        - Titles: 1,020
+        - Journals: 18
+
+        Computer Science and Machine Learning (CSM):
+        - Total Volumes: 3,580
+        - Titles: 610
+        - Journals: 18
+
+        Centre for Interdisciplinary Courses (CIC):
+        - Total Volumes: 2,620
+        - Titles: 410
+        - Journals: 12
+
+        Computer Science and Systems Operation (CSO):
+        - Total Volumes: 2,850
+        - Titles: 460
+        - Journals: 12
+
+        Artificial Intelligence and Data Science:
+        - Total Volumes: 3,780
+        - Titles: 595
+        - Journals: 18
+
+        General:
+        - Total Volumes: 11,780
+        - Titles: 2,550
+        - Journals: 12
+
+        Total Library Resources:
+        - Total Volumes: 114,300
+        - Titles: 22,790
+        - Journals: 234
+    ```
+    ## Digital Library:
+    ```
+        Digital Library has 36 Computer Systems with High Speed Internet and backup
+        NPTEL E-Lectures and Videos
+        DELNET
+        IEEE Society Periodicals, ASME and ASCE
+        National Digital Library of India (NDLI)
+        Open Access Journals/Dissertations/Archives/Database contents available at library portal
+    ```
+    ## Library Services:
+    ```
+        CIRCULATION SERVICE : Daily about 250 books issue/returns
+        REFERENCE SERVICE : 26550 Reference Books available
+        REPROGRAPHY / SCANNING : Available
+        E-LEARNING/ ONLINE ACCESS : IEEE, ASME, ASCE, DELNET, NPTEL, IETE, IAS etc.
+        BOOK BANK/TEXT BOOK SERVICE : SC/ST Book Bank = 6550 Books available
+        RARE BOOKS / HAND BOOKS / YEAR BOOKS = about 2000 books available
+        COMPETITIVE EXAMINATION Books : GATE, IES, CAT, GRE, etc. available
+        AUTOMATION & NETWORKING : EZ LIBRARY SOFTWARE / INTRANET
+        LIBRARY ORIENTATION/AWARENESS : In Library Hours
+    ```
+    ## Staff:
+    ```
+        1. N.V. Sai Krishna
+            - Qualification: M.A., M.L.I.Sc., M.Phil., PGDCA
+            - Designation: Librarian
+
+
+        2. Dr. CH. Madhavi
+            - Qualification: M.L.I.Sc., Ph.D.
+            - Designation: Librarian - Circulation Section
+
+
+        3. Velaga Manavendra
+            - Qualification: M.A., M.L.I.Sc.
+            - Designation: Librarian - Reference Section
+
+
+        4. P. Sri Kalyan Chakravarthi
+            - Qualification: M.A., MHRM., HDSE
+            - Designation: Digital Library Assistant
+
+
+        5. E. Ushabala
+            - Qualification: B.A.
+            - Designation: Library Assistant
+
+
+        6. N. Hosanna
+            - Qualification: B.Sc., M.L.I.Sc.
+            - Designation: Library Assistant
+
+
+        7. E. Sumanth
+            - Qualification: B.Com., M.L.I.Sc.
+            - Designation: Library Assistant
+
+
+        8. K. Nagamani
+            - Qualification: B.Com.
+            - Designation: Helper
+
+
+        9. P. Bajimun
+            - Qualification: Intermediate
+            - Designation: Helper
+
+
+        10. N. Vimala
+            - Qualification: S.S.C.
+            - Designation: Attender
+
+
+        11. N. Navya Sri
+            - Qualification: S.S.C.
+            - Designation: Attender
+
+
+        12. T. Raja Rajeswari
+            - Qualification: 5th standard
+            - Designation: Sweeper
+    ```
+```
+
+# Canteen:
+```
+    VVIT takes pride in claiming that we have one of the best and the most experienced team that takes care in preparing and catering healthy food in a hygienic environment. Our aesthetically designed Canteen is one of the best places to eat.
+
+    ## Timings:
+    ```
+        Break Fast: 8:00 AM to 10:30 AM
+        Lunch: 12:00 to 2:00 PM
+    ```
+    ## Menu:
+    ```
+        Break Fast:- Idly, Vada, Chapathi, Rice Pongal, Mysore Bajji, Upma served with Chutney and Sambar.
+        Lunch:- A special item like Bajji, Sweet, Tomato Rice, Pulihora, Curd Rice, Fried Rice, Spiced Rice, Seasonal fruits etc, with White Rice, Dal, Vegetable Fry, Vegetable curry, Sambar, Vegetable Chutney or a pickle and Curd
+    ```
+
+    ## Charges:
+    ```
+        The present charges (subject to change) for meals are as shown below:
+        Break Fast: Rs 20.00 per item (Idly – 4 nos, Vada 3 Nos, Chapati 1, Upma or Rice Pongal 2 Scoops)
+        Lunch: Rs 38.00 per day, Monthly Card @ Rs 34.00 per working day
+        Tea: Rs. 5
+    ```
+```
+
+# Hostels:
+```
+    College run separate hostel facility with an integrated mess for both boys and girls.
+    ## Girls Hostel:
+    ```
+        Location – within the college campus so doesn’t require to spend more on transport.
+        Capacity – Well lit and Properly ventilated rooms with four beds, bath attached and ample study space
+        Mess – Dedicated mess which serves healthy and hygienic food.
+        Fee - Rs 95,000/-* (for the academic year 2024-25).
+        Security – 24 hours vigilant security personnel with closed circuit cameras.
+        Entertainment – Games, TV Programmes & Movies.
+        * Dhobi Charges Extra
+    ```
+    ## Boys Hostel:
+    ```
+        Location – near Kaza Toll Plaza
+        Capacity – Well lit and properly ventilated 25 Flats with 10 Beds, bath attached and ample study space
+        Mess – dedicated mess which serves healthy and hygienic food.
+        Fee - Rs 95,000/-* (for the academic year 2024-25) including Transport.
+        Security – 24 hours vigilant security services.
+        Transport – Students have to and fro bus service in the morning and evening from hostel and college as well.
+        * Dhobi charges extra.
+    ```
+```
+
+# Transport:
+```
+    VVIT operates a fleet of 67 buses to provide a smooth glitch less transportation for the students and staff from every important place in Guntur, Vijayawada, Mangalagiri, Tenali, Ponnur, Amaravathi, Tadikonda, Kantheru, Perecherla, Nuthakki, Pedhanandhipadu, Narasaraopet, Sattenapalle, Tulluru and Gannavaram.
+    link: ```https://www.vvitguntur.com/images/documents/Transport/BUS_FARES-2024.pdf```
+```
+
+# IUCEE:
+```
+    ## About:
+    ```
+        Vasireddy Venkatadri Institute of Technology welcomes the inaugural of the IUCEE-EWB Student Chapter with great gusto. Unveiled by our Beloved Chairman, Sri Vasireddy Vidhyasagar Garu, the EWB Student Wing envisions to assist students to spearhead the gallop towards advancing projects that help the socio-economic cause. The Wing aims to facilitate a deep-trenched research mindset and allow it to become an inherent second nature to tomorrow's key decision-makers.
+        The EWB Student Wing of VVIT was launched by Dr Showkath Ali (Director, EWB India), with more than 120 students registering their names during the initial drive. The chapter's four cornerstones are societal welfare, leadership, competition, and bringing forth a deep-seated understanding (towards valuing diverse opinions). The EWB will assist students in developing the empathy and industry-standard skills necessary to ensure a future of mutual growth. EWB works in over 68 countries and provides services to scholars from a variety of prestigious universities.
+    ```
+    ## Vision :
+    ```
+        To guide and motivate students and professionals to solve real-time problems faced by the community with a technology-based solution..
+    ```
+    ## Mission :
+    ```
+        Collaborate with non-profit organizations and social organizations, understand the potential problems faced by the community, and improve the quality of life for common people.
+    ```
+```
+
+# UiPath Academic Alliance Partnership:
+```
+    Vasireddy Venkatadri Institute of Technology is an Academic Alliance Partner with UiPath. UiPath is a leading Robotic Process Automation vendor providing a complete software platform to help organizations efficiently automate business processes.
+
+    As part of UiPath Academic Alliance, students can avail the following benefits –
+    ```
+        Approved courses delivered by certified or qualified educator
+        Learn at your own pace with UiPath Academy https://academy.uipath.com/
+        Free one-year UiPath software licenses to students, which could be installed on 2 machines
+        Events, competition, and engagement activities
+        Mentorship session with UiPath MVP and community leaders
+        Entrepreneurship opportunities
+        Dedicated community and discussion forum
+        https://forum.uipath.com/c/learn/academic-alliance/113
+        https://communityevents.uipath.com/students-in-automation/
+        50% discount on UiPath Certified Professional (UCP) exams
+        Connect with UiPath hiring partners for placement opportunities
+        Through this partnership program, 2 of our faculty have been trained by the UiPath on Robotic Process Automation (RPA) technology in the month of January 2020 at UiPath, Bangalore.
+    ```
+```
