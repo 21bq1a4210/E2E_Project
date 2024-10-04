@@ -1,45 +1,54 @@
-<!DOCTYPE html>
+{% extends 'basetemplate.html' %}
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Report Lost Item</title>
-    <style>
-        body {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
-        .lost-f-body {
-            height: inherit;
-            display: flex;
-        }
-        .lost-f-container {
-            margin: auto;
-        }
-        .lost-form {
-            width: 400px;
-        }
-        .l-f {
-            margin-top: 20px;
-            display: flex;
-            flex-direction: column;
-        }
-        .lfin {
-            margin-right: 0px;
-        }
-        .lost-f-submit-in {
-            margin: auto;
-            margin-bottom: 20px;
-            height: 40px;
-            width: 200px;
-            font-size: 20px;
-        }
-    </style>
 </head>
-<body>
-    <h1>Found An Item ??</h1>
+<body> -->
+{% block content %}
+<style>
+    body {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .lost-f-body {
+        height: inherit;
+        display: flex;
+    }
+    .lost-f-container {
+        margin: auto;
+    }
+    .lost-form {
+        width: inherit;
+        display: flex;
+        flex-direction: column;
+    }
+    .l-f {
+        margin-top: 20px;
+        display: flex;
+        flex-direction: column;
+    }
+    .lfin {
+        margin-right: 0px;
+    }
+    .lost-f-submit-in {
+        margin: auto;
+        margin-bottom: 20px;
+        height: 40px;
+        width: 200px;
+        font-size: 20px;
+    }
+    .lost-form > div{
+        margin-left: auto;
+        margin-right: auto;
+        width:500px;
+    }
+</style>
+    <h1 style="text-align: center;">Found An Item ??</h1>
     <h3>Don't Worry. Report the item here, and we will search for you.</h3>
     <form method="post" enctype="multipart/form-data">
         {% csrf_token %}
@@ -81,7 +90,7 @@
                 {{ form.date }}
             </div>
             <div class="lost-f-image l-f">
-                <label for="image" class="lost-f-image-label lflabel">Image:</label>
+                <label for="image" class="lost-f-image-label lflabel" required>Image:</label>
                 {{ form.image }}
             </div>
             <div class="lost-f-desc l-f">
@@ -93,5 +102,6 @@
             </div>
         </div>
     </form>
-</body>
-</html>
+{% endblock content %}
+<!-- </body>
+</html> -->

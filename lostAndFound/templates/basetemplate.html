@@ -9,11 +9,12 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
     <style>
-
-        body{
-            background: #FFFFFF;
-        }
         /* Chatbot styles */
+        .block-content{
+            width: fit-content;
+            margin-left: auto;
+            margin-right: auto;
+        }
         .chat-container {
             width: 100%;
             max-width: 1000px;
@@ -180,31 +181,13 @@
         </div>
         <!-- End of sidebar -->
         <!-- Chat Interface -->
-        <div class="chat-container bg-light-subtle" id="chat-container">
-            <div class="chat-header">
-                <h5>AskVVIT</h5>
-            </div>
-            <div class="chat-messages" id="chat-messages">
-                <div class="message bot-message">
-                    <img src="{% static 'images/chat-bot-msg.svg' %}" alt="Bot" class="avatar">
-                    <div class="message-text">Hi there! How can I assist you today?</div>
-                </div>
-            </div>
-            <div class="chat-input">
-                <select id="info-type" class="form-select" aria-label="Select Info Type" style="width: 200px;">
-                    <option value="about">About</option>
-                    <option value="admissions">Admissions</option>
-                    <option value="departments">Departments</option>
-                    <option value="facilities">Facilities</option>
-                    <option value="placement">Placement</option>
-                </select>
-                <input type="text" id="user-input" placeholder="AskVVIT is ready to answer your question" disabled>
-                <button id="send-message" disabled>
-                    <img src="{% static 'images/sendicon.svg' %}" alt="Send">
-                </button>
-            </div>
+         <div class="block-content">
 
-        </div>
+             {% block content %}
+
+
+              {% endblock content %}
+         </div>
     </div>
 </div>
 
@@ -217,38 +200,32 @@
     enableInput();
 
     // Send message function
-    // Send message function
-function sendMessage() {
-    if (isWaiting || document.getElementById('user-input').disabled) return; // Prevent sending if still waiting
+    function sendMessage() {
+        if (isWaiting || document.getElementById('user-input').disabled) return; // Prevent sending if still waiting
 
-    const userInput = document.getElementById('user-input').value;
-    const infoType = document.getElementById('info-type').value; // Get selected info type
+        const userInput = document.getElementById('user-input').value;
+        if (userInput.trim() === '') return;
 
-    if (userInput.trim() === '') return;
+        addMessage('user-message', userInput, '{% static "images/user-chat-bot.svg" %}');
+        document.getElementById('user-input').value = '';
 
-    // Combine the info type and user input message
-    const combinedMessage = `[${infoType.toUpperCase()}] ${userInput}`;
+        // Send the message to the server
+        fetch('/chatbot-response/', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'X-CSRFToken': getCookie('csrftoken') // Add CSRF token for security
+            },
+            body: JSON.stringify({ message: userInput })
+        })
+        .then(response => response.json())
+        .then(data => {
+            addMessage('bot-message', data.response, '{% static "images/chat-bot-msg.svg" %}');
+        });
 
-    addMessage('user-message', combinedMessage, '{% static "images/user-chat-bot.svg" %}');
-    document.getElementById('user-input').value = '';
-
-    // Send the message to the server
-    fetch('/chatbot-response/', {
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/json',
-            'X-CSRFToken': getCookie('csrftoken') // Add CSRF token for security
-        },
-        body: JSON.stringify({ message: combinedMessage }) // Send the combined message
-    })
-    .then(response => response.json())
-    .then(data => {
-        addMessage('bot-message', data.response, '{% static "images/chat-bot-msg.svg" %}');
-    });
-
-    // Start the countdown after sending the message
-    startCountdown();
-}
+        // After sending the first message, start the countdown
+        startCountdown();
+    }
 
     // Start countdown after sending the message
     function startCountdown() {
