@@ -137,7 +137,7 @@ def mark_attendance(request):
                     # Compare the features using cosine similarity
                     similarity = 1 - cosine(registered_features, test_features)
 
-                    if similarity > 0.60:  # Adjust threshold based on testing
+                    if similarity > 0.70:  # Adjust threshold based on testing
                         # Check if attendance is already marked for today
                         today = timezone.now().date()
                         attendance, created = Attendance.objects.get_or_create(user=request.user, date=today)
