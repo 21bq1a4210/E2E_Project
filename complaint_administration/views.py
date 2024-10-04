@@ -58,6 +58,7 @@ def view_complaint(request, complaint_id):
     user = request.user
     if not user.is_authenticated:
         return HttpResponse('Please Login before Viewing a Complaint')
+    print(complaint_id)
     complaint = Complaint.objects.get(complaint_id=complaint_id)
 
     return render(request, 'complaint_administration/view_complaint.html', {'complaint': complaint})

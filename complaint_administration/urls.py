@@ -1,8 +1,10 @@
 from django.urls import path
 from complaint_administration import views
 
+app_name = 'complaint_administration'
+
 urlpatterns = [
-    path('register/', views.register_complaint),
+    path('register/', views.register_complaint, name='register'),
     path('', views.view_complaints),
     path('search/', views.search),
     path('escalate_complaint/', views.escalate_complaint, name='escalate_complaint'),

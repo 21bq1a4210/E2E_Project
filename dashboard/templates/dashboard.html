@@ -27,7 +27,7 @@
                     <a class="nav-link" href="{% url 'logout' %}">Logout</a>
                 </li>
                 <li class="nav-item back1">
-                    <a class="nav-link " href="{% url 'signup' %}">SignUp</a>
+                    <a class="nav-link " href="{% url 'user_administration:register' %}">SignUp</a>
                 </li>
                 <li class="nav-item back1">
                     <a class="nav-link " href="">FAQ</a>
@@ -64,7 +64,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="#" class="nav-link py-3 px-2" title="RegisterComplaint" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="MyComplaints">
+                        <a href="{% url 'complaint_administration:register' %}" class="nav-link py-3 px-2" title="RegisterComplaint" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="MyComplaints">
                            <img src="{% static 'images/checklist.svg' %}" alt="Registrations_complaints" width="38" height="38">
                         </a>
                     </li>

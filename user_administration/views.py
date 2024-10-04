@@ -65,7 +65,7 @@ def user_login(request):
             if user:
                 login(request, user)
                 messages.success(request, "You are logged in")
-                return HttpResponseRedirect('/complaints/')
+                return HttpResponseRedirect('/dashboard/')
             else:
                 return HttpResponse("Invalid username or password")
 

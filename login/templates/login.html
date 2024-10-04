@@ -29,7 +29,7 @@
                     <a class="nav-link" href="#">Login</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="{% url 'signup' %}">SignUp</a>
+                    <a class="nav-link" href="{% url 'user_administration:register' %}">SignUp</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">FAQ</a>
@@ -49,7 +49,7 @@
                 <div class="card ml-5 shadow-lg w-75 h-auto m-3">
                     <h4 class="pt-3">Login</h4>
                     <p>Please Enter Valid User Name <br> &  Password</p>
-                    <form method="post" action="{% url 'login' %}">
+                    <form method="post" action="{% url 'user_administration:login' %}">
                         {% csrf_token %}
                         <div class="texts d-flex flex-column justify-content-center">
                             <div class="form-floating mb-3">
@@ -62,7 +62,7 @@
                             </div>
                             <div class="mt-1">
                                 <a href="{% url 'forgotpassword' %}" style="color: blue;">Forgot Password?</a>
-                                <p>If you are new <a href="{% url 'signup' %}" style="color: blue;">Sign Up</a></p>
+                                <p>If you are new <a href="{% url 'user_administration:register' %}" style="color: blue;">Sign Up</a></p>
                             </div>
                             <button type="submit" class="btn mt-3" data-mdb-ripple-init> Login</button>
                         </div>

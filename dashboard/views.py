@@ -5,18 +5,17 @@ from user_administration.models import CustomUser, Student
 # Create your views here.
 def dashboard(request):
     #Get the User object based on the provided 'username'
-    username = request.session.get('username', None)  # Retrieve username from session
+    username = request.user.username  # Retrieve username from session
     user = get_object_or_404(CustomUser, username=username)
 
     # Now, retrieve the associated Student object
     student = get_object_or_404(Student, user=user)
-
     # Extract the required fields
-    student_name = student.user.username  # Assuming you want the full name
-    roll_number = student.roll_number
+    student_name = request.user.username  # Assuming you want the full name
+    roll_number = student.roll_no
     email = student.user.email
     branch = student.branch
-    section = student.section
+    section = student.class_room
     year = student.year
 
     context = {
