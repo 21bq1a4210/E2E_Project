@@ -5,6 +5,7 @@
 /migrations/
 
 *.pyc
+chatbot/serialize
 __pycache__
 venv/
 .vscode/
