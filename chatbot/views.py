@@ -1,8 +1,7 @@
-# views.py
 from django.shortcuts import render
 from django.http import JsonResponse
 import json
-from .gemini_model import chat  # Adjust the import according to your project structure
+from .model_Ollama import query_with_retry
 
 def chatbot_page(request):
     return render(request, 'chatbot.html')
@@ -12,7 +11,8 @@ def chatbot_response(request):
         data = json.loads(request.body)
         user_message = data.get('message')
         if user_message:
-            bot_response = chat(user_message)
+            # Call the query_with_retry function and return the result as JSON
+            bot_response = query_with_retry(user_message)
             return JsonResponse({'response': bot_response}, status=200)
         return JsonResponse({'error': 'No message provided'}, status=400)
     return JsonResponse({'error': 'Invalid request method'}, status=405)

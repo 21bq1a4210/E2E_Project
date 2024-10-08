@@ -1019,7 +1019,7 @@
     ```
 ```
 
-# first-years / Science & Humanities (S&H):
+# Science & Humanities (S&H):
 ```
     ## About:
     ```

@@ -1,0 +1,2813 @@
+#About VVIT:
+```
+    ##About:
+    ```
+        Vasireddy Venkatadri Institute of Technology (VVIT) was established in the year 2007, with an intake of 240 students in four B. Tech programs under Social Educational Trust in Nambur village, Guntur, AP, by Er. Vasireddy Vidya Sagar. It is  located strategically between Guntur and Vijayawada in the capital region of Amaravati, AP. In a short span of 15 years, with an annual intake capacity of 1914 and 72 students into B.Tech (CE, EEE, ME, ECE, CSE, IT, CSM, CSO, CIC, AIM and AID) and M. Tech (CSE, VLSI&ES, PEED, MD, SE) programmes respectively, today more than  6000 students, 345 teaching staff and 225 non-teaching staff strive to fulfil the vision of VVIT.
+        In tune with the commitment, setting itself a benchmark as very best in terms of education, extracurricular activities and placements, VVIT has emerged as one of the top ten Engineering Colleges from the 200 engineering colleges affiliated to JNTU Kakinada. The subsequent years saw the inception of B.Tech & M.Tech programmes and signing of MoUs with Industry and Training & Placement Companies like Infosys, Tech Mahindra, Social Agro, Efftronics, AMCAT and Cocubes.  In 2014, VVIT was recognised as the nodal centre for skill development programmes of APSSDC, Govt. of AP.  The institute also has tie-ups with premier institutes like ISB to develop Entrepreneurial skills of the students.
+        Centre of Excellence (CoE) by Siemens India was established in the year 2016 under MoU with APSSDC, AP to promote Industry Institute interface and strengthen employability skills in students. It is the youngest Engineering College in the state to achieve this recognition. MoUs with Google Inc. USA for establishing Google Code labs, University Innovative Fellowship (UIF) program by Stanford University USA and  Venture Development Centre established by Northeastern University, Boston signify our commitment to quality technical education where VVIT is lauded by the press as the first institution in the state to seal the agreements.  Students are encouraged to become members in professional bodies like CSI, IEEE, IE(I), ISTE, ASME, ASCE etc. and organize seminars, workshops, colloquies as Student Chapters in the college.
+        On achieving permanent affiliation to JNTUK, Kakinada, NAAC ‘A” grade certification (CGPA 3.09) and B. Tech programmes (CE, EEE, ME, ECE, CSE, IT) accredited by NBA, VVIT has set its sight on centrally funded research projects with 10 completed and 6 running DST projects and consultancy service from other departments.  VVIT as part of its commitment to research, has published 13 patents, 16 books and nearly 690 journal papers and also has a ‘Research Centre affiliated to JNTUK’.
+        Apart from the departmental libraries, a central library with student book bank for all students with access to e-journals, DELNET, NPTEL and IUCEE caters to the academic and research needs of the students. In-House Placement Training team, absolute discipline, air-conditioned classrooms, seminar halls, multimodal teaching methodology, campus placement training, caring teachers, committed support staff, proactive managing committee, vigilant security, homely  hostels, a dedicated canteen to serve hygienic and nutritious food, 1Gbps dedicated lines for seamless internet connectivity, a 100 KW rooftop grid tied solar plant to supply green power, a fleet of 70 buses to extend glitchless transport facility, a mineral water plant, 250KVA and 80KVA generators, indoor sports arena and outdoor grounds with a 400 m athletic track make VVIT a uniquely different professional college in this region.  Student Activity Council (SAC) is a very active student body on the campus that runs students clubs culminating in organizing annual Intercollegiate and Inter-University Cultural and Sporting Competitions under the banner VIVA-VVIT. Volunteering for NCC and NSS wings of the college and SAC forum gives desired opportunities for our students to interact with students from other colleges, community and develop life skills, social responsibility and professional ethical values.
+        Realizing the slogan that “Everyone Counts,” VVIT has the unique achievement of having placed most its students in MNCs like Tech Mahindra, Infosys, TCS, Wipro, Athena Health Care, Open Text,  Genpact, Sutherlands, CSS Corp, Convergys, Apps Associates, etc. (almost 50 companies)  every year.
+    ```
+
+    ## Key Persons:
+    ```
+        Sri. Vasireddy Vidyasagar
+        Chairman, Social Educational Trust
+        Email: vvidyasagar@yahoo.com
+
+        Sri. Suryadevara Badari Prasad
+        Secretary, Social Educational Trust
+        Email: prasadbadari@gmail.com
+
+        Sri. Mamillapalli Sree Krishna
+        Joint Secretary
+        Email: krishna@vvit.net
+    ```
+
+    ## Social Educational Trust:
+    ```
+        Social Education Trust (Regd. No. 214/2006) was founded in 2006 under the Indian Trust Act by Er. Vasireddy Vidya Sagar, a noted educationist, philanthropist and doyen of computer education in Guntur.
+        The chief objective of the Trust is to set up and develop educational infrastructure that offers quality education at primary, secondary, higher and tertiary levels that confirms to global standards by establishing colleges, schools, and professional educational institutions without profit motive.
+        The Trust aims at initiating and promoting educational activities related to career and employment development like vocational training, skill based training, preparation for entrance, screening or competitive tests for both public and private services conducted by state, national and international agencies.
+        The Trust also aims to promote and foster education among socially backward and economically poor strata of the society by conferring scholarship to poor and deserving students in the form of financial grants to pay their tuition fees and other educational expenses.
+        To realize the above objectives, as a first step, the Social Education Trust instituted Vasireddy Venkatadri Institute of Technology in 2007 with an intake of 240 students and 40 teaching and non teaching staff in a 12 acre campus amid lush green fields in a completely rural environment in Nambur village in Guntur district. By 2021, the number of students studying at the college has risen to 6000 and the Trust has already created employment directly to over 500 and indirectly to more than 1000 persons. To cater to the rising educational demands of the New Capital Region the Trust proposes to establish a school with International standards offering best quality education complete with comprehensive personality development in the region.
+
+        Trust Board:
+        1. Vasireddy Vidya Sagar – Chairman and Managing Trustee
+        2. Kondisetty Rajendra – Vice-Chairman
+        3. Suryadevara Badari Prasad - Secretary
+        4. Rayudu Suresh Kumar – Treasurer
+        5. Mamillapalli Vedavani – Trustee
+        6. V Vijaya Kumar – Trustee
+        7. V Sarala Devi – Trustee
+        8. Adusumalli Sudhakar - Trustee
+        9. V Aruna Priya – Trustee
+    ```
+
+    ## Vision, Mission and Objectives:
+    ```
+        #### Vision:
+        ```
+            To impart quality education through exploration and experimentation and generate socially-conscious engineers, embedding ethics and values, for the advancement in science and technology.
+        ```
+
+        #### Mission:
+        ```
+            To educate students with a practical approach to dovetail them to industry-needs.
+            To govern the institution with a proactive and professional management with passionate teaching faculty.
+            To provide holistic and integrated education and achieve over all development of students by imparting scientific and technical, social and cognitive, managerial and organizational skills.
+            To compete with the best and be the most preferred institution of the studious and the scholarly.
+            To forge strong relationships and linkage with the industry.
+        ```
+
+        #### Objectives:
+        ```
+            Equip the institute with state of the art infrastructure comparable to the best in the industry.
+            Tap the resources of the best minds in the field as faculty and visiting faculty.
+            Groom students to become global entrepreneurs and responsible citizens.
+            Provide financial assistance to meritorious students.
+            Requisition the services of the best HR managers to place our students in reputed industries.
+            Provide conducive atmosphere to the faculty for Research & Development and ensure active participation of the students.
+        ```
+    ```
+
+    ### People:
+    ```
+        Contact Details
+        S.No	Name	Phone	Email ID
+        1	Sri. V. Vidya Sagar - Chairman	#	vvidyasagar@yahoo.com
+        2	Sri. S. Badri Prasad - Secretary	#	prasadbadari@hotmail.com
+        3	Sri. M. Sree Krishna - Jt. Secretary (Academics)	#	krishna@vvit.net
+        4	Dr. Y. Mallikarjuna Reddy - Principal	9949359336	principal@vvit.net
+        5	Dr. P. Nageswara Rao - Director	#	director@vvit.net
+        6	Dr. R. Naveen - Director (SIEMENS COE)	9440311088	naveen@vvit.net
+        7	Dr. N. Kumarswamy - Dean (Administration)	9490386288	kumarswamy@vvit.net
+        8	Dr. K. Giribabu - Dean (Academics)	9885263148	kgiribabu@vvit.net
+        9	 Dr. M. V. Raghu Ram - Dean (Freshman and Placements)	8500450220	 mv.raghuram@vvit.net
+        10	Dr. T. Sreedhar Babu - HOD, Civil Dept.	9490772244	sreedharbabu@vvit.net
+        11	Dr. K. Satyanarayana - HOD, ME Dept.	9440484851	satyam918@gmail.com
+        12	Dr. M. Yaswanth Bhanumurthy - HOD, ECE Dept.	9704135453	mybhanu@vvit.net
+        13	Dr. V. Ram Chandran Bhatt - HOD, CSE Dept.	9441410285	vrc.bhatt@gmail.com
+        14	Dr. A. V. Naresh Babu - HOD, EEE Dept.	9849509478	avnareshbabu@vvit.net
+        15	Dr. A. Kalavathi - HOD, IT Dept.	9440201567	kalavathi_alla@vvit.net
+        16	Sri. J. Koteswara Sarma - AO	9866384336	jksarma@vvit.net
+        17	Dr. P. Ammireddy - Controller of Examinations	9848068948	vvitcoe@vvit.net
+        18	Mr. N. Siva Rama Krishna - Deputy Controller of Examinations	9849048992	vvitdce@vvit.net
+        19	Sri. K. Suresh Babu - Training Officer (CSE)	9866179668	kollurusuresh@vvit.net
+        20	Placement Office	#	tpo@vvit.net
+        21	Dr. K. V. L Somasekhar - ED Cell	8297948223	kvl@vvit.net
+    ```
+    ### Committees:
+    ```
+        #### Statutory Committees:
+        ```
+            #### Governing Body:
+            ```
+                ##### Chairman:
+                ```
+                    Vasireddy Vidya Sagar is a visionary with rich experience in the field of Academics and industry. A person who dares to dream big and commands the ability to make them come true. He has a Bachelor of Engineering degree from Bangalore University. He has over 20 years of experience in the field of Education. He is in the field of computer education since 1994 as a managing partner of Social Computers which has a franchisee of Aptech, a multinational company. It was one of the leading Computer Education Institutes in Coastal Andhra Pradesh for over a decade.
+                    He was the Project Head for the prestigious project of Government of Andhra Pradesh 1000 computerisation project for Guntur, Prakasam and Nalgonda district zone imparting computer education for over 75000 students. The project was successfully completed in 2010. Further he has been heading similar projects of ICT@5000 and ICT@1300 schools computerization projects in GUNTUR district. Under this project more than 550 employees are working with more than 100000 school children being educated annually.
+
+                    He is the managing trustee of Social Education trust under which an engineering college was started in the name of Vasireddy Venkatadari Institute of Technology, at Namburu village Pedakanani Mandal with the present students around 4000. Working with missionary zeal, he has effectively used his skills for the establishment of professional Educational Institutions that compare with the best in the state of Andhra Pradesh. The college is proudly ranked 2nd among the 470 odd colleges set up in the last decade in united Andhra Pradesh.
+
+                    Having benefited from world class quality education from Sainik School Korukonda, he always felt that he owed a good school to the society. 21 years in the field of academics, and now, to provide formal world class education for children he started VIVA-The School by VVIT which is the first International School in the newly formed state of Andhra Pradesh.
+
+                    He is the Proprietor of Social Computer Services, a Software Technology Park of India (STPI) registered Medical Transcription Unit, a pioneering enterprise in coastal Andhra Pradesh.
+
+                    He is also the managing partner of Social Agro Industries, a cotton seed oil extraction and refinery which also help the students of Vasireddy Venkatadri Institute of Technology to get hands on experience of industrial atmosphere.
+
+                    His innate business acumen and ethical business practices led him to succeed in all these highly competitive and pioneering efforts in varied fields.
+
+                    He is an active social worker and played a prominent role in development of several Educational Institutions, temples, churches and Dargas. He is active member of round table, Honorary Chairman of Sri Tyagaraja Cultural Association, Guntur, Bharatiya Vidya Bhavan and other cultural organizations.
+                ```
+
+                ##### Secretary:
+                ```
+                    He along with Chairman plays a key role in defining the college vision and strategy. He brings his invaluable experience in managing people at various levels always ensuring a smooth and satisfactory relationship. He has experience in administering and maintaining the campus and designing and executing students activities to achieve the all round personality of the students. It is his deep-rooted academic interest that fuelled his endeavors in the field of education.
+
+                    He is a Post Graduate from Vikram University Ujjain, Madhya Pradesh and has acquired his Masters degree in Geology and he has also done M.Sc. (Tech) in Mineral Exploration and obtained M Phil degree from the same University. He is young and energetic member of the management team and is actively managing the Educational Institution. With the full time dedication to the Management coupled with the guidance provided by learned professors, the college has achieved great heights in the field of technical education. He believes that our nation needs not just engineers and managers but virtuous men and women who can be professionals and entrepreneurs armed with Integrity and discipline and good citizens capable of utilizing their talents in building our Nation into a world power.
+
+                    He has a considerable experience as an Exploration Geologist in Mineral Exploration Corporation and served at various places in Rajasthan, Bihar (now Jharkhand), Madhya Pradesh and Maharashtra. He resigned the job and took up Aptech Computer Education unit at Eluru which is still running successfully in the name of Sri Sai Software and Informatics.
+
+                    He was the Project co-ordinator for 1000 schools computerization project in three districts, ICT@5000 and ICT@1300 schools Computerization project. Presently he is monitoring the day to day work of Vasireddy Venkatadri Institute of Technology.
+
+                    Apart from regular activities he is also into agriculture at Sekuru Village and Chiluvuru Village with varied crops of Lemon, Sapota gardens, paddy cultivation and other seasonal crops.
+                ```
+
+                ##### Joint Secretary (Academics):
+                ```
+                    Sri Mamillapalli Sree Krishna, the Joint Secretary of VVIT holds a Masters degree in Computer Science and Engineering from JNTUK, Kakinada. He is one of the earliest members to have started teaching Computer Science and Engineering subjects in the entire coastal Andhra Pradesh. After completing his graduation in engineering from GITAM, Visakhapatnam, in 1987, he underwent training in the advanced computer science topics in NIIT. He worked as a faculty member in NIIT from 1989 to 1994.
+
+                    In 1994 he joined Sri Vasireddy Vidya Sagar, another young technocrat, to establish the first franchise centre of APTECH Computers in Andhra Pradesh at Guntur. Mr Sree Krishna’s contributions helped The APTECH Computer at Guntur to emerge as a centre of learning for those who aspired to be software professionals.
+
+                    In 2007 he Joined VVIT as the Joint Secretary. An alumnus of Sainik School, Korukonda, Mr Sree Krishna is an astute administrator. He has been a guiding force behind the success of the Training and Placement Cell of the College.
+
+                    Though he spends most of his time in the administrative work of the college, he always keeps himself abreast with the developments taking place in the field of technology.
+                ```
+
+                ##### Principal:
+                ```
+                    Dr. Yennapusa Mallikarjuna Reddy  born on 1st JUNE  1965, obtained his B.E degree in Electronics & Communications  from Osmania, University  Hyderabad  in 1987, and Master ’s degree in ECE (Instrumentation &  Control Systems) from JNTU, Kakinada in 1990 and Ph.D  in Radar Signal and Image Processing  from Osmania, University  Hyderabad  Mar 2009. He has a professional teaching experience of 31 years.
+
+                    Dr. Mallikarjuna Reddy is an active researcher in the areas like Digital Signal Processing, Radar Image Processing, Speech Processing, Missile Technology, EMF, Fiber Optics, Neural Networks, Digital Communications, Machine Learning & Deep Learning, IOT, etc.  and published 30 research papers in peer-reviewed International and National Journals which are SCI indexed and in International Conferences . As a Principal Investigator he obtained a grant of Rs 60 lakhs for Major Research Projects funded by DST. He is an active reviewer for an International Journal “AMSE Periodicals FRANCE – Modeling, Measurement & Control and for “IACSIT” and ICSCI.
+
+                    As the Principal of the college he implemented several best practices, few of them are Performance based Appraisal System(PBAS), Establishment of collaborative labs with Industry, Setting up of Department Incubation Centre’s, Conduct of Model exhibition on ‘Innovation Day’ (Engineers Day), Promotion of R&D through up gradation of qualifications & research publications, external Academic Audit, and implementation of Industry relevant flexible curriculum leading to Outcome based Teaching-Learning, Student Development and Research. He played a key role in successful implementation in rating the college with grade ‘A’ by NAAC and accreditating NBA for all B.Tech courses and substantial improvement in campus placements.
+
+                    Dr. Mallikarjuna reddy has been ratified as Principal of VVIT, by JNTU Kakinada in the year 2011 and performs following duties as Principal – Administrative Duties, R&D projects, Teaching, Exams, Campus placements and Soft skills training. He worked as Head of ECE dept., running PG and PG programs, assisting management in administrative works, Design of course curriculum, Paper setting for university exams, Coordinator for student association activities, student training programs and Industry Institute Interaction, Coordinator for Campus placements, Soft skills training and   Alumni Association. He holds the following Membership of Scientific and Professional Societies:
+
+                    Follow of Institute of Engineers – FIE, M.No. 115694/7
+                    Life Member in ISTE – MISTE LM 8015.
+                    Member in IEEE
+                    He was awarded as best teacher in 2019, 2010,2007,2005,2004 in various colleges. He is Supervisor for Guiding Ph.D students recognized by JNTU Kakinada, JNTU Hyderabad, and Rayalaseema University. He is author for 9 books in different subjects like Probability Theory and Stochastic Process, Signals and Stochastic Processes and Electromagnetic Waves and Transmission Lines. At present he is guiding scholars in emerging technologies like Medical Image Processing, Machine Learning and Deep learning
+                ```
+
+                ##### Global Ambassador
+                ```
+                    Sri Mahadev Vasireddy with a bachelors in computer science from Penn State university is Vice Chairman of Vasireddy Venkatadri Institute of Technology (VVIT) and VIVA The School. He also executes responsibilities as Chief Relations Officer of both the educational institutions, VVIT and VIVA. He is the elder son of Sri Vasireddy Vidya Sagar, Managing Trustee of Social Educational Trust and Chairman of Vasireddy Venkatadari Institute of Technology and VIVA The School run by the trust.
+                    Sri Mahadev Vasireddy is an innovative and resourceful person with out of the box ideas to drive the institutes into the industry 4.0 era. He is an effective communicator and great motivator of the team VVIT & VIVA. In the last couple of years, he has shouldered the responsibility of strengthening the existing team and building new strengths. He played a crucial role in unfolding the vision of his father, by coordinating with APSSDC, Siemens COE, Google Code Labs, Dassault lab teams and other stakeholder teams. With age working to his advantage, he is very popular with the student community and steers Student Activity Council with élan.
+                    Sri Mahadev Vasireddy, following his father’s spirit of dreaming big has been working on to bring the world closer through "Freela – truly free freelancing" a blockchain based decentralised initiative as its Founder and CEO.
+                ```
+            ```
+
+            ##### Board of Studies (BoS):
+            ```
+               #####  BoS - CSE:
+               ```
+                    1-Dr V Ramachandran-BOS Chairman
+                    2-Prof M H M Krishna Prasad-Principal, University College of Engineering JNTUK-University Nominee
+                    3-Prof E Sreenivasa Reddy-Dean, University College of Engineering Acharya Nagarjuna University-External BOS Member and Subject Expert
+                    4-Dr G Sanjay Gandhi-Professor, Dept of CSE-Member
+                    5-Dr A Kalavathi-HOD, IT-Member
+                    6-Dr T Sudhir-HOD, AID-Member
+                    7-Dr K Suresh Babu-HOD, AIML-Member
+                    8-Dr M R N Tagore-HOD, CIC-Member
+                    9-Dr Bh Rajya Lakshmi-HOD S & H-Member
+                    10-Prof Dr T Vijaya Krishna-Dept of S & H-Member
+                    11-Dr T Kameswara Rao-Professor, Dept of CSE-Member
+                    12-Dr N Lakshmi Prasanna-Associate Professor-Member
+                    13-Dr O Aruna-Associate Professor-Member
+                    14-Dr P Srinivasa Rao-Associate Professor-Member
+                    15-Dr Ch V Suresh-HOD, CSO-Member
+                    16-Mr P R Krishna Prasad-Associate Professor-Member
+                    17-Mr K Mohan Krishna-Associate Professor-Member
+                    18-Mr J Madhu Babu-Associate Professor-Member
+                    19-Mr P Siva Prasad-Associate Professor-Member
+                    20-Mr A Vishnu Vardhan-Asst Professor-Member
+                    21-Mr Ch Hari Prasad-Asst Professor-Member
+                    22-Mr S Narendra-Asst Professor-Member
+                    23-Ms Sravya Pranati-Student Member-Student Member
+                    24-Mr Nandyala Konda Babu-Associate Project Lead Dharani Info Technologies-Industry Member
+               ```
+
+                ##### BoS - ECE:
+                ```
+                    1. Dr. M.Y. Bhanu Murthy - BOS Chairman, Professor & HoD ECE, VVIT
+                    2. Dr. N. Balaji - University Nominee and External BOS Member, Professor of ECE, UCEK, JNTUK, Kakinada
+                    3. Dr. B. Anuradha - External BOS Member and Subject Expert, Professor of ECE, S.V. University, Tirupati
+                    4. Dr. T. Satya Savithri - External BOS Member and Subject Expert, Professor of ECE, JNTUH College of Engineering, Hyderabad
+                    5. Dr. K. Giri Babu - Member, Professor of ECE & Dean of Academics, VVIT
+                    6. Dr. P. Ammi Reddy - Member, Professor of ECE & CoE, VVIT
+                    7. Dr. Sk. Enaul Haq - Member, Professor of ECE, VVIT
+                    8. All faculty members of the department - Members, Dept. of ECE, VVIT
+                    9. Mr. Chakravarti Bheemisetti - Industry Expert and External BOS Member, Senior Analog Design Engineer, Intel Technology India Pvt. Ltd., Bengaluru
+                    10. Mrs. Manasa Yarramasu - Member, Alumnus, Senior Engineer, Qualcomm, Hyderabad
+                ```
+
+                ##### BoS - IT:
+                ```
+                    1. Dr. A. Kalavati: Chairman, Head of Department [no department specified]
+                    2. Entire faculty of each specialization: Members, Department Subject Experts
+                    3. Dr. S Jyothi: Member, Outside Subject Expert, Professor of CSE at Sri Padmavathi Mahila Viswa Vidyalayam, Tirupathi
+                    4. Dr. E. Srinivasa Reddy: Member, Outside Subject Expert, Professor of CSE at Acharya Nagarjuna University (ANU), Guntur
+                    5. Dr. D.Rajya Lakshmi: Member, University Expert, Professor, CSE Department & Principal, UCEN, JNTUK, Kakinada
+                    6. Sri G V Manoj Kumar: Member, Industry Expert, Scientist-F, NSTL, DRDO, Vizag
+                    7. Sri Sainadh Alapati: Member, Meritorious PG Alumni, Technical Lead, Innovation Centre, HCL, Chennai
+                ```
+
+                ##### BoS - EEE:
+                ```
+                    1. Dr. A.V. Naresh Babu: Chairman, Head of Department (HOD)
+                    2. Entire faculty of each specialization: Members, Department Subject Experts
+                    3. Dr. Sankar Peddapati: Member, Outside Subject Expert, Assistant Professor, Electrical and Electronics Engineering, National Institute of Technology, Andhra Pradesh
+                    4. Dr. B. Amarendra Reddy: Member, Outside Subject Expert, Associate Professor, Department of Electrical and Electronics Engineering, Andhra University, Visakhapatnam
+                    5. Dr. K. Ravindra: Member, University Expert, Professor, Electrical and Electronics Engineering Department, University College of Engineering, JNTU, Kakinada
+                    6. Mr. P. Durga Srinivas: Member, Industry Expert, Assistant Executive Engineer, Dr. NTTPS, Ibrahimpatnam, Krishna
+                    7. Mr. K. Harish Acharya: Member, Alumni, Research Engineer, Hyundai Mobis, IT Park, Madhapur, Hyderabad
+                ```
+                ##### BoS - Civil:
+                ```
+                    1. Dr. T. Sridhar Babu_: Chairman, Professor and Head of Department
+                    2. Entire faculty of each specialization_: Members, Department Subject Experts
+                    3. Dr. P. Konda Rama Rao_: Member, Outside Subject Expert, Professor of Civil Engineering Department, Government Engineering College, Gudlavelluru, Krishna District
+                    4. Dr. M. Ravindra Krishna_: Member, Outside Subject Expert, Professor, KITS, Guntur
+                    5. Dr. G. Abbaiah_: Member, University Expert, Professor, Civil Engineering Department & Director UGSA, JNTUK, Kakinada
+                    6. Sri. Pagadala Rajesh_: Member, Industry Expert, Managing Director, Pagadala Constructions Pvt. Ltd., Hyderabad
+                    7. Shaik Mohammad Khasim_: Member, Meritorious PG Alumni, Assistant Engineer, Panchayatiraj, Chilakaluripet, Guntur District
+                ```
+
+                #### BoS - MCA:
+                ```
+                    1. Dr. N. Koteswaramma: Chairman, Head of Department
+                    2. Entire faculty of each specialization: Members, Department Subject Experts
+                    3. Dr. K. Kartika Pavan: Member, Outside Subject Expert, Professor of MCA Department, RVRJC, Guntur
+                    4. Dr. E. Srinivasa Reddy: Member, Outside Subject Expert, Professor of CSE, ANU, Guntur
+                    5. Dr. O. Srinivasa Rao: Member, University Expert, Professor, CSE Department, UCEK, JNTUK, Kakinada
+                    6. Sri G V Manoj Kumar: Member, Industry Expert, Scientist-F, NSTL, DRDO, Vizag
+                    7. Meritorious PG Alumni: Member (Name not specified)
+                ```
+
+                #### BoS - CSO:
+                ```
+                    1. Dr. Ch. V. Suresh - Professor & Head - BOS Chairman
+                    2. Dr. K. Giri Babu - Professor & Dean of Academics - Dept. Subject Expert-Senior member
+                    3. Dr. S. Krishna Prasad - Associate Professor - Dept. Subject Expert-Member
+                    4. Mrs. K. Vineela - Assistant Professor - Dept. Subject Expert-Member
+                    5. Dr. S. Kiran - Assistant Professor, Department of CSE, YSR Engineering College of YVU, Proddatur, Kadapa - Outside Subject Expert-Member
+                    6. Dr. Y. Rama Devi - Professor & Head, Department of CSE, CBIT, Hyderabad - Outside Subject Expert-Member
+                    7. Dr. K. Chandra Bhushana Rao - Professor & Head, Department of ECE, UCEV, JNTUK, Vizianagaram - University nominee- Member
+                    8. Mr. S. Tejaswa Kumar - Digital Tech Developer Sr Analyst, Accenture, Telangana - Industry Expert-Member
+                    9. Ms. Naidu Sindhura - Associate Software Engineer, TCS, Chennai - Meritorious PG Alumni- Member
+                ```
+
+                ##### BoS - S&H:
+                ```
+                    1. Dr. M.V. Raghuram: Chairman, Professor and Head of Department
+                    2. Entire faculty of each specialization: Members, Department Subject Experts
+                    3. [Names listed separately]: Member, Outside Subject Expert
+                    4. [Names listed separately]: Member, Outside Subject Expert
+                    5. Dr. Madupalli Suresh Kumar: Member, University Expert, Professor, Department of English, Acharya Nagarjuna University, Guntur
+                    6. [Names listed separately]: Member, Industry Expert
+
+                    ###### English:
+                    ```
+                        1. Dr. T. Sarada
+                            - Email: saradabalaji@gmail.com
+                            - Designation: Associate Professor
+                            - Affiliation: Sri Venkateswara University, Tirupati
+
+                        2. Dr. A. Rama Naga Hanuman
+                            - Mobile: 9603168881
+                            - Email: Alapati.dr@gmail.com
+                            - Designation: Associate Professor
+                            - Affiliation: University College of Engineering, Visakhapatnam
+
+                        3. Dr. G. Chenna Reddy
+                            - Mobile: 9849254816
+                            - Email: cryujju27@gmail.com
+                            - Designation: Professor
+                            - Affiliation: Acharya Nagarjuna University (ANU), Nagarjuna Nagar
+
+                        4. Dr. Madupalli Suresh Kumar
+                            - Designation: Professor
+                            - Department: English
+                            - Affiliation: Acharya Nagarjuna University, Guntur
+                            - Position: University Expert Member
+                    ```
+
+                    ###### Mathematics:
+                    ```
+                        1. Dr. Reddy Y N
+                            - Designation: Professor
+                            - University/Institute: National Institute of Technology, Warangal
+                            - Contact: 8332969447, ynreddy@nitw.ac.in
+                            - Note: National Institute of Technology, Warangal is a public technical and research university recognized as an Institute of National Importance by the Government of India ¹.
+                        2. Dr. K Siva Prasad
+                            - Designation: Assistant Professor
+                            - University/Institute: Acharya Nagarjuna University
+                            - Contact: 9885314659, Siva235prasad@yahoo.co.in
+                        3. Dr. K. Sobhan Babu
+                            - Designation: Professor
+                            - University/Institute: JNTU University College of Engineering, Narasaraopet
+                    ```
+
+                    ###### Physics:
+                    ```
+                        1. Dr. V. Mani
+                            - Designation: Scientist-E
+                            - University/Institute/Industry: Centre for Materials for Electronics Technology (CMET), Hyderabad
+                        2. Dr. V. R. K. Murthy
+                            - Designation: Professor (Retd.)
+                            - University/Institute: VIT, Amaravathi (Formerly at IIT Madras)
+                        3. Dr. A. Srinivasa Rao
+                            - Designation: Associate Professor
+                            - University/Institute: Delhi Technological University (DTU), Delhi
+                        4. Dr. G. Padmaja Rani
+                            - Designation: Professor and Head of Department
+                            - University/Institute: Department of Physics, JNTUK, Kakinada
+                            - Additional Role: Professor In-charge, School of Pharmacy
+                    ```
+
+                    ###### Chemistry:
+                    ```
+                        1. Dr. R. Venkatanadh
+                            - Designation: Professor and Head of Department
+                            - University/Institute: Gitam University, Bangalore
+                            - Contact: 9902632733, doctornadh@yahoo.co.in
+
+                        2. Dr. I. Srikanth
+                            - Designation: Scientist-E
+                            - University/Institute/Industry: Advanced Systems Laboratory (ASL), Defence Research and Development Organisation (DRDO), Hyderabad
+                            - Contact: srikanth@yahoo.co.uk, nanocomps@gmail.com
+
+                        3. Dr. S. Satya Veni
+                            - Designation: Assistant Professor
+                            - University/Institute: Department of Chemistry, Jawaharlal Nehru Technological University (JNTU), Kakinada
+                    ```
+
+                    ###### Management Science:
+                    ```
+                       1. Dr. M. S. Narayana
+                            - Designation: Head of Department (MBA)
+                            - University/Institute: Narasaraopeta Engineering College (NEC), Narasaraopeta
+
+                       2. Dr. Jayasankar Prasad
+                            - Designation: Head of Department (MBA)
+                            - University/Institute: Krishna University
+
+                       3. Dr. Nagaraju Battu
+                            - Designation: Head, Department of Human Resource Management
+                            - University/Institute: Department of Management Studies, Acharya Nagarjuna University
+                    ```
+                ```
+            ```
+            ##### Finance Committee:
+            ```
+               The Finance Committee present the financial implications and the audit report to the Governing Body. It also serves as an advisory team, which would offer sagacious suggestions to the Governing Body to use the funds with discretion.
+
+                Objective:  To ensure proper utilization of fund.
+
+                Composition of Finance Committee:
+
+                The Principal (Chairman).
+                One person to be nominated by the Governing Body of the college for a period of two years.
+                Finance Officer of the affiliating University
+                One senior-most teacher of the college to be nominated in rotation by the Principal for two years.
+                Term : Term of the Finance Committee will be two years.
+
+                Meetings : The Finance Committee will meet at least twice a year
+
+                Meeting Schedule and Process of convening a meeting:
+
+                The member secretary is expected to issue a circular with the schedule and agenda one week in advance, with the consent of the Chairman. However, the Chairman reserves the right to conduct any emergency session under certain circumstances that can be deemed to be an emergency situation.
+
+                            If it is not possible for the member secretary to convene a meeting because of any academic or administrative reasons, one of the senior members of the committee can take up the responsibility of convening the meeting with the prior approval of the Chairman. Tentative schedule of the meetings during the academic year has to be drawn by the convener in consultation with the Chairman.
+
+                Quorum and other standard tenets;
+
+                Attendance of 1/3 of its total strength is considered the quorum for the meeting.
+                The committee may prepare a draft plan for items to be presented for further processing by the relevant bodies.
+                If any member comes up with an innovative proposal, he/she may be advised to prepare a full-stretch document of the project put forward with projected financial commitment with relevant documents failing which such open suggestions can deferred to the next meeting by requesting the members to be more focused in their approach.
+                The deliberations are strictly confidential and shall be confined to in-house circulation, and if any member is found leaking the information to external agencies, the matter shall be reported for correctional administration.
+                Functions of the Finance Committee:
+
+                The Finance Committee shall act as an advisory body to the Governing Body, to consider:
+
+                Budget estimates relating to the grant received/receivable from UGC, and income from fees, etc. collected for the activities to undertake the scheme of autonomy; and
+                Audited accounts for the above.
+                To recommend fixation/revision of fees and other charges payable by the students to the College Governing Council.
+                see that expenses incurred have budgetary provision recommend for approval financial proposals made by other committees with or without modification
+                check that necessary formalities have been observed in incurring expenses
+                check process bills placed for payment
+                consider proposal for enhancement of wage/allowance or engagement of temporary staff
+
+                ```
+                    1. Dr. Y. Mallikarjuna Reddy
+                        - Designation: Principal
+                        - Position: Chairman
+
+                    2. Finance Officer (nominated by the Governing Body)
+                        - Designation: Finance Officer
+                        - Position: Member
+
+                    3. Finance Officer of the affiliating University
+                        - Designation: Finance Officer
+                        - Position: Member
+
+                    4. Dr. N. Kumara Swamy
+                        - Designation: Dean (Academics)
+                        - Position: Member
+                 ```
+            ```
+            ##### Academic Council:
+            ```
+                Academic Council has been constituted with the Principal as the Chairman, three members from the University, experts from outside the college representing such areas as Industry, Education,Engineering etc., all heads of departments, senior faculty of the college and a member secretary. Academic Council is the principal academic body of this Autonomous Institute. It is responsible for laying down, regulating, and maintaining the standards of instruction, education and examination within the Institute. It has the right to advise the Governing Body on all academic matters.
+                ```
+                    1. Dr. Y Mallikarjuna Reddy: Principal and Chairman
+                    2. Dr. T. Sridhar Babu: Head of Department, Civil Engineering, Member
+                    3. Dr. R. Eswaraiah: Head of Department, Computer Science and Engineering, Member
+                    4. Dr. K. Giri Babu: Head of Department, Electronics and Communication Engineering, Member
+                    5. Dr. A.V. Naresh Babu: Head of Department, Electrical and Electronics Engineering, Member
+                    6. Dr. A Kalavathi: Head of Department, Information Technology, Member
+                    7. Dr. K. Satyanarayana: Head of Department, Mechanical Engineering, Member
+                    8. Dr. N. Koteswaramma: Head of Department, Master of Computer Applications, Member
+                    9. Dr. M.V. Raghuram: Head of Department, Science and Humanities, Member
+                    10. Dr. T. Srinivasa Rao: Professor, Mechanical Engineering, Member
+                    11. Dr. P. Sudhakar: Professor, Computer Science and Engineering, Member
+                    12. Dr. M.Y.Bhanu Murthy: Professor, Electronics and Communication Engineering, Member
+                    13. Dr. T. Vijay Krishna: Professor, Science and Humanities, Member
+                    14. Col. TMRN Chari: Engineering Expert, Member
+                    15. Satya Topalli: HR Manager, Sphere Soft Solutions, Industry Expert, Member
+                    16. Sri Polisetty Syam Sunder: Industry Expert, Member
+                    17. Mallineni Venkat Rao: Head, iON, TCS, Hyderabad, Industry Expert, Member
+                    18. Dr. D. Narendranath: Consultant Homeopath, Doctor, Member
+                    19. Sri Posani Suresh: Master Trainer, Educationalist, Member
+                    20. Dr. V.V. Subba Rao: Professor, Mechanical Engineering Department, and Registrar, JNTUK, Kakinada, JNTUK University Nominee, Member
+                    21. Dr. G. Yesuratnam: Professor, Civil Engineering Department, and DAP, JNTUK, Kakinada, JNTUK University Nominee, Member
+                    22. Dr. R. Srinivasa Rao: Professor, Electrical and Electronics Engineering Department, and DE, JNTUK, Kakinada, JNTUK University Nominee, Member
+                    23. Dr. N. Kumara Swamy: Professor, Civil Engineering, and Dean of Academics, VVIT, Member Secretary
+                ```
+            ```
+        ```
+
+        #### Non Statutory Committees:
+        ```
+            page link: ```https://www.vvitguntur.com/about/committees/non-statutory-committees```
+        ```
+    ```
+
+    ## Achievements:
+    ```
+        2007-2010: Establishment and Expansion
+        - Established with 4 UG programs (EEE, ECE, CSE, IT) and 240 students
+        - Introduced MCA program and increased intake in CSE
+        - Transferred affiliation from JNTU Hyderabad to JNTUK
+        - MoU with Aptech for placement training
+
+
+        2011-2014: New Programs and Partnerships
+        - Started B.Tech in Civil and Mechanical Engineering
+        - Introduced PG courses in M.Tech (EEE, CSE)
+        - Partnerships with Infosys, Co Cubes, Monster, and Social Agro Industries
+        - Established Nodal Centre of APSSDC
+
+
+        2015-2018: Accreditation and Research
+        - Accredited with A grade by NAAC
+        - Permanent affiliation to JNTUK
+        - NBA accreditation for ECE and IT programs
+        - Established 15 state-of-the-art labs of Siemens Centre of Excellence
+        - Sanctioned DST projects and FDPs worth INR 1 crore
+        - Recognised Research Centre in ECE dept by JNTUK
+
+
+        2019-2020: Autonomy and New Programs
+        - Became an autonomous institution
+        - AICTE sanctioned four new B.Tech programs in emerging areas (AI, DS, IoT)
+        - Ranked top private engineering college by Times Engineering Rankings
+        - Ranked among top 25 institutes in the country by ARIIA Ranking
+    ```
+
+    ## SWOT Analysis:
+    ```
+        ### STRENGTHS:
+        ```
+            Accredited by NAAC with ‘A’ grade.
+            B.Tech ECE, CSE, EEE, ME & IT programs are accredited by NBA.
+            Permanent affiliation to Jawaharlal Nehru Technological University Kakinada.
+            An ISO 9001:2009 certification.
+            VVIT is among the two private engineering colleges out of 300 engineering colleges in the state selected by AP State Government to host Siemen’s Center of Excellence. Under this Center of Excellence CNC India Ltd. Bangaluru sets up ROBOTICS lab, LAKSHMI MACHINES WORKS, Coimbatore sets up CNC Lab, METAFAB Engineers (I) Pvt. Ltd sets up Automotive body repair and paint Lab, BEACON LIFTS Ltd sets up Lift installation and maintenance Lab and DESIGN TECH systems Ltd, Pune sets up the remaining labs.
+            Established Skill Development Center of AP State Skill Development Corporation (APSSDC, Hyderabad) to impart skills to enhance employability of the students and unemployed youth in the region.
+            The first College in the region to have installed a roof top solar power plant of 100 KW with an aim of producing green power.
+            Conducting ‘TEP’ (Technology Entrepreneurship Program) of Indian School of Business (ISB) through Entrepreneurship Development Cell at the campus.
+            Conducting ‘iSpark program’ by INFOSYS Technologies – more than 300 students per year visit Infosys Hyderabad campus to understand the real world industry expectations.
+            Our students achieved many awards and prizes in National Level Technical contests conducted by various premier institutions like IITM, VIT, JNTUK and other Universities.
+            Developed 54 Mobile apps with innovative ideas through APSSDC.
+            Industrial MOU with Infosys Campus Connect.
+            MOU with Kalpah Innovations, Visakhapatnam to collaborate on Medical Imaging.
+            MOU with Robotics Core School to offer Advanced Embedded courses on campus.
+            MOU with Social Agro Industries to collaborate on Electronic Automation.
+            MOU with Quality People, Vijayawada to develop software products.
+            MOU with IUCEE (Indo Universal Collaboration for Engineering Education) for knowledge upgradation.
+            Training MOUs with Cocubes, Monster, Seventh Sense, Ikya Global, Talents Show and Oompfh.
+        ```
+
+        ### WEAKNESSES:
+        ```
+            Students, being from rural area, are striving to meet national and global standards in technical education and facing language barriers.
+            Institute has to upgrade their teaching community for more funded projects; quality research and development; and patents and consultancy.
+
+            OPPORTUNITIES:
+
+            Institute is continuously organizing various development programs for the benefit of teachers and students through seminars, workshops, conferences, symposiums and other student meets.
+            Ever increasing demand for technical education at UG & PG level of Engineering & Technology.
+            Many more opportunities for tie-ups with both established and start-up companies in India and abroad for enhancing learning outcomes.
+         ```
+
+        ### THREATS:
+        ```
+            Institute has competition from other technical universities.
+            Fast changing world with cutting edge technologies.
+        ```
+    ```
+
+    ## Strategic Goals:
+    ```
+        ### Short Term Goals:
+        ```
+            To make the institute as an autonomous institute.
+            To get all programmes accredited by NBA.
+            To introduce new need based programmes at U.G and P.G level.
+            To strengthen the curriculum.
+            To incorporate more number of electives in the curriculum.
+            To establish R&D Centres in all departments.
+            To establish technology business incubation centre.
+            To encourage innovations and self-employment through Entrepreneurship Development Cell.
+            To improve industry-institute interaction with the collaboration of at least three industries per department.
+            To focus more on training and placements.
+            To accelerate faculty development programmes.
+            To strengthen counseling.
+            To improve transparency level.
+            To make feedback system more effective.
+            To conduct training programmes for supporting technical staff.
+            To provide more community services in adopted villages.
+            To accelerate objective oriented NSS programmes in nearby slum areas.
+            To constantly up-grade content to bridge gaps between learning outcomes and employability.
+            To support weak students, focusing on ensuring equity among all categories of students.
+            To offer value-addition courses beyond the curriculum during off hours for students and local community.
+        ```
+
+        ### Long Term Goals:
+        ```
+            To undertake national and international Research and Development works in all the disciplines and to emerge as centers of excellence.
+            To encourage sponsored and collaborative research with industries, tailor-made training for working professionals, testing and calibration services etc.
+            To ensure that all the faculty members possess Ph.D degrees.
+            To enter into more number of MOUs with International and National organizations.
+            To make this Institute as one of the best learning centres.
+        ```
+    ```
+```
+
+# Admissions:
+```
+    ## UG Admissions:
+    ```
+        ### Admission Criteria & Procedure:
+        ```
+            Please Contact Mr. Kalyan - 9849542336 or Mr. V. Srikanth - 9959943336 for admissions details
+
+            All Admissions are provisional and subject to rules and regulations prescribed by the Government of Andhra Pradesh from time to time. The admission of any candidate even if made, will be cancelled if such admission is found to be made contrary to the above referred rules and regulations at any time. In such cases, the candidate shall not have any claim whatsoever in any manner.
+
+            The students are admitted into the four year undergraduate programs in two categories. The first category, Category-A seats constitute 70% of the total seats in the college. The Category-A seats are filled through Convener, EAMCET, Andhra Pradesh.  The second category, Category-B seats constitute 30% of the total available seats. The Category-B seats are filled by the management through the news paper advertisement.
+
+            Eligibility Criteria:
+            ```
+                A Category - Convener quota (70% of intake in each branch):
+                The candidate shall be of Indian National.
+                The candidate should have completed 16 years of age as on 31st December of the Academic year for which the admissions are being conducted.
+                The Candidate for admission to the four-year degree course in Engineering must have passed the Intermediate examination of the Board of Intermediate Education, Government of Andhra Pradesh with Mathematics, Physics and Chemistry as optional subjects, or any other examination recognized as equivalent to Intermediate thereto.
+                The Candidates seeking admission should qualify in the EAMCET Examination conducted by the Govt. of AP. The candidates will be admitted strictly in accordance with the merit secured at the Entrance Examination keeping in view the rules in force regarding the reservations of seats of various categories of candidates.
+                The candidate should satisfy Local/Non-Local status requirement as laid down in the Andhra Pradesh Educational Institutions (Regulation of Admissions) Order,1974 as subsequently amended.
+                B Category - Management Quota Seats (30% of intake in each branch)
+            ```
+        ```
+    ```
+    ## PG Admissions:
+    ```
+    ### M.Tech - Eligibility Requirements:
+
+        CATEGORY A (Convenor) seats (70% of intake in each branch):
+        ```
+            A bachelor's degree in Engg/Technology of recognized University in the concerned discipline.
+            AMIE/AMIETE or similar qualifications recognized by UPSC as equivalent to B.E./B.Tech.
+            Valid GATE Score obtained in the GATE Examination.
+            Valid rank obtained in PGECET, Andhra Pradesh.
+            Apart from requirements of qualifications as stated in the above, the admissions of sponsored candidates shall be taken.
+
+            The number of Sponsored candidates shall not be more than two in each specialization and not more than five in each department.
+            His/Her application shall be duly recommended by the sponsoring agency for admission to the course .
+            These seats are considered as supernumerary.
+            He/She must be permanent employee with the sponsoring agency for at least (2) years, after obtaining the qualifying degree.
+            The sponsoring agency must be a Government establishment or a public-sector undertaking, or a reputed private undertaking.
+            The sponsoring agency shall-certify that the candidates will be granted leave for pursuing the M.Tech. Full-Time course.
+            The candidates should satisfy local/non-local status requirement as laid down in the AP Educational institutions (Regulation of Admissions) Order 1974 as amended from time to time.
+        ```
+
+        CATEGORY B (Management) seats (30% of intake in each branch):
+        ```
+            The second category, Category-B seats constitute 30% of the total available seats.
+            15% of Category B seats are available to NRI candidates who have passed the qualifying examination with not less than 60% of aggregate marks or Cumulative Grade Point Average (CGPA) equivalent to 6 on a scale of 10.
+            The left over seats shall be filled on merit basis by the institution with sponsored candidates.
+            Vacant seats if any may be filled on merit basis with eligible candidates including those securing not less than 60% of aggregate marks in the qualifying examination.
+        ```
+    ```
+
+    ## INTAKE & FEE DETAILS:
+    ```
+        ### Details of Intake into B.Tech Program (AY : 2024-25):
+        ```
+            Courses Offered at Vasireddy Venkatadri Institute of Technology (VVIT)
+
+            VVIT offers 11 B.Tech programs with the following details:
+            ```
+                1. B.Tech - Computer Science & Engineering (CSE)
+                - Course Code: CSE
+                - Total Intake: 480
+                - Category A Seats: 384 (including 10% EWS)
+                - Category B Seats: 72 Non-NRI, 72 NRI
+                - Total B Category Seats: 144
+
+
+                2. B.Tech - Computer Science & Engineering (Artificial Intelligence & Machine Learning) (CSM)
+                - Course Code: CSM
+                - Total Intake: 360
+                - Category A Seats: 288
+                - Category B Seats: 54 Non-NRI, 54 NRI
+                - Total B Category Seats: 108
+
+
+                3. B.Tech - Computer Science & Engineering (Artificial Intelligence) (CAI)
+                - Course Code: CAI
+                - Total Intake: 180
+                - Category A Seats: 144
+                - Category B Seats: 27 Non-NRI, 27 NRI
+                - Total B Category Seats: 54
+
+
+                4. B.Tech - Artificial Intelligence & Data Science (AID)
+                - Course Code: AID
+                - Total Intake: 180
+                - Category A Seats: 144
+                - Category B Seats: 27 Non-NRI, 27 NRI
+                - Total B Category Seats: 54
+
+
+                5. B.Tech - Information Technology (INF)
+                - Course Code: INF
+                - Total Intake: 180
+                - Category A Seats: 144
+                - Category B Seats: 27 Non-NRI, 27 NRI
+                - Total B Category Seats: 54
+
+
+                6. B.Tech - Electronics & Communication Engineering (ECE)
+                - Course Code: ECE
+                - Total Intake: 180
+                - Category A Seats: 144
+                - Category B Seats: 27 Non-NRI, 27 NRI
+                - Total B Category Seats: 54
+
+
+                7. B.Tech - Electrical and Electronics Engineering (EEE)
+                - Course Code: EEE
+                - Total Intake: 180
+                - Category A Seats: 144
+                - Category B Seats: 27 Non-NRI, 27 NRI
+                - Total B Category Seats: 54
+
+
+                8. B.Tech - Computer Science & Engineering (Internet of Things and Cyber Security including Blockchain Technology) (CIC)
+                - Course Code: CIC
+                - Total Intake: 120
+                - Category A Seats: 96
+                - Category B Seats: 18 Non-NRI, 18 NRI
+                - Total B Category Seats: 36
+
+
+                9. B.Tech - Civil Engineering (CIV)
+                - Course Code: CIV
+                - Total Intake: 120
+                - Category A Seats: 96
+                - Category B Seats: 18 Non-NRI, 18 NRI
+                - Total B Category Seats: 36
+
+
+                10. B.Tech - Mechanical Engineering (MEC)
+                - Course Code: MEC
+                - Total Intake: 120
+                - Category A Seats: 96
+                - Category B Seats: 18 Non-NRI, 18 NRI
+                - Total B Category Seats: 36
+
+
+                11. B.Tech - Computer Science & Engineering (Internet of Things) (CSO)
+                - Course Code: CSO
+                - Total Intake: 60
+                - Category A Seats: 48
+                - Category B Seats: 9 Non-NRI, 9 NRI
+                - Total B Category Seats: 18
+
+
+                Total
+                - Total Intake: 2160
+                - Category A Seats: 1728
+                - Category B Seats: 324 Non-NRI, 324 NRI
+                - Total B Category Seats: 648
+            ```
+
+            Tuition Fees:
+            ```
+                - Category A: Rs. 65,200/-
+                - Category B Non-NRI: Rs. 1,95,600/-
+                - Category B NRI: $5,000/-
+            ```
+            Note: Category B Non-NRI seats will be filled by the Government through online counseling only.
+        ```
+
+        ### M.Tech Program Details for Academic Year 2024-25:
+        ```
+            Vasireddy Venkatadri Institute of Technology (VVIT) offers M.Tech programs with the following details:
+            M.Tech Courses and Intake:
+           ```
+                1. M.Tech - Computer Science & Engineering (CSE)
+                    - Total Intake: 18
+                    - Category A Seats: 12
+                    - Category B Seats: 6
+
+                2. M.Tech - Electronics & Communication Engineering (ECE) - VLSI & Embedded Systems Design
+                    - Total Intake: 18
+                    - Category A Seats: 12
+                    - Category B Seats: 6
+
+                3. M.Tech - Electrical and Electronics Engineering (EEE) - Power Electronics & Electrical Drives
+                    - Total Intake: 9
+                    - Category A Seats: 6
+                    - Category B Seats: 3
+
+                4. M.Tech - Mechanical Engineering (ME) - Machine Design
+                    - Total Intake: 9
+                    - Category A Seats: 6
+                    - Category B Seats: 3
+
+                5. M.Tech - Civil Engineering - Structural Engineering
+                    - Total Intake: 18
+                    - Category A Seats: 12
+                    - Category B Seats: 6
+
+
+                Total Intake:
+                - M.Tech: 72
+                - B.Tech: 2376
+                - Total: 2448
+            ```
+
+           Course Fees for Academic Year 2024-25:
+           ```
+                - B.Tech: Rs. 65,200 per year
+                - M.Tech: Rs. 60,400 per year
+           ```
+            Note: The convener quota fees are as specified above.
+    ```
+
+    ## Previous Rank Info:
+    ```
+        page link: ```Previous Rank Info```
+    ```
+```
+
+# COMPUTER SCIENCE & ENGINEERING (NBA ACCREDITED):
+```
+    ## About CSE Department:
+    ```
+        Department of Computer Science and Engineering has been successfully functioning since 2007. It offers B.Tech (Computer Science and Engineering) and M.Tech (Computer Science and Engineering). The initial intake for B.Tech CSE was 60 in 2007 and now it has grown up to an intake of 480 in 2024. It also offers M.Tech CSE with an intake of 18. Department also has B.Tech CSE for working Professionals with an intake of 30. Department is offering Minor in CSE also for the aspiring non-computer science branch students. Department has been conferred by JNTUK with University sponsored Research Centre for Computer Science and Engineering budding researchers. UG program of CSE department has been accredited by NBA up to Jun 2026 under Tier-I.
+
+        Department of CSE actively involved in interaction with leading technology domain Training & Development Industries. Department of CSE under VVIT, signed pacts in the form of MoUs with Google Code Labs, Infosys (Campus Connect), Microsoft (Campus Agreement), TechMahindra, SphereMe, InetSolv, Infosys-Spring Board, Solete, Virtusa and V-Technologies etc. It organizes Symposia, Exhibitions, Conferences, Seminars and Workshops for both students and faculty belonging to various Institutions & Research Centers across the Telugu states often.
+
+        The Department comprises of 5 fully Air Conditioned Computer Centers with 296 systems, state of the art computing facilities with sufficient power supply backup. Department hosts an Industry Sponsored Embedded AI/DL Lab, for aspiring students and faculty across the institute, for practicing their models on accelerated computing IoT kits. Many of the faculty Our students are placed in various top MNCs like Infosys, IBM, Tech Mahindra, Accenture, Mind Tree, Samsung R&D, Amazon, DBS, EPAM, PhonePay, BNY Melon etc., for deserving & esteemed packages ranging from 2.4 Lakhs to 28 Lakhs per Annum.
+
+        The Department of CSE takes care of Software & Hardware requirements of the entire Institute. The strength of the CSE Department is its Alumni, which adds a good amount of perception rating to the institute and department by being most illustrious. Department is committed to encourage students/researchers to carry out innovative research in the field of Computer Science & Engineering, keeping excellence in focus and deliver quality services to match the needs of the technical education system, industry and society. Department of CSE, INF and its allied are harboring ACM General and ACM Women chapters in the institute, to inculcate professionalism in students via weekly thick activities.
+
+        Students of CSE department are motivated to be innovative in their thinking while being strong in the Computer Science Core Knowledge. The department of CSE in specific and VVIT in general is committed to the all-round development of its students. In this regard, Google Developer Club, CISCO and UIPath campus student bodies are established which are led by certified campus student ambassadors. Faculty of CSE are always dedicated and devoted towards the comprehensive development of their students by training them physically through enough sports & games; psychologically through technical competitions globally. The department of CSE as a whole aim at the development of Ace Computer Science Engineering Professionals with ethical values & civic sense.
+    ```
+    ## Vision:
+    ```
+        Providing quality education to enable the generation of socially conscious software engineers who can contribute to the advancement in the field of computer science and engineering.
+    ```
+
+    ## Mission:
+    ```
+        To equip the graduates with the knowledge and skills required to enable them to be industry ready.
+        To train socially responsible, disciplined engineers who work with good leadership skills and can contribute for nation building.
+        To make our graduates proficient in cutting edge technologies through student centric teaching-learning process and empower them to contribute significantly to the software industry.
+        To shape the department into a centre of academic and research excellence.
+    ```
+
+    ## FACULTY LIST:
+    ```
+        Dr. V. Ramachandran, M.Tech, Ph.D, Professor & HoD
+        Dr. P. Nageswara Rao, Ph.D, Professor
+        Dr. G. Sanjay Gandhi, Ph.D, Professor
+        Dr. T. Kameswara Rao, Ph.D, Professor
+        Dr. N. Lakshmi Prasanna, Ph.D, Professor
+        Dr. N. Koteswaramma, M.Phil, M.Tech, Ph.D, Professor
+        Dr. P. Srinivasa Rao, M.Tech, Ph.D, Assoc. Professor
+        Dr. O. Aruna, M.Tech, Ph.D, Assoc. Professor
+        Sri. M. Sree Krishna, M.Tech (Ph.D), Associate Professor
+        Mr. P. R. Krishna Prasad, M.Tech (Ph.D), Associate Professor
+        Mr. J. Madhu Babu, M.Tech (Ph.D), Associate Professor
+        Mr. K. Mohan Krishna, M.Tech (Ph.D), Associate Professor
+        Mr. P. Siva Prasad, M.Tech, (Ph.D), Assistant Professor
+        Mr. A. Vishnu Vardhan, M.Tech (Ph.D), Assistant Professor
+        Mr. T. S. Chakravarthy, M.Tech, (Ph.D), Assistant Professor
+        Mr. Sk. Wasim Akram, M.Tech, (Ph.D), Assistant Professor
+        Mr. Mohammad Sayeed, M.Tech (Ph.D), Assistant Professor
+        Mr. Ch. Hari Prasad, M.Tech, (Ph.D), Assistant Professor
+        Mr. V. Koteswara Rao, M.Tech, Assistant Professor
+        Ms. G. Rama Devi, M.Tech, Assistant Professor
+        Mr. M. Jeevan Babu, M.Tech, (Ph.D), Assistant Professor
+        Mr. Ch. Vijayananda Ratnam, M.Tech (Ph.D), Assistant Professor
+        Ms. M. S. N. D Sowjanya, M.Tech, Assistant Professor
+        Sri. Syed Beeban Basha, M.Sc, M.Phil, M.Tech, (Ph.D), Assistant Professor
+        Ms. K. Sireesha, M.Tech, Assistant Professor
+        Sri. N. Praveen Kumar, M.Sc, M.Tech, Assistant Professor
+        Mr. N. Brahmanaidu, M.Tech, Assistant Professor
+        Mr. China Pentu Saheb, M.Tech, Asst. Professor
+        Ms.Desam Vamsi, M.Tech, Asst. Professor
+        Ms. Syed Seema Anjum, M.Tech, Asst. Professor
+        Mr. S. Narendra, M.Tech, (Ph.D), Assistant Professor
+        Mr. N.D.V. Siva Sankar ,M.Tech ,Assistant Professor
+        Mrs. Ramya Asalatha, M.Tech, (Ph.D), Assistant Professor
+        Mr. M. Kishore Babu, M.Tech (Ph.D), Asst. Professor
+        Mr. A. Srinivasa Rao, M.Tech, Asst. Professor
+        Mrs. B. Lalitha Rajeswari, M.Tech, Asst. Professor
+        Ms. Sk.Alfana, M.Tech, Assistant Professor
+        Mr. D. Murali Krishna Reddy, M.Tech, Asst. Professor
+        Mr. K.Bhusanam ,M.Tech ,Assistant Professor
+        Mr. Ch. Raghavendra, M.Tech, Assistant Professor
+        Mr.S.L.V.V.D.Sarma, M.Tech, Assistant Professor
+        Mrs.V.Asha Jyothi, M.Tech, Assistant Professor
+        Mr. Ch. Amaresh, M.Tech (Ph.D), Assistant Professor
+        Ms. G Sai Tejaswini, M.Tech, Assistant Professor
+        Mr. N. Ram Mohan, M.Tech, Assistant Professor
+        Ms. Lavanya Mannem, M.Tech, Assistant Professor
+        Mr. Gnana Vardhan Madasu, M.Tech, Assistant Professor
+        Ms. Vijaya Lakshmi, M.Tech, Assistant Professor
+    ```
+
+    ## Placements Year 2023-24:
+    ```
+        1. Amazon WoW: 1 selection, salary package: Rs. 18 LPA
+
+        2. Baby Cloud: 1 selection, salary package: Rs. 8 LPA
+
+        3. Meru Data LLP: 2 selections, salary package: Rs. 8 LPA
+
+        4. TCS Codevita: 1 selection, salary package: Rs. 7 LPA
+
+        5. TCS Salesforce-Digital: 9 selections, salary package: Rs. 7 LPA
+
+        6. Accenture ADV-ASE: 4 selections, salary package: Rs. 6.75 LPA
+
+        7. CTS (Skill Based): 7 selections, salary package: Rs. 5.4 LPA
+
+        8. Accenture-ASE: 70 selections, salary package: Rs. 4.5 LPA
+
+        9. CTS GEN C: 9 selections, salary package: Rs. 4 LPA
+
+        10. TCS Salesforce-Ninja: 5 selections, salary package: Rs. 3.36 LPA
+
+        11. Tech Mahindra: 12 selections, salary package: Rs. 3.25 LPA
+    Note: LPA stands for Lakhs Per Annum.
+    ```
+
+    ## Infrastructure Overview:
+    ```
+        Classrooms - 13
+        Departmental Labs - 06
+        Seminar Hall - 01
+        Staff Rooms - 03
+    ```
+
+    ## Other Info:
+    ``` Refer this page: ```https://www.vvitguntur.com/cse-about``` ```
+```
+
+#COMPUTER SCIENCE & ENGINEERING with Artificial Intellisense - (CSE-AI):
+```
+    ## Department Vision:
+    ```
+        Providing quality education to enable the generation of socially conscious software engineers who can contribute to the advancement in the field of computer science and engineering.
+    ```
+    ## Department Mission:
+    ```
+        To equip the graduates with the knowledge and skills required to enable them to be industry ready.
+        To train socially responsible, disciplined engineers who work with good leadership skills and can contribute for nation building.
+        To make our graduates proficient in cutting edge technologies through student centric teaching-learning process and empower them to contribute significantly to the software industry
+        To shape the department into a center of academic and research excellence
+    ```
+    ## Course Structure & Syllabus (CSE AI):
+    ```
+        Reference link - ```https://www.vvitguntur.com/images/documents/Syllabus/R20/R20_CSM_FINAL_SYLLABUS_6.0.pdf```
+    ```
+
+    ## Faculty:
+    ```
+        Dr. K. Suresh Babu, HoD, M.Tech , Ph.D, Professor
+        Mr. K. Gowri Raghavendra Narayan, M.Tech, Assistant Professor
+        Mr. K. Naga Gopi, M.Tech, Assistant Professor
+        Mr. K. Sudheer Kumar, M.Tech, Assistant Professor
+        Mr. K. Vikas, M.Tech, Assistant Professor
+        Ms. Chillapalli Anusha, M.Tech, Asst. Professor
+        Mrs. Kudaravalli Deepika, M.Tech, Asst. Professor
+        Mrs. D. Madhavi, M.Tech, Assistant Professor
+        Mr. K. Gnanendra, M.Tech, Asst. Professor
+        Mr. K. Balakrishna, M.Tech (Ph.D), Asst. Professor
+        Ms. R. Annapurna, M.Sc, M.Tech, Asst. Professor
+        Mrs. Narasimhala Veera Lakshmi, M.Tech, Assistant Professor
+        Mr. J. Prathap, M.S, Assistant Professor
+        Ms. R. Pnv. Sravanthi, M.Tech, Assistant Professor
+        Mr. T. Satyanarayana Veera Venkata, M.Tech, Assistant Professor
+        Mr. B. Suresh Babu, M.Tech, Assistant Professor
+        Mr. A. Janardhana Rao, M.Tech, Assistant Professor
+        Mr. Buthukuri Venkateswara Reddy, M.Tech (Ph.D), Assistant Professor
+    ```
+```
+
+# Artificial Intellisense & Data Science - (AI&DS):
+```
+    ## Department Vision:
+    ```
+        To achieve the yearnings of arising architects to accomplish worldwide knowledge by acquiring figuring and plan capacities through correspondence that raise them to address the issues of industry, economy, society, ecological and worldwide.
+    ```
+    ## Department Mission:
+    ```
+        To give the satiate of-the craftsmanship offices to fashion the understudies in industry-prepared in Artificial Intelligence and Data Science
+        To cultivate the intelligence of creativity and innovation for various socio-economic related applications useful for increasing the productivity.
+        To encourage alliance with the apparent industries to have the best of all careers.
+        To empower graduates as novel entrepreneurs.
+    ```
+    ## R20 - Regulation (AI&DS):
+    ```
+        https://www.vvitguntur.com/images/documents/Syllabus/R20/B.Tech_-_AIDS_R20_Regulation.pdf
+    ```
+    ## Course Structure R20 (AI&DS):
+    ```
+        https://www.vvitguntur.com/images/documents/Syllabus/R20/B.Tech_-_AIDS_R20_Course_Structure.pdf
+    ```
+    ## Syllabus R20 (AI&DS):
+    ```
+        https://www.vvitguntur.com/images/documents/Syllabus/R20/UG-R20-CS_AIML_Course_Structure__Syllabus.pdf
+    ```
+    ## Faculty:
+    ```
+        Dr. T. Sudhir, Ph.D, Professor
+        Ms. K. Rajani, M.Tech, (Ph.D), Assistant Professor
+        Mr. M. Narasimha Rao, M. Tech, Asst Professor
+        Mr. B. Surendra Babu, M. Tech, Asst Professor
+        Mr. R. Ch. V Sai ram, M. Tech, Asst Professor
+        Ms. R. Mounika, M.Tech, Asst. Professor
+        Ms. Sk. Faamida, M.Tech, Assistant Professor
+        Ms. K. Divya, M.Tech, Assistant Professor
+        Ms. M. Sathya Vijaya, M.Tech, Assistant Professor
+        Mr. Medeswara Rao, M.Tech, Asst. Professor
+        Sri. K. Gopi Raju, M.Tech, Assistant Professor
+        Mr. R. Vinod, M.Tech, Assistant Professor
+        Ms. T Sirisha, M.Tech, Assistant Professor
+        Ms. P Rajya Lakshmi, M.Tech, Assistant Professor
+        Mr. B. Lokesh, M.Tech, Assistant Professor
+        Ms. P. Anusha, M.Tech, Assistant Professor
+    ```
+```
+
+# Artificial Intellisense & Machine Learning - (AIML) or CSE with Artificial Intellisense & Machine Learning - (CSM):
+```
+    ## Department Vision:
+    ```
+        Providing quality education to enable the generation of socially conscious software engineers who can contribute to the advancement in the field of computer science and engineering.
+    ```
+    ## Department Mission:
+    ```
+        To equip the graduates with the knowledge and skills required to enable them to be industry ready.
+        To train socially responsible, disciplined engineers who work with good leadership skills and can contribute for nation building.
+        To make our graduates proficient in cutting edge technologies through student centric teaching-learning process and empower them to contribute significantly to the software industry
+        To shape the department into a center of academic and research excellence
+    ```
+    ## Faculty:
+    ```
+        Dr. G. Krishna Mohan, M.Tech, Ph.D, Professor
+        Mr. R.B.D Siva Prasad, M.Tech, Asst. Professor
+        Ms. K. Radha, M.Tech, Assistant Professor
+        Mrs. G. Supriya, M.Tech, Asst. Professor
+        Mr. T. Sambasiva Rao, M.Tech, Asst. Professor
+        Mr. R. Sai Murali Krishna, M.Tech, Asst. Professor
+    ```
+    ## R20 - Regulation (B.Tech - AI&ML): ``` https://www.vvitguntur.com/images/documents/Syllabus/R20/UG-R20-CS_AIML_Course_Structure__Syllabus.pdf```
+    ## R20 B.Tech(AI&ML) Course Structure & Syllabus: ```https://www.vvitguntur.com/images/documents/Syllabus/R20/R20_AIM_FINAL_SYLLABUS_6.0.pdf```
+    ## R23: ```https://www.vvitguntur.com/images/Department_Pages/CSMAIM/CSM_-_R23_-_I_II_-B.TECH_-_REGULATIONS_COURSE_STRUCTURE__SYLLABUS_2024-25-compressed.pdf```
+```
+
+# CSE with Internet of Things - (CSO or CSE(IoT)):
+```
+    ## About the Department of CSO:
+    ```
+         To meet the global needs and make students industry-ready engineers, a new program with the name of Computer Science and Engineering (Internet of Things) was started from the academic year 2020-2021 with an intake of 60 students. To perform the academic and research activities of this program, a separate department namely "Department of Computer Science and Technology-CSO" was initiated. In this program, students will learn about the development of smart applications using microcontroller-based development boards, sensors, actuators, interface modules, to perform cloud operations through mobile apps, simulation tools, prototype devices, etc. The curriculum is designed meticulously suits to the need of  students to comprehend the basic functional and procedural aspects of this specialization and hone their career towards meeting the global demands.
+         The theme of the course includes software designing, hardware designing, networking and holistic subjects. The implementation of diverse technologies such as Software programming, Embedded Systems, Wireless sensor networks, Communication protocols, Cloud computing, Web services, Big data analytics, etc. considered in this program.
+    ```
+    ## Department Vision:
+    ```
+        To accomplish the aspirations of emerging engineers to attain global intelligence by obtaining computing and design abilities through communication that elevate them to meet the needs of industry, economy, society, environment and global.
+    ```
+    ## Department Mission:
+    ```
+        To mould the fresh minds into highly competent IoT application developers by enhancing their knowledge and skills in diverse hardware and software design aspects for covering technologies and multi-disciplinary engineering practices.
+        To provide the sate- of- the art facilities to forge the students in industry-ready IoT system development.
+        To nurture the sense of creativity and innovation to adopt the socio-economic related activities.
+        To promote collaboration with the reputed industries to have the best careers.
+        To enable graduates to emerge as independent entrepreneurs and future leaders.
+    ```
+    ## Faculty:
+    ```
+        Dr. Ch. Venkata Suresh, Ph.D, Professor
+        Dr. S. Krishna Prasad, M.Tech, Ph.D, Assoc. Professor
+        Mrs. M. Rajya Lakshmi, M.Tech, (Ph.D), Assoc. Professor
+        Mr. S. Saida Rao, M.Tech, Asst. Professor
+        Smt. K. Prasanthi, M.Tech, Asst. Professor
+        Mrs. Kondapally Revathi, M.Tech, Assistant Professor
+        Mrs. Ch Uma, M.Tech, Assistant Professor
+        Mrs. Vani Jyothsna Kotamsetti, M.Tech, Assistant Professor
+        Mr. Tadapaneni Sambasivarao, M.Tech, Assistant Professor
+    ```
+    ## CSE - IoT Course Structure & Syllabus: ```https://www.vvitguntur.com/images/documents/Syllabus/R20/CSE-IoT_R20_Syllabus_VVIT.pdf```
+    ## CSE - IoT Course R20 Regulations: ```https://www.vvitguntur.com/departments/cse-iot/images/documents/Syllabus/R20/CSE-IoT_R20_Regulations.pdf```
+```
+
+# COMPUTER SCIENCE & ENGINEERING with  IoT and Cyber Security including Blockchain Technology - (CIC):
+```
+    ## About IoT, Cyber Security including Blockchain Technology:
+    ```
+        Computer Science & Engineering (Internet of Things and Cyber security including Block chain Technology) undergraduate engineering course has been started by the institute from the academic year 2020-21 with the intake capacity of 60 seats. This B.Tech CSE (IoT & Cyber Security including Blockchain Technology), undergraduate programme familiarises students with the functional and operational aspects of IoT, Cyber Security and Blockchain Technology.
+        Cyber Security is a specialized field in Information Technology (IT) which is regarded as a substream in Computer Science. Cyber Security courses aims to equip students with the knowledge and skills required to defend the computer operating systems, networks and data from cyber-attacks.
+        Cyber Security as a profession is evolving over the years, reason being the increasing rate of cyber crimes. Any industry that transacts online or carries sensitive data is in need of a Cyber Security professional to safeguard its date from such delinquents. Cyberspace being a common platform which is accessed anyone from every corner of the world, the scope of cybersecurity is equally spread across the globe.
+    ```
+    ## DEPARTMENT VISION:
+    ```
+        The Vision of the Department is to strive towards the development and dissemination of knowledge in the area of CIC and empower young engineers to acquire technical excellence imbibed with ethical and moral values that leads to collective global success. The branch of CIC emphasizes on designing, innovating the real-world applications by simulating the real-time systems by providing excellent Engineering Education.
+    ```
+
+    ## DEPARTMENT MISSION:
+    ```
+        The department of CSE(CIC) is moving forward to promote excellence and relevance in CSE (IoT, Cybersecurity including Blockchain Technology) domain.
+        Design a industry relevant curriculum
+        Aims to impart value based technical education of global standards
+        Transform the students into disciplined, talented citizens of impeccable character
+        Spread out industry collaborations for student outreach
+        Fused with hands on training to make them good entrepreneurs with an emphasis to develop social, cultural, ethical and environmental consciousness and life-long learning
+    ```
+
+    ## Faculty:
+    ```
+        Dr. Ravindranath Tagore M, M.Tech.,Ph.D, Professor
+        Dr. P. Sudhakar, Ph.D, Professor
+        Sri. K. Ravi Kumar, M.Tech, Assoc. Professor
+        Sri. P. Satish Kumar, M.Tech, Assistant Professor
+        Mr. D. Venkateswara Rao, M.Tech, Assistant Professor
+        Ms. M. Bhavani Ramya Sai, M.Tech, Asst.Professor
+        Mr. K.Rajesh ,M.Tech ,Assistant Professor
+        Mr. Ch. Ashok Kumar, M.Tech, Asst. Professor
+        Mr. V. John Wesly, M.Tech, Assistant Professor
+        Sri. A. Srikanth, M.Tech, Assistant Professor
+        Ms. V.S Vaishnavi, M.Tech, Asst. Professor
+        Ms. P. Anusha, M.Tech, Assistant Professor
+        Mr. M. N. Sri Harsha, M.Tech, Assistant Professor
+    ```
+```
+
+# Electronics and Communication Engineering - (ECE):
+```
+    ## About:
+    ```
+        The department of Electronics and Communication Engineering (ECE) was established during the inception of the institute in 2007 with an annual intake of 60 students. In the academic year 2009-2010 the intake capacity rose to 120 and in the year 2013-2014 it rose to 180.The department has a faculty student ratio of 1:15 as per AICTE norms .The average teaching experience is more than 5 years. So far around 2000 students have graduated. Every year our students secure placements in reputed companies like INFOSYS, TCS, TECH MAHINDRA, EFFTRONICS and VEDA IIT etc.
+        The department also offers two post graduate programs in VLSI& Embedded systems and Digital Electronics and Communication Systems (DECS) with an intake of 18 in each specialization. The major goal of the department of ECE is to produce highly knowledgeable, competent and resourceful young engineers who can perform well in a wide variety of job profiles. To achieve this goal the department is putting dedicated efforts in nurturing a strong foundation both in analytical and technological aspects laid down in the curriculum. It also provides ample opportunities to students to work on mini projects, develop communication skills, explore internship opportunities in industry and take part in national and international design contests.
+        The laboratory practical classes are conducted in a systematic manner, where complete plan is given at the time of commencement of the semester. The laboratories are well equipped with modern training facilities that cater to the requirements of the university syllabus. This department plays a vital role in training students of other branches of engineering too.
+        The department also encourages students to take up Graduate Aptitude Test for Engineers (GATE), Graduate Record Examination (GRE) during their final year so they can pursue their higher education either in India or countries like USA, UK, Canada, Australia etc.The department has an active ECE students’ forum where students learn to do projects and organize technical events like symposiums, paper presentations to inculcate a broader perceptive on the profession. These efforts have culminated in the form of placements in various leading industries and organizations.
+    ```
+
+    ## Vision:
+    ```
+        To produce globally competitive and socially responsible engineering graduates and to bring out quality research and education, generating knowledge in the frontier areas of Electronics and Communication Engineering
+    ```
+
+    ## Mission:
+    ```
+        To achieve self-sufficiency on all fronts to ensure qualitative Teaching-Learning practices.
+        To provide quality education, student-centred Teaching-Learning processes and state of art infrastructure for professional aspirants hailing from both rural and urban areas.
+        To impart technical education that encourages independent thinking, developing strong domain knowledge, contemporary skills and attitude towards holistic growth of young minds.
+        Responsiveness to both local and global industry needs and creating opportunities through incubation and implementation of innovative programs
+        To serve the community as disciplined responsible citizens in a rapidly changing and expanding global community.
+        Evolving this organization into a centre of academic and research excellence.
+    ```
+
+    ## Faculty:
+    ```
+        Dr. Y. Mallikarjuna Reddy, Ph.D, Professor & Principal
+        Dr. K. Giri Babu, Ph.D, Professor & Dean of Academics
+        Dr. M.Y. Bhanu Murthy, Ph.D, Professor & HoD
+        Dr. P. Ammi Reddy, M.Tech.,Ph.D, Professor
+        Dr. Sk. Enaul Haq, M.E, Ph.D, Professor
+        Dr. Sk. Riyazuddien, M.Tech, Ph.D, Assoc. Professor
+        Sri B.S.N Reddy, ME, Assoc. Professor
+        Sri G.V. Satya Kumar, M.Tech(Ph.D), Assoc. Professor
+        Sri M. Pardha Saradhi, M.Tech(Ph.D), Assoc. Professor
+        Sri G. Naveen Kumar, M.Tech(Ph.D), Assoc. Professor
+        Sri. B.V Satish Kumar, M.Tech (Ph.D), Asst. Professor
+        Sri. B. Manikanth, M.Tech,(Ph.D), Asst. Professor
+        Sri. T. Vijay Kumar, M.Tech, (Ph.D), Asst. Professor
+        Dr. M. Venkatesh, Ph.D, Asst. Professor
+        Dr. N. Durga Rao, Ph.D, Asst. Professor
+        Smt. T. Vineela, M.Tech, Asst. Professor
+        Mr. S. Nagaraju, M.Tech,(Ph.D), Asst. Professor
+        Mr. A. Srinag, M.Tech, (Ph.D), Asst. Professor
+        Ms. T. Shalini, M.Tech, Asst. Professor
+        Mr. G. Amar Tej, M.Tech, (Ph.D), Asst. Professor
+        Mr. Mande Srinivasa Rao, M.Tech, Asst. Professor
+        Mr. K. Ramesh Babu, M.Tech, Asst. Professor
+        Ms. Sk. Mastanbi, M.Tech, Asst. Professor
+        Ms. K. Sandhya Rani, M.Tech, Asst. Professor
+        Mrs. K. Spandana, M.Tech, Assistant Professor
+        Smt. B. Radhika, M.Tech, Asst. Professor
+        Ms. B. Saritha, M.Tech, Asst. Professor
+        Smt. N. Sowjanya, M.Tech, Asst. Professor
+        Sri. B. Durga Prasad, M.Tech, Asst. Professor
+        Mrs. P. Latha, M.Tech, Assistant Professor
+        Mr. P. Murali Krishna, M.Tech, Assistant Professor
+        Mrs. K. Ramya Sree, M.Tech, Assistant Professor
+        Mrs. D. Siva Padmavathi, M.Tech, Assistant Professor
+    ```
+    ## Placement Details:
+    ```
+        1. Nucon Aerospace: 3 students placed, salary: Rs. 2 LPA
+        2. Accenture: 17 students placed, salary: Rs. 4.5 LPA
+        3. Lotus Technologies: 13 students placed, salary: Rs. 3 LPA
+        4. Delloite: 1 student placed, salary: Rs. 4.5 LPA
+        5. Synopsis: 1 student placed, salary: Rs. 5 LPA
+        6. TCS-Ninja: 3 students placed, salary: Rs. 3.36 LPA
+        7. TCS-Digital: 1 student placed, salary: Rs. 7 LPA
+        8. Tech Mahindra: 5 students placed, salary: Rs. 3.25 LPA
+        9. CTS GenC: 1 student placed (salary not specified)
+
+        Placement Summary:
+        ```
+            - Total number of offers: 45
+            - Total number of students placed: 40
+            - Average salary: Rs. 4.07 LPA
+        ```
+        Note: LPA stands for Lakhs Per Annum.
+    ```
+    ## Laboratory Details:
+    ```
+        ### Undergraduate (U.G) Program:
+            ```
+                - Electronic Devices and Circuits Lab: 135 sq. m, equipment cost: Rs. 8,77,063
+                - Electronic Circuit Analysis Lab: 161 sq. m, equipment cost: Rs. 7,88,998
+                - Pulse And Digital Circuits Lab: 161 sq. m, equipment cost: Rs. 7,88,998
+                - IC Applications Lab: 161 sq. m, equipment cost: Rs. 7,88,998
+                - Analog Communication Lab: 137 sq. m, equipment cost: Rs. 14,22,293
+                - Digital Communication Lab: 137 sq. m, equipment cost: Rs. 14,22,293
+                - DSP & Simulation Lab: 137 sq. m, equipment cost: Rs. 20,86,954
+                - Microprocessors & Microcontrollers Lab: 137 sq. m, equipment cost: Rs. 11,41,539
+                - Microwave & Optical Communications Lab: 96 sq. m, equipment cost: Rs. 13,09,254
+            ```
+
+        ### Postgraduate (P.G) Program:
+        ```
+            - VLSI Lab: 87 sq. m, equipment cost: Rs. 38,02,834
+
+            Research and Development (R&D) Lab
+
+            - Research Centre: 97 sq. m, equipment cost: Rs. 23,36,897
+        ```
+
+        ### Total Laboratory Details:
+        ```
+            - Total area: 970 sq. m
+            - Total equipment cost: Rs. 1,37,65,832/-
+        ```
+    ```
+```
+
+# Electrical and Electronics Engineering - (EEE):
+```
+    ## About:
+    ```
+        The Department of Electrical and Electronics Engineering has been playing a vital role in producing technologists of highest calibre ever since it was established in the year 2007. The department runs one under-graduate programme and one post-graduate programme (M.Tech. – Power Electronics and Electric Drives) to cater to the ever challenging needs of technical excellence in all areas of Electrical Engineering such as Power systems, Control Systems & Power Electronics.
+        The department is lead by Dr.A.V Naresh Babu as head of the department. The department is regularly conducting seminars, guest lectures, workshops and technical symposiums on latest technologies. The students used visit industries regularly frequently to enhance their technical knowledge.
+        The Department has obtained DST project worth Rs.31,19,600 and a seminar grant of Rs.5,00,000. The College Academic Council and Board of Studies of the department strive to provide quality education with most advanced curriculum to make the students industry ready as well as excel in the contemporary business world.
+        The Department has obtained Centre of Excellence (Automachine lab, Energy systems and studies lab, Process instrumentation and Mechatronics lab) with SIEMENS sanctioned by APSSDC, Andhra Pradesh Government. The students of the department will be placed in industries directly through COE. The other college students also trained at COE.
+    ```
+    ## Vision:
+    ```
+        To nurture young and fresh minds into disciplined and globally competent technocrats with ethical values to excel in the arena of Electrical and Electronics Engineering leading to sustainable development of society.
+    ```
+    ## Mission:
+    ```
+        To produce qualified engineers with technical knowledge and innovative skills to cater the dynamic requirements in the field of Electrical and Electronics Engineering.
+        To provide state-of-the-art resources that contribute to achieve excellence in teaching-learning, research and development activities
+        To produce graduates with leadership and Entrepreneurship qualities.
+        To maximize industry exposure to the students through short-term training in power plants as well as field visits, hands on exposure to the industry.
+        Ensure that our students are well trained in interpersonal skills, team work, professional ethics, environmental awareness and participate in professional society activities.
+    ```
+    ## Faculty:
+    ```
+        Dr. A.V Naresh Babu,Ph.D, Professor & HOD
+        Dr. Sangu Ravindra, Ph.D, Professor
+        Dr. D. Srilatha, M.Tech, Ph.D, Professor
+        Dr. Ch. Rambabu, M.E, Ph.D, Professor
+        Dr. P. Lakshman Naik, M.Tech, Ph.D, Associate Professor
+        Dr. I. L. J Baktha Singh, M.E, Ph.D, Associate Professor
+        Mr. Sk. Rasululla, M.Tech (Ph.D), Assoc. Professor
+        Dr. Ch. Naga Sai Kalyan, M.Tech, Ph.D, Associate Professor
+        Dr. B. Sreenivasa Raju, M.E., Ph.D, Assoc. Professor
+        Mr. P. Mahamood Khan, M.E, (Ph.D), Assistant Professor
+        Mr. A. Rahiman, M.Tech, Assistant Professor
+        Mr. P. Nagarjuna, M.Tech, Assistant Professor
+        Mr. B. Sekhar, M.Tech, (Ph.D), Assistant Professor
+        Mr. M. Srikanth, M.Tech, (Ph.D), Asst. Professor
+        Mr. J. Anand, M.Tech, Asst. Professor
+        Ms. A. Sai Anusha, M.Tech, Assistant Professor
+        Mrs. I. Revathi, M.Tech, Asst. Professor
+        Mrs. K. Kiranmaie, M.Tech, Assistant Professor
+        Mrs. G. Chaitanya, M.Tech, Asst. Professor
+        Ms. K. Baby Shamili, M.Tech, Asst. Professor
+        Mr. T. Swamy Das, M.Tech, Assistant Professor
+        Mr. Talapaneni Ramalingaiah, M.Tech, Asst. Professor
+        Ms. G. Sravani, M.Tech, Assistant Professor
+        Mrs. D. Priyanka, M.tech, Assistant Professor
+        Mrs. K.Sravani , M.Tech, Assistant Professor
+    ```
+    ## Placements:
+    ```
+        - CTS GenC: 1 student, salary package: Rs. 4 LPA
+        - Accenture ASE: 6 students, salary package: Rs. 2.5 LPA
+        - HBI Power Systems (Testing Division): 3 students, salary package: Rs. 2 LPA
+        - HBI Power Systems (R&D): 2 students, salary package: Rs. 2.5 LPA
+        - TVS Sundaram Fasteners Ltd: 36 students, salary package: Rs. 2.5 LPA
+        - Nucon Aerospace Ltd: 3 students, salary package: Rs. 2 LPA
+    ```
+    ## Laboratories:
+    ```
+        ### List:
+        ```
+            Electrical Circuits Lab
+            Electronic Devices & Circuits Lab
+            Electrical Machines Lab
+            Control Systems Lab
+            Electrical Measurements Lab
+            Micro Processor & Micro Controller Lab
+            Power Electronics Lab
+            Power Systems Lab
+            Electrical Simulation Laboratory
+            Power Electronics & Drive Lab (for M.Tech)
+            R&D Lab (Energy Studies Lab)
+            IOT Lab
+            ELECTRIC CIRCUITS LAB
+        ```
+        ### ELECTRIC CIRCUITS LAB:
+        ```
+            The objective of Electric Circuits laboratory is to impart hands on experience in verification of circuit laws and theorems, measurement of circuit parameters, study of circuit characteristics and simulation of time response. It also gives practical exposure to the usage of CRO, power sources, function generator etc.
+        ```
+        ### ELECTRONIC DEVICES & CIRCUITS LAB:
+        ```
+            The objective of Electric Devices Circuits laboratory is to impart hands on experience  verify characteristics of various devices like P-N Junction diode, BJT, FET, and SCR. In this Lab students also verify applications Electronic Devices. It also gives practical exposure to the usage of CRO, power sources, function generator etc.
+        ```
+        ### ELECTRICAL MACHINES LAB:
+        ```
+            The Electrical Machines Laboratory supports teaching; research and consultancy work on Electrical machines and drives. Through hands-on experiments with real machines, students gain practical experience on transformers and various types of machine drives. The laboratory can also be used for project work related to electrical machines and energy conversion.
+            The four main purpose of an electrical machines laboratory are:
+            To provide the student with practical knowledge of handling the electrical machines.
+            To correlate the theoretical classroom treatment with actual machine characteristics.
+            To demonstrate the most suitable testing techniques.
+            To educate engineer researchers and to conduct research in all aspects of electrical and electromechanical energy conversion.
+        ```
+        ### CONTROL SYSTEMS LAB:
+        ```
+            The Control Systems Lab in the Department of Engineering Technology contains a variety of laboratory equipment used in design and experimentation of digital and analog electromechanical feedback control systems.
+            The equipment in this lab is mainly used in lab projects of Process Control and Interface Design (ENT 311) and Electromechanical Control Systems (ENT 418) courses.
+        ```
+        ### ELECTRICAL MEASUREMENTS LAB:
+        ```
+            Electrical Measurement laboratory is useful to assist the theory courses on Electrical measurements & Instrumentation. This laboratory deals with different types of electrical bridges, determining the displacement-voltage characteristics’ of Linear Voltage Differential transformer(LVDT), measurement of three phase active and reactive powers, calibration of single phase energy meter, measurement of strain using  strain gauge, Transformer oil testing etc. Through hands on experiments with real measuring equipment, students gain practical experience on energy meter, LVDT, Transformer oil testing and various types of measuring devices.
+        ```
+        ### MICRO PROCESSOR & MICRO CONTROLLER LAB:
+        ```
+            The main objective of this lab course is to gain the practical hands on experience of programming the 8086 microprocessor and 8051 microcontroller and also to gain knowledge on interfacing of different peripherals to microprocessor.
+        ```
+        ### POWER ELECTRONICS LAB:
+        ```
+            The main learning objectives of power electronics lab are the students are able to study the characteristics of various power electronic devices and analyze firing circuits and commutation circuits of SCR practically along with the performance analysis of single phase and three phase full wave  bridge converters and an operation of AC voltage regulator with both resistive and inductive loads, and also the students are able to understand the working process of Buck converter, Boost converter and inverters.
+        ```
+        ### POWER SYSTEMS LAB:
+        ```
+            Power system Laboratory comprises of protection, simulation, high voltage and machine related experiments. The lab comes equipped with all the fundamental equipment needed for experiments involving electric power systems. The equipment available to students in the lab includes fundamental devices of electric power systems, such as transformers, electrical machines, power passive components, etc. Through the experiments and hands-on learning processing, students can directly measure the characteristics of fundamental components used in electric power engineering and study the operation of electric power systems. In the lab experiments the instructor can teach students effectively about the real electric power systems: operation, technical limitation, and safety issues. The laboratory also enables education and the highest level, integrating new course developments in electric power engineering, focused on these same emerging technologies. The laboratory contains the some hardware and software used by industry professionals in the creation and maintenance of power systems giving students the opportunity to develop the skills and experience that will aid them in the work field.
+        ```
+        ### ELECTRICAL SIMULATION LABORATORY:
+        ```
+            This lab is intended to train students develop MATLAB/ PSPICE programs for  simulate integrator circuit, differentiator circuit, Boost converter, Buck
+            converter, full convertor, PWM inverter,  transmission line by incorporating line, load and transformer models.
+        ```
+        ### POWER ELECTRONICS & DRIVE LAB (for M.Tech):
+        ```
+            The usage of power converters and drives in day to day life has increased in recent years. It is important for student to understand the fundamental principles behind all these converters. The importance of using pulse width modulated techniques to obtain high quality power supply (dc/ac converter) is also discussed in detail in this course.
+        ```
+        ### R&D LAB (ENERGY STUDIES LAB):
+        ```
+            This project focuses on a battery charging technology utilized in small wind power generation system, in which the cost should be especially emphasized. Here a new control strategy is adopted to restrain the charging current by means of dynamically confining the duty cycle of the buck converter. In this project energy captured by the wind turbine is converted in to kinetic energy which is again converted into electrical energy with the help of PMSG. This electrical ac output is converted into dc by using rectifier. The dc output of rectifier is fed to the buck converter which produces 24V dc output which is stored in battery. 24V dc output of battery is converted into ac output by using inverter and transformer. Here two stages of conversion is done as the speed of wind and PMSG is not constant.
+        ```
+        ### IOT LAB:
+        ```
+            IoT Lab is a research platform exploring the potential of crowd sourcing and Internet of Things for multidisciplinary research with more end-user interactions. It gives the power to the crowd to be at the core of the research and innovation process. It gives you the power to change the world and the way we understand it.
+            The Internet of Things (IoT) is the network of physical objects or ‘things’ embedded with electronics, software, sensors, and connectivity to enable objects to exchange data. IoT allows direct integration between the physical world and computer-based systems, helping to connect people, processes and devices.
+            The applications of Arduino uno, Raspberry pi 3, Node MCU are practicing with the students from second year itself. It is very advantageous to the students for the motivation towards research.
+        ```
+    ```
+
+    ## Infrastructure:
+    ```
+        ### Classroom and Tutorial Facilities:
+        ```
+            - Number of Classrooms: 9
+            - Number of Tutorial Rooms: 1
+            - Number of Seminar Halls: 1
+        ```
+
+        ### Laboratory Facilities:
+        ```
+            - Number of Labs: 7
+        ```
+
+        ### Computers Lab:
+        ```
+            - Number of Computers: 70
+            - Room Allotted: C - 404
+            - Area: 96.6 sq. m
+        ```
+
+        ### Equipment Details:
+        ```
+            - Computers: HP, i5 Processor, 8GB RAM, 500GB Hard Disk (Integrated Electronics) - 70
+        ```
+
+        ### Additional Facilities:
+        ```
+            - LCD Projectors: 8
+            - Power Back-up: 1.5 hours
+            - Printers: Samsung M1005
+            - Internet:
+                - BSNL Broadband (125 Mbps)
+                - Siti Cable e-net
+                - Wi-Fi connectivity
+        ```
+    ```
+    ## MOU's:
+    ```
+        - 1. Orange Research Labs Industries: Located in Telangana
+        - 2. Andhra Pradesh State Skill Development Corporation: Focuses on skill development in Andhra Pradesh
+        - 3. Social Agro Industries: Based in Brahman Koduru, Guntur
+        - 4. PolisettySomasundaram Tobacco Threshers Pvt. Ltd.: Headquartered in Guntur
+        - 5. Kalpah Innovations Pvt. Ltd: Operates in Vijayawada
+        - 6. University of Massachusetts Lowell: Located in Lowell
+        - 7. BYNDR Technologies India Pvt Ltd: Based in Telangana State
+        - 8. Tata Consultancy Services Ltd: Headquartered in Mumbai
+        - 9. Seventh Sense Talent Solutions: Operates in Bangalore
+        - 10. Sudha Industries: Based in Tenali
+        - 11. Indian School of Business (ISB): Collaborates with various organizations through its Hyderabad campus
+        - 12. State Bank of India: A prominent banking institution
+        - 13. Quality People IT: Based in Vijayawada
+        - 14. INFOSYS Campus Connect Program: Offers training and development programs in Hyderabad
+    ```
+```
+
+# INFORMATION TECHNOLOGY (NBA ACCREDITED) - (IT):
+```
+    ## About:
+    ```
+       The department of Information Technology (IT) has been successfully functioning since 2007. It offers B.Tech (Information Technology) Programme with an intake of 180 students. The Department of IT is one of the progressive branches of VVIT that has grown its intake from 60 to 180 in the academic year 2017-18, for the B.Tech Programme, proving its potential among all other Institutions in AP capital region. In 2016, the department is provisionally accredited by NBA.
+
+       The institute in general and Department of IT in particular has uncompromising discipline and flawless execution of academic policies, which makes the Teaching-Learning environment conducive for all types of students to fulfil their dreams.
+
+       Department of IT has good interactions and MOUs with leading technology domain Training & Development Industries. Department of IT under VVIT has several agreements in the form of MoUs with Google Code Labs, Infosys (Campus Connect), Microsoft (Campus Agreement), Tech Mahindra, SphereMe, and InetSolv & Vee-Technologies. It organizes Symposia, Exhibitions, Conferences, Seminars and Workshops for both Students and Faculty belonging to various Technical Educational Institutions, Research Scholars of Research Institutes and Industries all over India.
+
+       Students of IT Department are placed in various top MNCs like Infosys, IBM, Tech Mahindra, Accenture, Mind Tree, Samsung R&D, EPAM, Deutsche Bank of Singapore etc., for deserving & esteemed packages of more than 2.4 Lac to 9.5 Lac per annum. The IT department has significant role in training students of entire Institute to secure the jobs in software field.
+
+       The Department comprises 2 fully Air-Conditioned Computer Centres with 120 systems, state-of-the-art computing facilities with sufficient power supply backup. The laboratory practical classes are conducted in a systematic manner, where complete plan is given at the time of commencement of the semester .The laboratories are well equipped with modern training facilities that cater to the requirements of the university syllabus.
+
+       Department is committed to encourage students to carry out innovative research in the field of Information Technology, keeping excellence in focus and deliver quality services to match the needs of the technical education system, industry and society as per its Programme Educational Objectives.
+
+       Faculty of IT are always dedicated and devoted towards the comprehensive development of their students by encouraging them physically through enough sports & games; psychologically through co and extracurricular activities globally. The IT Department has well qualified and optimally qualified supporting staff for the smooth interface among students, Faculty and Parents.
+
+       The Department of IT takes care of Software & Hardware requirements of the entire Institute. The strength of the IT Department is its Alumni, which adds a good amount of perception rating to the department by being most illustrious.
+    ```
+    ## Vision:
+    ```
+        To produce IT professionals who can develop globally competitive and socially useful information technology enabled solutions and products that offer cost effective solutions, for organizations, in particular and society in general, through their innovative ideas, and to create a knowledge pool through research in this field.
+    ```
+    ## Mission:
+    ```
+        Producing information technology professionals for the Global IT industry.
+
+        Developing student centric and qualitative teaching-learning practices.
+
+        Establishing infrastructure that endows cutting edge technology requirements of the industry.
+
+        To extend service to the public, the state and the nation at large by building quality engineers.
+
+        To carve disciplined and socially, technologically better responsible citizens.
+
+        To make the students pursuing information technology the technological ambassadors of VVIT in whatever part of the world they find themselves in their future careers.
+    ```
+    ## FACULTY:
+    ```
+        Dr. A. Kalavathi, M.Tech, Ph.D, Professor
+        Dr. B. Sai Jyothi, M.Tech, Ph.D., Professor
+        Dr. Konduru Kranthi Kumar, M.Tech, Ph.D, Assoc. Professor
+        Mr. R. Sudha Kishore, M.Tech, Ph.D, Assoc. Professor
+        Sri. M. D. Shakeel Ahmed, M.Tech (Ph.D), Associate Professor
+        Mr. N. Ashok, M.Tech, (Ph.D), Assistant Professor
+        Smt. Sk. Mulla Almas, M.Tech, Asst. Professor
+        Mr. P. Naga Babu, M.Tech, Asst. Professor
+        Mrs. K. Thrilocana Devi, M.Tech, Asst. Professor
+        Mr. Buradagunta Avinash, M.Tech, Asst. Professor
+        Mr. Y. Venkata Narayana, M.Tech, Asst. Professor
+        Mr. K. Siddhartha, M.Tech, Assistant Professor
+        Ms. G. Shireesha, M.Tech, Assistant Professor
+        Mr. Jeevan Ratnakar Kondra, M.Tech, Asst. Professor
+        Mr. Ram Bhupal, Assistant Professor, M.Tech, (Ph.D)
+        Mr. Yallamati Suresh, M.Tech, Asst. Professor
+        Mr. Nanduri Ashok, M.Tech, Asst. Professor
+        Mr. Kommuri Rajendra, M.Tech, Asst. Professor
+        Ms. G. Priyadarshini, M.Tech, Asst. Professor
+        Mr. K. Parisuddha Babu, M.Tech, Asst. Professor
+        Mr. O. T. Gopi Krishna, M.Tech, Assistant Professor
+        Mr. A V Sudhakara Rao Ande, M.Tech, (Ph.D), Asst. Professor
+        Mr. B. Rajesh, M.Tech, (Ph.D) Asst. Professor
+        Mr. B. Ajay Kumar, M.Tech, Assistant Professor
+        Ms. Yakkaluri Madhuri, M.Tech, Assistant Professor
+        Mr. Ch. Vinod, M.Tech, Assistant Professor
+        Mr. G. Rajesh Kumar, M.Tech, Assistant Professor
+        Ms. A. B. Naga Harshini, M.Tech, Assistant Professor
+        Mrs. S H Maha Lakshmi, M.Tech, Assistant Professor
+        Ms. K. Annapurna, M.Tech, Assistant Professor
+        Ms. Hepsiba, M.Tech, Assistant Professor
+        Ms. B. Alekhya, M.Tech, Assistant Professor
+    ```
+    ## IT Placement Statistics (Batch-wise):
+    ```
+       1. Batch 2020-2024:
+            - Total Students: 196
+            - Registered for Placement: 51
+            - Placement Offers: 46
+            - Students Placed: 31
+            - Placement Percentage: 41.83% (as of date)
+
+
+       2. Batch 2019-2023:
+            - Total Students: 204
+            - Registered for Placement: 121
+            - Placement Offers: 97
+            - Students Placed: 52
+            - Placement Percentage: 73.06%
+
+
+       3. Batch 2018-2022:
+            - Total Students: 176
+            - Registered for Placement: 145
+            - Placement Offers: 264
+            - Students Placed: 129
+            - Placement Percentage: 89%
+
+
+       4. Batch 2017-2021:
+            - Total Students: 165
+            - Registered for Placement: 128
+            - Placement Offers: 194
+            - Students Placed: 95
+            - Placement Percentage: 74.2%
+
+
+       5. Batch 2016-2020:
+            - Total Students: 59
+            - Registered for Placement: 45
+            - Placement Offers: 54
+            - Students Placed: 33
+            - Placement Percentage: 71.7%
+
+
+       6. Batch 2015-2019:
+            - Total Students: 59
+            - Registered for Placement: 34
+            - Placement Offers: 52
+            - Students Placed: 28
+            - Placement Percentage: 82.4%
+    ```
+    ## Infrastructure:
+    ```
+        Teaching and Learning Facilities:
+        - Class Rooms: 9
+        - Faculty Cabins: 13
+        - AC Seminar Hall: 1
+        - Department Library: 1
+
+
+        Research and Development Facilities:
+        - Research Centre: 1
+        - Laboratories: 3
+
+
+        Technology and Computing Facilities:
+        - LCD Projectors/TV: 9
+        - Computing Facility: 216 systems
+        - Internet Facility: 150 Mbps broadband connectivity
+    ```
+    ## Laboratory Facilities:
+    ```
+        1. Systems and Security Lab
+            - Exclusive use
+            - Area: 135.3 sq. mt
+            - Number of systems: 72
+            - Equipment: HP Systems with AMD A6 Processors, 8GB RAM, 500GB HDD
+
+
+        2. Analytics Lab
+            - Exclusive use
+            - Area: 129.7 sq. mt
+            - Number of systems: 72
+            - Equipment: HP Compact with Intel i5 Processors, 8GB RAM, 500GB HDD
+
+
+        3. Advanced Programming Lab / Projects Lab
+            - Exclusive use
+            - Area: 135.3 sq. mt
+            - Number of systems: 72
+            - Equipment: HP Systems with AMD A6 Processors, 8GB RAM, 500GB HDD
+    ```
+```
+
+# CIVIL ENGINEERING (NBA ACCREDITED):
+```
+    ## About:
+    ```
+        In past years, civil engineers focused on design and construction of new facilities, such as buildings, bridges and highways, water treatment and environmental facilities, foundations and tunnels. Today's civil engineer not only has to design new facilities but must also analyze the effects of deterioration on infrastructure elements, consider system interdependencies and evaluate life-cycle impacts while also considering environmental and economic sustainability within the context of society. Civil engineers must be equipped with in-depth knowledge of traditional, fundamental principals and new technologies in order to address the complex, interdisciplinary problems faced within society. The undergraduate program at VVIT gives the students the necessary background to success within this new context and to become the future leaders of the profession.
+    ```
+    ## Vision:
+    ```
+        To provide globally competitive and socially responsible Civil Engineering professionals, who can contribute to the organization and nation-building through their innovative ideas and to create knowledge pool of Civil Engineering through quality research.
+    ```
+
+    ## Mission:
+    ```
+        To develop and implement qualitative teaching and learning practices to impart quality education to the students to dovetail them to industry needs
+        To develop engineers with good scientific and engineering knowledge so as to comprehend, analyze, design and apply knowledge to the fast changing needs in the field of Civil Engineering.
+        To provide hands-on experience and knowledge to the students to make them engineers of excellence.
+        To promote innovative and original thinking in the minds of budding engineers to face the Challenges of future by shaping the department into a center of academic and research excellence.
+        To inculcate the value of discipline and encourage the student to   become a responsible and worthy citizen of the nation.
+    ```
+    ## Faculty:
+    ```
+        Dr. T. Sreedhar Babu, Ph.D, Professor & HOD
+        Dr. N. Kumara Swamy, Ph.D, Professor
+        Dr. R. Ratna Prasad, Ph.D, Professor
+        Sri. Farooq Ahmed Syed, M.E(Ph.D), Associate Professor
+        Mr. D. Sudhakar, M.Tech, Associate Professor
+        Sri. T. Venkateswara Rao, M.Tech, Associate Professor
+        Sri. Ch. Sukesh, M.Tech, Assistant Professor
+        Ms. K. Sai Ramya, M.Tech, Assistant Professor
+        Sri. D. Aditya Sai Ram, M.Tech, Assistant Professor
+        Sri. Y. V. Subba Reddy, M.Tech, Assistant Professor
+        Ms. K. Adithya Nandini, M.Tech, Assistant Professor
+        Mr. A. Prasad, B.Sc, M.Sc(Geologist), Asst. Professor
+        Mr. K.S. Vivek, M.Tech, Asst. Professor
+        Ms. K. Krishnaveni, M.Tech, Asst. Professor
+        Mr. Sk. Noor Ibrahim, M.Tech, Asst. Professor
+        Ms. Ch. Lakshmi Anuhya, M.Tech, Asst. Professor
+        Sri. D. Jaya Krishna, M.Tech, Asst. Professor
+        Mr. Mirza Mahaboob Baig, M.Tech, Asst. Professor
+        Mr. Leela Suresh Ghanta, M.Tech, Asst. Professor
+    ```
+    ## Placement Details (2021-22):
+    ```
+        - Wipro Turbo: 4 selections, salary package: Rs. 6.5 LPA
+        - Unschool: 1 selection, salary package: Rs. 5 LPA
+        - CTS Gen C Elevate: 3 selections, salary package: Rs. 4.5 LPA
+        - CTS Gen C: 10 selections, salary package: Rs. 4 LPA
+        - Virtusa Drive: 2 selections, salary package: Rs. 2.4 LPA
+        - Wipro NTH: 16 selections, salary package: Rs. 3.75 LPA
+        - Infosys: 7 selections, salary package: Rs. 3.6 LPA
+        - TCS: 5 selections, salary package: Rs. 3.5 LPA
+        - Pagadala Constructions: 2 selections, salary package: Rs. 3.2 LPA
+        - Sri Harsha: 2 selections, salary package: Rs. 3.1 LPA
+        - ColorMoon Technologies Pvt. Ltd.: 1 selection, salary package: Rs. 2.4 LPA
+        - VAP Consultancy: 4 selections, salary package: Rs. 1.8 LPA
+        - Cadeploy: 2 selections, salary package: Rs. 1.56 LPA
+        - Huscon: 1 selection, salary package: Rs. 1.5 LPA
+    ```
+
+    ## Labs:
+    ```
+         ### Concrete Technology Lab:
+         ```
+            The objective of concrete laboratory is to determine the physical properties of building construction materials like cement, fine and coarse aggregate, steel, wood, and strength characteristics of cement mortar, plain cement concrete and reinforced cement concrete. The tests include determination of specific gravity, fineness, normal consistency, setting times, workability and soundness of cement, fineness modulus of fine and coarse aggregate, strength of cement mortar, cement concrete and bricks, tensile test on steel rods, bending and flexural strength on concrete, bending test on wood, and non destructive test on concrete. The students will be able to infer the suitability of these materials for construction. They can design the mix, make the specimens and test the same for the strength for comparison with design strength. This laboratory course will help the students to understand the theoretical concepts learned in the course building materials and concrete technology.
+         ```
+         ### Transportation Engineering Lab:
+         ```
+            The objective of transportation engineering laboratory is to determine the properties of coarse aggregates and bitumen. Experiments include tests for impact, abrasion, attrition test and crushing strength for coarse aggregate and tests for penetration, ductility, viscosity, softening point and flash and fire point for bitumen. The students will be able to infer the suitability of these materials for construction of road. This laboratory course will help the students to understand the theoretical concepts learned in the course transportation engineering.
+         ```
+         ### Geo-Technical Lab:
+         ```
+            The objective of Geo-technical Engineering laboratory is to determine the physical and engineering properties of soil which are required for suitable design of foundations for any structure. Physical properties include specific gravity, moisture content, density and consistency limits namely, liquid, plastic and shrinkage limits of soil. The engineering properties include permeability, consolidation, compressibility, shear strength and bearing capacity of soil. By evaluating the properties of soil in the laboratory, students will be able to relate the concepts studied in the relevant theory course. Also students can utilize the knowledge of both theory and practical in the field application to real problems. In this laboratory both laboratory and in-situ experiments can be conducted. This laboratory course will help the students to understand the theoretical concepts learned in the course Geotechnical Engineering.
+         ```
+         ### Fluid Mechanics (Hydraulics) & Machinery Lab:
+         ```
+            The objective of this laboratory is to determine the various parameters related to fluid flow in pipes and in open channels and to study the characteristics of pumps and turbines. The experiments include determination of friction factor, minor loss coefficients, and coefficient of discharge of constriction meters, orifices, mouth pieces, notches and weirs, characteristics of flow profiles and hydraulic jump and characteristics of pumps and turbines and verification of momentum theorem. This laboratory course will help the students to understand the theoretical concepts learned in the courses fluid mechanics and open channel flow and hydraulic machinery.
+         ```
+         ### Engineering Geology Lab:
+         ```
+            The objective of this laboratory is to study the geologic factors that affect the location, design, construction, operation and maintenance of different civil engineering structures. In this laboratory, physical properties of minerals and rocks, geological properties like strike and dip of the bedding planes and study of different maps can be carried out. The basic ideas, learned about the geological conditions in a location will enable the students for proper design of foundations, location of ground water and design of structures for earthquake resistance. This laboratory course will help the students to understand the theoretical concepts learned in the course engineering geology.
+         ```
+         ### Surveying Lab:
+         ```
+            The objective of this laboratory is to learn about measurement of distances, angles, reduced levels and setting out works. The experiments include determination of distances using chain and tape, reduced levels and contours using level, bearing of lines using compass, horizontal and vertical angles using Theodolite and graphical method using plane table. Use of modern equipment like total station will be demonstrated. This laboratory course will help the students to understand the theoretical concepts learned in the course surveying.
+         ```
+         ###Strength of Materials Lab:
+         ```
+            The objective of strength of materials laboratory is to determine the forces, stresses, deflections and behavior of various structural members like beams, columns, arches, trusses and frames when subjected to different types of loadings. This laboratory course will help the students to understand the theoretical concepts learned in the courses strength of materials I & II and structural analysis I & II.
+         ```
+         ### Water & Waste - Water Engineering Lab:
+         ```
+            The objective of this laboratory is to determine the qualities of water and waste water, quality of air and noise characteristics. The experiments include the determination of pH, turbidity, conductivity, and impurities in water and BOD, DO and COD of waste water and pollution level of air and noise. The highlight of this laboratory is the spectrophotometer and high volume sampler. This laboratory course will help the students to understand the theoretical concepts learned in the course of water & wastewater engineering.
+         ```
+         ### Advanced Structural Engineering Lab:
+         ```
+            The Structural Engineering Laboratory facilitates productive innovation and learning. The mainobjective ispromoting research in structural engineering.The student will be able to know the advanced methods in structural engineering like Strain measurements using Electrical resistance, Mix design of SCC, NDT tests, Behaviour of Structural Models under Dynamic Loading, Buckling load Calculation using South well plot, Repairing techniques of Reinforced concrete beams.
+         ```
+         ### Computer Lab:
+         ```
+            The Computer aided design Lab provides an environment to the students of Civil engineering an automated way of designing and drafting the structures. The lab Providesadvanced computers with high speed internet. Numerous software’s are available which facilitates the numerical work of various calculations and estimations. The software’s provide inbuilt tools for analysis and design of structures, drawing of structures, construction management, design of foundations, water resources, transportation and environmental management, remote sensing and Geographical information System (GIS) application. Software’s like CAD, STADD PRO, STRUDS, REVIT, ARC GIS, QGIS, ANSYS, 3DS Max, ETABS etc provide a platform for civil engineering innovations by the students.
+         ```
+    ```
+```
+
+# MECHANICAL ENGINEERING (NBA ACCREDITED) - (MEC):
+```
+    ## About:
+    ```
+        The Mechanical engineering is one of the core engineering departments, which has potential to accommodate all efficient engineers. The Mechanical engineers serve all other branches of engineering directly or indirectly. The Mechanical engineers can find their place in Automobile engineering sector, Electrical Engineering sector, IT sector, manufacturing industries, design industries, Military, Naval and Air force, defence research organizations, material research organizations etc. The Mechanical Engineering department of the college has been established in the year 2011 with an intake of 60 students. In the following year the intake of the department was increased to 120 which is increased to 180 by the academic year 2018-19.
+        The department has fourteen well equipped laboratories and 31 highly qualified and experienced teaching faculty members. There are five professors, four associate professors and the rest are assistant professors. Six faculty members are doctorates. The remaining faculty members are all M. Tech degree holders and seven of them are pursuing Ph.D. Many of the faculty members have publications in reputed International and National journals.
+    ```
+    ## Vision:
+    ```
+        To impart the knowledge of mechanical engineering with global perspectives for graduates to serve the industry in particular and the society at large through quality education and research.
+    ```
+    ## Mission:
+    ```
+        To enable graduates to be technically strong,ethically sound with good communication skills by innovative teaching methods
+        To provide world class education to mould the students, so that they possess good leadership qualities and professional skills.
+        To create a conducive environment and facilities to improve overall personality development of the students.
+        To create an awareness of the social responsibilities of an engineer.
+        To bond strong relationship with industries to upgrade the knowledge of the students through exposure for cutting edge technologies.
+    ```
+    ## FACULTY:
+    ```
+        Dr. R. Naveen, M.Tech, Ph.D, Professor & Director(SIEMENS COE)
+        Dr. K. Satya Narayana, M.Tech, Ph.D, Professor & Dean of Finance
+        Dr. T. Srinivasa Rao, M.E, Ph.D, Professor & HoD
+        Dr. Md. Khaja Moinuddin Farokhi, M.Tech, Ph.D, Professor
+        Dr. K.V.L. Somasekhar, M.Tech, Ph.D, Professor
+        Dr. M. Kedar Mallik, M.Tech, Ph.D, Professor
+        Mr. P.V.S. Mohan Kumar, M.Tech (Ph.D), Assoc. Professor
+        Mr. V. Kiran Kumar, M.Tech, (Ph.D), Assoc. Professor
+        Dr. L. Lakshmi Aparna, M. Tech, Ph.D, Associate Professor
+        Dr. P. Venkateswara Babu, M. Tech, Ph.D, Associate Professor
+        Dr. M. Lakshmi Vinitha, M. Tech, Ph.D, Associate Professor
+        Mr. D.V Seshagiri Rao, M.Tech, (Ph.D), Asst. Professor
+        Mr. K. Madhusudan Chowdary, M.Tech (Ph.D), Asst. Professor
+        Mr. B A M S Pavan, M. Tech, Assistant Professor
+        Mr. N. Kishan Nissankara Rao, M.Tech (Ph.D), Asst. Professor
+        Mr. Ch. Raghavendra, M.Tech, Asst. Professor
+        Mr. Shaik Abdul Saleem, M.Tech, (Ph.D), Asst. Professor
+        Mr. V. Sambasiva Rao, M.Tech, Asst. Professor
+        Mr. P. Naga Srinivas, M.Tech, Asst. Professor
+        Mr. M. Avinash, M.Tech (Ph.D), Assistant Professor
+        Mrs. A. Sirisha, M.Tech, Assistant Professor
+        Mr. M. Rajesh, M. Tech, Assistant Professor
+        Mrs. E Leela Rani, M.Tech, Assistant Professor
+        Mr. B Naga Babu, M.Tech, Assistant Professor
+        Dr. P. Nageswara Rao, M.Tech, Ph.D, Assoc. Professor
+    ```
+
+    ## Placement Details (2022-23):
+    ```
+        - CTS: 22 students, salary package: Rs. 4.0 LPA
+        - VEM Technologies: 2 students, salary package: Rs. 3.6 LPA
+        - MU-SIGMA: 2 students, salary package: Rs. 5.0 LPA
+        - KJ Systems: 2 students, salary package: Rs. 4.0 LPA
+        - QSPIDERS: 1 student, salary package: Rs. 3.0 LPA
+        - EFFTRONICS: 7 students, salary package: Rs. 2.5 LPA
+        - ITC: 6 students, salary package: Rs. 2.5 LPA
+        - ISUZU: 19 students, salary package: Rs. 2.5 LPA
+        - ROBOLABS: 6 students, salary package: Rs. 2.5 LPA
+        - RAP: 7 students, salary package: Rs. 2.5 LPA
+        - GOWRA AEROSPACE: 5 students, salary package: Rs. 2.5 LPA
+        - HYUNDAI: 3 students, salary package: Rs. 6.8 LPA
+        - SPM: 11 students, salary package: Rs. 2.5 LPA
+        - NAVA: 8 students, salary package: Rs. 2.4 LPA
+        - D.E.P: 8 students, salary package: Rs. 3.0 LPA
+        - NUCON AERO SPACE: 1 student, salary package: Rs. 2.5 LPA
+        - CYIENT: 1 student, salary package: Rs. 4.2 LPA
+
+
+        Placement Summary:
+        - Total number of offers: 111
+        - Total number of students placed: 100
+    ```
+    ## Labs:
+    ```
+        ### ENGINEERING WORKSHOP LAB:
+        ```
+            Course Objective: To familiarize students with wood working, sheet metal operations, fitting and electrical house wiring skills
+        ```
+        ### PRODUCTION TECHNOLOGY LAB:
+        ```
+            Course objectives: To impart hands-on practical exposure on manufacturing processes and equipment
+        ```
+        ### MATERIAL SCIENCE LAB:
+        ```
+            Course objectives: The student should be able to
+               - To impart practical exposure on the microstructures of various materials
+               - To impart practical knowledge on the evaluation of material properties
+        ```
+        ### MECHANICS OF SOLIDS LAB:
+        ```
+            Course objectives: The student should be able to
+                1.  To impart practical exposure on the various materials and their hardness evaluation.
+                2. To impart practical knowledge on the various destructive testing procedures
+        ```
+        ### THERMAL ENGINEERING LAB:
+        ```
+            Course objectives: The main objective of this course is to familiarize the principles and its evaluation of various performance parameters of mechanical systems and its impact on global environment.
+        ```
+        ### FLUID MECHANICS & HYDRAULIC MACHINES LAB:
+        ```
+            Course objectives: To impart practical exposure on the various flow measuring equipment, performance evaluation methods of hydraulic turbines and pumps.
+        ```
+        ### MACHINE TOOLS LAB:
+        ```
+            Course objectives:
+                1) The students are required to understand the parts of various machine tools and operate them.
+                2) They are required to understand the different shapes of products that can be produced on these machine tools.
+        ```
+        ### THEORY OF MACHINES LAB
+        ```
+            Course Objectives: The Students will acquire the knowledge
+            To analyze gyroscope, frequency of free and forced vibration and study static and dynamic balancing and also whirling of shafts.
+        ```
+        ### METROLOGY LAB:
+        ```
+            Course Objectives:
+            The Metrology Lab course is designed for measuring and gauging instruments for inspection of precision linear, geometric forms, angular and surface finish measurements. The student can learn the measurements with and calibration of instruments.
+        ```
+        ### INSTRUMENTATION LAB:
+        ```
+            Course Objectives:
+            Mechanical Measurements lab introduces the students with the theory and methods for conducting experimental work in the laboratory and calibration of various instruments for measuring pressure, temperature, displacement, speed, vibration etc.
+        ```
+        ### CAD LAB:
+        ```
+            Course Objectives:
+
+                To learn software like AutoCAD and to produce basic concepts to make 2D drafting.
+                To apply basic concept to drawing, edit, dimension, hatching etc. to develop 2D & 3D Modelling.
+                To make 3D modelling, Assembling, modification & manipulation along with detailing.
+                To prepare surface modelling and sheet metal operations through various exercises
+                To understand and resolve the one dimensional problem using FEM.
+        ```
+        ### PROJECT LAB:
+        ```
+            The project laboratory offers facilities for students to gain valuable hands-on experience with state-of-the-art equipment. The students become proficient in both physical and creative skills needed in the field of mechanical engineering. It plays a prominent role in promoting practical learning experience. The students develop creative proposals and execute their final projects. Self-learning capabilities of students towards modelling, designing and fabrication are enhanced which foster creative, problem solving and critical thinking capabilities. Students are encouraged to do project work in domain wise with the support of facilities available in various laboratories
+        ```
+    ```
+```
+
+# first-years / Science & Humanities (S&H):
+```
+    ## About:
+    ```
+        Vasireddy Venkatadri Institute of Technology has a robust Sciences and Humanities department with dedicated faculty, excellent infrastructure, facilities and fully equipped laboratories for conducting experiments as prescribed by the AICTE guidelines, Autonomous syllabus based on the UGC Model Curriculum and beyond.
+        The Department of Sciences and Humanities is a 55 member dynamic team with a unique combination of different disciplines of thought like Languages, Management Studies, Mathematics, Physics, Chemistry, Professional Ethics, Environmental Studies, Physical Education, Library and Information Sciences. The purpose of the department is to prepare incoming fresher for a successful college career in engineering and imbibe the qualities of continuous learning in him/her. The department teaches on both UG and PG engineering programs offered by the Institute. The members of the department hold additional responsible positions as students’ clubs coordinators and literary and cultural event managers. While the senior members of the department are listed on college-level committees, other members are enlisted on at least one departmental committee each.
+        Sciences and Humanities department believes firmly that discipline is the basis of character and success builds character. The department endeavors to make success a habit to the freshman engineer. Along with a strong foundation in basic sciences necessary for their engineering pursuit, to realize the departmental objectives practically, the department plays an active role in conducting Soft skills, Verbal Reasoning and Quantitative Aptitude, Critical Reading and Problem-Solving training classes, to the student community through the finishing school program which is spread over all the four years of the B.Tech programmes. In addition, this department also vets NAAC and NBA documents.
+    ```
+    ## Vision:
+    ```
+        To impart quality education through exploration and experimentation and generate socially-conscious engineers, embedding ethics and values, for the advancement of science and technology.
+    ```
+    ## Mission:
+    ```
+        To lay the necessary scientific and mathematical foundations and prepare students for the teamwork that integrates self-learning required for success in engineering and related professions including communication skills, mutual accountability, and respect/understanding for individuals from different social strata; while also preparing them to learn, practice and apply high ethical standards  reflecting universal human values for professional development.
+    ```
+    ## Faculty:
+    ```
+        ### English:
+        ```
+            Dr. Mantri Venkata Raghu Ram, M.A, M.Phil, Ph.D, Professor & Dean (Freshman)
+            Dr. Bh. Rajya Lakshmi, M.A, M.Phil, Ph.D, Professor & HoD
+            Sri. K. Sambasivarao, M.A, M.Phil, LL.B, Associate Professor
+            Dr. K. Pavan Kumar, M.A, M.Phil, Ph.D, Associate Professor
+            Dr. U. Madhavaiah, M.A, MBA, Ph.D, Associate Professor
+            Ms. B. Padma Sree, M.A, M.Phil, Assistant Professor
+            Smt. K. Kiranmai, M.A, Assistant Professor
+            Sri. B. Joseph Fredrick Christenson, M.A, Assistant Professor
+            Sri. Y. Madhusudhanrao, M.A, Assistant Professor
+            Mrs. Dasari Usha, MA, B.Ed, Assistant Professor
+            Mrs. VC. Domi, MA, B.Ed, Assistant Professor
+            Mr. Eashwarnath Rathod Bayana, Asst. Professor, MA, MBA
+            Dr. Pawel Veliventi, M.A, Ph.D, Associate Professor
+            Dr. SONY JOSEPH, Ph.D, Assistant Professor
+            Mr. RAJENDRA KUMAR, MA, Assistant Professor
+        ```
+        ### Mathematics:
+        ```
+            Dr. J. Vijaya Kumar, M.Sc, M.Phil, Ph.D, Professor
+            Dr. C. Nagaratnamaiah, M.Sc, M.Phil, Ph.D, Professor
+            Dr. Ch. Ramprasad, M.Sc, M.Phil, Ph.D, Associate Professor
+            Dr. P. Prasanna Anjaneyulu, M.Sc, Ph.D, Associate Professor
+            Dr. Renuka Laxmi Avvari, M.Sc, M.Phil, Ph.D, Assoc. Professor
+            Dr. D. Bhasu Nirmal, M.Sc, Ph.D, Associate Professor
+            Sri. N. Siva Rama Krishna, M.Sc, M.Phil, Associate Professor
+            Sri. M. Poorna Chandra Rao, M.Sc, Assistant Professor
+            Mrs. S. Sunitha Bharathi, M.Sc, M.Phil, Assistant Professor
+            Sri. K. Rama Kishore, M.Sc, Assistant Professor
+            Sri. B. S. K. Chaitanya, M.Sc, M.Phil, Assistant Professor
+            Smt. R. Madhavi Latha, M.Sc, Assistant Professor
+            Dr. M. Venkata Ramanjaneyulu, M.Sc., M.Phil., Ph.D., Assistant Professor
+            Mr. K. Bala Chandra Prasad, M.Sc, Asst. Professor
+            Mrs. Padavala Naga Lakshmi, M.Sc, B.Ed, Assistant Professor
+            Mr. N. Raghavendra, M.Sc, Assistant Professor
+            Mr. R. Uday Bhanu, M.Sc, Assistant Professor
+            Mrs. P. Sri Lakshmi, M.Sc, Asst. Professor
+            Dr. M. Vani, M.Sc, Ph.D, Asst. Professor
+            Mrs. S. Srilatha, M.Sc, Asst. Professor
+            Smt. Ch. Radika, M.Sc, Assistant Professor
+            Mr. K. Srinivasa Rao, M.Sc, Asst. Professor
+            Mr. D. Jayadev, M.Sc, Asst. Professor
+            Mr. P. Venkata Sivaji, M.Sc, M.Phil, Assistant Professor
+            Ms. B.VASUDHA, MSc, Assistant Professor
+            Ms. G SUHASINI, MSc, Assistant Professor
+            Ms. K NAGA SAI PRASANNA, MSc, Assistant Professor
+        ```
+        ### Physics:
+        ```
+            Dr. T. Vijay Krishna, M.Sc, M.Phil, Ph.D, Professor & HoD
+            Dr. T. Madhu Mohan, M.Sc, M.Phil, Ph.D, Professor
+            Dr. A. Srivani, Ph.D, D.Sc. D.Sc(IASR), IIP, Associate Professor
+            Sri. K. Veera Reddy, M.Sc, Assistant Professor
+            Mr. P. Suneel Kumar, M.Sc, M.Phil, Assistant Professor
+            Mrs. Alapati Leelavathi, MSc, Assistant Professor
+            Mr. M. Lakshmi Bhaskar, M.Sc, B.Ed, Assistant Professor
+            Mr. Bondili Balaji Singh, M.Sc, B.Ed, Assistant Professor
+            Mr. V.T.Y Kumar, M.Phil, Asst. Professor
+            Mr. Dasari Sridhar Kumar, M.Sc, M.Ed, Assistant Professor
+            Mr. Jana Madhava Satya Veerabrahma Sarma, M.Sc, Assistant Professor
+            Ms. M.SAI SIRISHA, M.Tech, Assistant Professor
+            Mr. R.SRIDHAR BABU, MSc, Assistant Professor
+        ```
+        ### Chemistry:
+        ```
+            Dr. T. L. M. V Subba Rao, M.Sc, M.Phil, Ph.D, Professor
+            Sri. V. V. N Achary, M.Sc, Assistant Professor
+            Smt. K. Lalitha, M.Sc, Assistant Professor
+            Dr. T. Suresh, M.Sc, M.Phil, Ph.D, Assistant Professor
+            Mrs. J. Krishna Priya, B.Sc, M.Sc, Assistant Professor
+            Sri. P. Naresh, M.Sc, Assistant Professor
+            Dr. Veeranjaneyulu, Ph.D, Asst. Professor
+            Smt. Y. Sudha Rani, M.Sc, Assistant Professor
+            Mr. Sowpati Prasanna Babu, M.Sc, Assistant Professor
+            Ms. G Naga Lakshmi, M.Sc, Asst. Professor
+            Mrs. Venkata Siva Jyothi Gaddam, M.Sc, Asst. Professor
+            Mr. K.TIRUMALA PRASAD
+        ```
+        ### Environment Studies
+        ```
+            Dr. Y. Venkata Ramana, Ph.D, Assistant Professor
+            Sri. G. Rama Subbarao, M.Sc, Assistant Professor
+            Smt. J. Geetha Lalitha, M.Sc, Assistant Professor
+            Mr. N. M. Prasad, M.Sc, B.Ed, Assistant Professor
+            Mr. S. Subbirami Reddy, M.A, Asst. Professor
+        ```
+        ### Management Science:
+        ```
+            Sri. P. Guru Prasad, M.Com, LL.B, M.Phil, MBA, PGDFTM, (Ph.D), Associate Professor
+            Dr. A. V. S Ashok, Ph.D, Assoc. Professor
+            Dr. K. Lakshma Reddy, MBA, M.Com, Ph.D, Assistant Professor
+            Sri. M. Bhanu Prakash, MBA, Assistant Professor
+            Smt. P. Naga Lakshmi, M.Com, Assistant Professor
+            Mr. MVP Vijaya Kasyapa, M.Com, Asst. Professor
+            Smt. D. Suneetha, MBA, Assistant Professor
+            Sri. L. N. Dhaveji Chakravadhanula, MBA, Assistant Professor
+            Mr. Koteswara Sarma J, MA, Assistant Professor
+            Mr. Venkata Sai Krishna Nandivelugu, M.Phil, Asst. Professor
+            Dr. Ch. Madhavi, M.L.I.Sc, M.Phil, Assistant Professor
+            Sri. V. Manavendra, M.L.I.Sc, Assistant Professor
+            Ms. Ch. Renuka Devi, MCA, Asst. Professor
+            Ms. N. Malleswari, MCA, Asst. Professor
+            Mr. Akbar Saleem Shaik, MCA, Assistant Professor
+            Ms. Syed Sabiha Parveen, MBA, M.Com, Assistant Professor
+            Mr. G.SATISH
+        ```
+        ###  Physical Education:
+        ```
+            Dr. N. Arun Kumar, Ph.D, Assistant Professor
+            Dr. M. Giridhar, Ph.D, Assistant Professor,
+        ```
+        ### Library Sciences:
+        ```
+            Sri. N.V. Sai Krishna, M.L.I.Sc, M.Phil, Assistant Professor
+            Ms. N.HOSNNA, MLIC, Assistant Professor
+            Mr. E SUMANTH, MLIC, Assistant Professor
+        ```
+    ```
+    ## Infrastructure and Labs:
+    ```
+        ### English Language Communication Skills Laboratory (ELCS Lab):
+        ```
+            Area= 208.6m2
+            No of Computers = 75
+            No of Head sets = 75
+            Capacity = 60 students
+            ELCS lab is designed to operate in a LAN Environment with 75 Pentium 4 nodes and dedicated multimedia server for communication skills.
+            The communication skills lab is air-conditioned and has power backup with uninterrupted internet connectivity.
+            Exclusive training for Campus Placement Interviews and Personality Development.
+            The interactive language laboratory uses K- VAN Multimedia Software for teaching and learning English in a computer class room.
+        ```
+        ### Engineering/Applied Physics Laboratory :
+        ```
+            Area: 173.8m2
+
+            Capacity: 60 students
+
+            Types of Experiments: Mechanics, Optics and Electricity
+
+            Engineering Physics laboratory has space and resources to conduct practical experiments for 60 students at a time.
+            The physics lab also houses a dark room to conduct experiments in optics and a virtual lab for experimental simulations.
+            The lab is connected to the power backup grid of the college and has internet connectivity.
+            Standard equipment is used in the lab for conducting experiments.
+        ```
+        ### Engineering / Applied Chemistry Laboratory:
+        ```
+            Area= 208.6m2
+
+            Capacity = 60 students
+
+            Types of Experiment: Volumetric and Instrumental Analysis
+
+            Engineering Chemistry laboratory has space and resources to conduct practical experiments for 60 students at a time.
+            The chemistry lab has a conventional lab to conduct experiments in volumetric analysis and an instrumentation lab for instrumental analysis.
+            The lab is connected to the power backup grid of the college and has internet connectivity.
+            Standard equipment and chemicals are used in the lab for conducting experiments.
+        ```
+    ```
+```
+
+# Google CodeLabs:
+```
+    Google Developers Code labs  are top-of-the-line  Computer labs optimized  for group work and mobile development.   They will be installed at 2 college campuses across India.
+    The purpose of these labs is to help maintain interest in product/application development beyond our initial trainings, as well as serving as an incentive for the host Universities to be involved in our training program.   We want these labs, like the course, to be available to as many people as people, so we’re primarily considering campus locations that are part of very large state-run Universities.
+    These labs will be funded entirely by Google, including maintenance and IT support through the end of the skilling initiative.  At the end of our initiative, the CodeLabs space and equipment will remain the property of the host college/university.
+    Code Lab Be Used For:
+         ```
+            The primary use of these spaces will be to host our curriculum on
+            Machine Learning /AI
+            Mobile Development
+            Web Development
+            Cloud/Analytics
+            IoT
+        ```
+    and train-the-trainer sessions for said curriculum.. Otherwise they will be open for use by the college as regular computers labs, although Google reserves the right to use them for special programming, such as
+    Hackthons
+    GDG/WTM meetups
+    Faculty refresh courses on our curriculum
+    Short prigramming workshops, on other Google products
+    Design workshops, in partnership with UIF
+    Event live-stream viewing parties
+    Launchpad startup events
+    Speaker Series – Distinguished speakers from Industry/Academia (Hands on curriculum to be developed based on the talk given by the speaker)
+```
+
+# Siemens' Center of Excellence:
+```
+    Siemens Industry Software India Pvt. Ltd. (SISW), a wholly owned subsidiary of Siemens Product Lifecycle Management Software Inc., recently signed an agreement with the State of Andhra Pradesh Skill Development Corporation for the establishment of six Centers of Excellence (COEs) and thirty Technical Institutes across the state. The agreement was signed jointly by SISW and their partner, DesignTech Systems Ltd. (DesignTech) on 30th June 2015 at the APSSDC Office, Hyderabad.
+    The six COEs will address diverse industry segments like Automotive, Industrial machinery, Industrial automation, Aerospace & defense, and Shipbuilding. The collaboration will train students on relevant industry processes and help create industry-ready trained personnel. This industry-readiness and relevance of skills will attract better career opportunities for students and will eventually foster further industrial development in the state of Andhra Pradesh. The COEs are unique in their ability as they will be able to stitch together the virtual world of engineering and manufacturing simulation with the physical world of product development and manufacturing.
+    Equipped with the latest PLM software solutions from Siemens PLM Software, such as NXTM software for digital product engineering, Teamcenter® software for digital lifecycle management and Tecnomatix® software for digital manufacturing, and state-of-the-art industrial automation equipment from Siemens Industry these COEs will have the latest computer numerical controllers (CNC), programmable logic controllers (PLC), computer integrated manufacturing units (CIM) comprising of CNC milling and turning machines, automated guided vehicles (AGV), industrial robots, automatic storage and retrieval systems, vision inspection systems for quality control, CIM controllers and software and rapid prototyping machines. All the software is integrated using the Siemens Total Integrated Automation (TIA) portal, and each of the COEs will have seven fully equipped laboratories staffed with instructors trained and certified by SISW.
+    In addition to the 6 COEs, to cater to the dual need of percolating industry knowledge throughout the technical skill supply chain as well as catering to various levels of job requirements that exist in this ecosystem, a unique hub & spoke model is developed where the COEs cater to the white collar requirements and t-SDIs focus on the grey & blue collar spectrum. These 30 technical-Skill Development Institutes training centers are focused on skilling students in vocational trades – Automotive, Electrician, Electronics, Manufacturing & Fabrication, and Agro & Farm machineries, at Polytechnic/ ITI level. These centers are built with industry partnership with companies like Mahindra First Choice for Automotive, Schneider for Electrical, HCL for Electronics, LMW for Manufacturing, ESAB for Welding and John Deere for Agriculture.
+
+    ## Open Technology Platform: Scalable, Modular & Independent:
+    ```
+        The Open technology is scalable, modular and Independent. The centers can be expanded to incorporate latest technologies as and when the new technologies and developed and available. These centers are technologically independent.
+    ```
+
+    ## Self-learning Interactive modules – DIAS based (Digitally Advanced Interactive System):
+    ```
+        This model being digital, can be extended to the SDC level. It is hence incomparable coverage for the masses and grass roots.
+    ```
+
+    ## Unique and Advanced Hub & Spoke Delivery Model:
+    ```
+        The hub and spoke approach make it possible to get a large scale deployment and scale-up possibility with minimum time and investment. It also optimally leverages the physical infrastructure to cover as much territory as possible. These centers act as a foundation for adding other courses, collaborators, partners as per the need of AP, India and also globally. The spokes (t-SDI) are connected to the hubs (COE) for learning assistance and advanced lab infrastructure. These spokes are further linked to the SDCs to provide reach to district and village level students. This Hub and spoke model reaches one level deeper than the previous only “COE model”, which has been developed in various other states of India. “COEs” are focused to skill students for relevant growth industries – Automotive, Aerospace & Defense, Industrial Machineries, and Shipbuilding, at competent Engineering Colleges, whereas “t-SDIs” are focused on skilling students in vocational trades – Automotive, Electrician, Electronics, Manufacturing & Fabrication, and Agro & Farm machineries, at Polytechnic/ ITI level. COEs (Centers of Excellence) are created as advanced knowledge centres in Engineering Colleges with focus on student training, R&D, conducting industry sessions, etc. They will act as hubs for a set of t-SDIs. t-SDIs (technical-Skill Development Institutes) are designed to train students on technical and vocational trades at polytechnic/ ITI levels. Each COE hub will be linked with 5 unique t-SDIs with a combination of three trades in each one of them. SDCs (Skill Development Centres) are local e-enabled centres that will access digital content available with COEs and t-SDIs to help spread beginner level vocational skills across AP.
+    ```
+
+    ## Industry Relevant, Self -Sustaining Platform:
+    ```
+        This is an industry relevant academic program. Any new technology additions and refreshes as per industry needs are easily incorporated in minimum time. The model is self sustaining. It is prime funded but operationally sustainable. These centers are being developed on a “Built – Operate – Transfer” model. The complete setup will be transferred relevant institutions/ bodies post 3 years. An additional 1 year of supervisory and subject matter expertise will also be provided to APSSDC.
+    ```
+
+    ## Global Relevance:
+    ```
+        The world needs Technically Skilled workforce and India has a unique advantage of having 47 million surplus manpower in 2020. India has another advantage of the “demographic bulge” occurring at age bracket of 15–29. India has world’s largest population in this age bracket. If “adequately skilled”, India can fulfill the skilled labour deficit of developed world (~50 million). These courses are being developed after research of various vocational courses available internationally (in particular: Germany, Singapore, South Africa and Korea). The latest skills required in international markets have been incorporated into the already extensive courses available in India.
+    ```
+```
+
+# University Innovation Fellows by Google and Stanford University:
+```
+    The University Innovation Fellows program empowers students to become agents of change at their schools. The Fellows are a global community of students leading a movement to ensure that all students gain the
+
+    necessary attitudes, skills and knowledge required to compete in the economy of the future. These student leaders from schools around the world create new opportunities that help their peers develop an entrepreneurial mindset, build creative confidence, seize opportunities, define problems and address global challenges.
+
+    Fellows are creating student innovation spaces, founding entrepreneurship organizations, hosting experiential events, and working with faculty and administrators to develop courses. They serve as advocates for lasting institutional change with academic leaders and represent their schools at national events.
+
+    The University Innovation Fellows is a program of Stanford University’s Hasso Plattner Institute of Design (d.school). The program was created as part of the National Center for Engineering Pathways to Innovation (Epicenter), a five-year National Science Foundation grant.
+```
+
+# Dassault Systemes:
+```
+    Andhra Pradesh State Skill Development Corporation (APSSDC) in association with M/s. Dassault Systemes, France, has established a 3D Experience lab in the premises of Vasireddy Venkatadri Institute of Technology in the academic year 2018 with a capacity of 36 systems of computers with high configuration (i7 processor, 1TB hard disk and 16GB RAM). The 3D experience lab facilitates licensed software from M/s. Dassault Systemes, France, to train the students and faculty members of Mechanical, Civil and Electrical Engineering Departments, which operates from a server of 64GB RAM, arranged in the lab. The licenses are connected through the internet server only.
+
+    ## Objectives:
+    ```
+        To enhance the employability skill for engineering graduates in research & development technology implementation by imparting skills in engineering design in 3D experience platform throughout the four year academic program.
+
+        Students to implement innovative thoughts on 3D experience platform for product development.
+        Improve students’ confidence levels by working in domains such as Aerospace, Automotive and Offshore engineering.
+        Improved opportunities & placement, sustainability upon recruitment.
+    ```
+    ## Target group:
+    ```
+        II, III and IV year Mechanical, Electrical and Civil Engineering faculty members and students, both UG and PG levels.
+
+        ### Levels of training:
+        ```
+            #### Level A:
+            ```
+                The level A course focuses on II, III and IV year Mechanical, Electrical and Civil Engineering faculty members and students and covers the software applications, introduction of Mechanical design, digital manufacturing equipment system and Finite Element Analysis, with a course duration of 150 hours in which 70 hours are for class room training and the remaining 80 hours are intended for hands-on-practice.
+
+                The level A has three modules as follows.
+
+                CATIA: It is a platform to design, sketch, surfacing, drafting and assembling of the components. The platform has a wide variety of workbenches. The designed models can be exported to different other software like Solid works, Creo, Unigraphics and .STLfor 3D printing. The CATIA platform requires 60 hours.
+
+                DELMIA: The industrial engineering problems can be solved on DELMIA like Process planning, scheduling, routing, time study and flow study. It covers digital manufacturing processes and needs 30 hours of learning.
+
+                SIMULIA: Simulation and analysis of the engineering problems are dealt in SIMULIA. Both Mechanical (structural, fluidics, frequency etc.) and thermal (heat transfer, computation fluid dynamics etc.) problems are taught in this domain. It requires 60 hours of learning.
+            ```
+            #### Level B:
+            ```
+                The level B focuses on the diploma and III year engineering students, those who have completed level A. it covers the basic domain specific training related to three industry verticals such as Automotive, Aerospace and Ship building ( Marine and Off-shore).
+            ```
+            #### Level C:
+            ```
+                It focuses on Final year engineering students who have completed level A & B. It covers the advanced industry domain specific training. The course will spread across three months and will include an application project.
+            ```
+            #### Level D:
+            ```
+                The capstone project of the eighth semester can be performed by the students under the guidance of one local and one industry mentor. The duration of the project depends on the team size, capacity and complexity of the other projects.
+            ```
+```
+# VVIT TEP - ISB:
+```
+    Technology Entrepreneurship Program (TEP), an ISB initiative supported by Andhra Pradesh Information Technology Academy. The TEP program was initiated in September, 2013, with the objective of promoting Technology Entrepreneurship as a viable career option and nurture the culture of entrepreneurship in the region. An Agreement was made between APITA, ISB and VVIT.
+
+    The Programme was inaugurated by Mr.K.Taraka Rama Rao,Hon’ble Minister for IT and Panchayatraj, Government of Telengana and Key note Address by Mr.H.K.Mittal,  Adviser, Member Secretary, NSTEDB & TDB. Mr.Rama Rao has advised Colleges to promote Technology Entrepreneurship as a viable career option for students and nurture the culture of entrepreneurship in the region. He also said that it is need of the hour to enrich the professional courses by introducing innovation and entrepreneurship education.
+
+    Mr.Mittal in his key noteaddress advised colleges to provide Environment/Experience for Engineering students to create Investable technology based start-ups.
+```
+
+# Grievance Redressal:
+```
+    1. Dr. Y. Mallikarjuna Reddy, Principal, serves as the Chairman.
+    2. Dr. T Sridhar Babu, HOD, CE, acts as the Convener.
+    3. Sri. A. Sudarshan Reddy, Professor, IT, is a Member.
+    4. Smt. P. Pavani, Asst. Prof, CSE, is a Member.
+    5. Smt. M. Rajya Lakshmi, Asst. Prof, IT, is a Member.
+    6. Dr. P. Lakshman Naik, Assoc. Prof, EEE, is a Member.
+    7. Dr. R. Ratna Prasad, Prof, CE, is a Member.
+    8. Dr. J. Vijaya Kumar, Prof, S&H, is a Member.
+    9. Smt. Lakshmi Vineetha, Asst. Prof, MEC, is a Member.
+    10. Sri. V.T. Venkateswarlu, Assoc. Prof, ECE, is a Member.
+    11. Dr. M. Giridhar, Asst. Prof, S&H, APD, is a Member.
+    12. Sri. V. Srikanth, Programmer, IT, is a Member.
+    13. Sri.N. Kalyana Srinivas, Programmer, CSE, is a Member.
+    14. Mr. B. Jagadeesh, Student, 4th ME, is a Student Member.
+    15. Ms. K. Sravya, Student, 4th CE, is a Student Member.
+```
+
+# Central Library:
+```
+    The college has a computerized library well equipped with a large collection of books under the categories of academics, reference and general.  All the books are bar-coded and indexed using the latest library management software.  The library also subscribes to both national and international magazines, journals and periodicals in addition to leading national dailies.
+    It is a book house of knowledge, where its prime motto is to guide every student in an appropriate way and pave the road to success. It meets the innumerable needs of the students in the academic curriculum. It satiates the intellectual hunger and quenches the thirst for knowledge of the scholarly students.  The book collection ranges from literary classics to management guide and from career counselors to technical reviews.
+
+    ## Library Details : Volumes, Titles & Journals:
+    ```
+        Computer Science and Engineering (CSE):
+        - Total Volumes: 17,720
+        - Titles: 1,875
+        - Journals: 48
+
+        Computer Science and Engineering - Artificial Intelligence (CSE-AI) M.Tech:
+        - Total Volumes: 5,560
+        - Titles: 645
+        - Journals: 18
+
+        Electronics and Communication Engineering (ECE):
+        - Total Volumes: 11,700
+        - Titles: 1,680
+        - Journals: 18
+
+        Electrical and Electronics Engineering (EEE):
+        - Total Volumes: 9,580
+        - Titles: 1,290
+        - Journals: 18
+
+        Information Technology (IT):
+        - Total Volumes: 9,265
+        - Titles: 1,475
+        - Journals: 18
+
+        Civil Engineering:
+        - Total Volumes: 9,150
+        - Titles: 990
+        - Journals: 12
+
+        Mechanical Engineering:
+        - Total Volumes: 9,375
+        - Titles: 1,020
+        - Journals: 18
+
+        Computer Science and Machine Learning (CSM):
+        - Total Volumes: 3,580
+        - Titles: 610
+        - Journals: 18
+
+        Centre for Interdisciplinary Courses (CIC):
+        - Total Volumes: 2,620
+        - Titles: 410
+        - Journals: 12
+
+        Computer Science and Systems Operation (CSO):
+        - Total Volumes: 2,850
+        - Titles: 460
+        - Journals: 12
+
+        Artificial Intelligence and Data Science:
+        - Total Volumes: 3,780
+        - Titles: 595
+        - Journals: 18
+
+        General:
+        - Total Volumes: 11,780
+        - Titles: 2,550
+        - Journals: 12
+
+        Total Library Resources:
+        - Total Volumes: 114,300
+        - Titles: 22,790
+        - Journals: 234
+    ```
+    ## Digital Library:
+    ```
+        Digital Library has 36 Computer Systems with High Speed Internet and backup
+        NPTEL E-Lectures and Videos
+        DELNET
+        IEEE Society Periodicals, ASME and ASCE
+        National Digital Library of India (NDLI)
+        Open Access Journals/Dissertations/Archives/Database contents available at library portal
+    ```
+    ## Library Services:
+    ```
+        CIRCULATION SERVICE : Daily about 250 books issue/returns
+        REFERENCE SERVICE : 26550 Reference Books available
+        REPROGRAPHY / SCANNING : Available
+        E-LEARNING/ ONLINE ACCESS : IEEE, ASME, ASCE, DELNET, NPTEL, IETE, IAS etc.
+        BOOK BANK/TEXT BOOK SERVICE : SC/ST Book Bank = 6550 Books available
+        RARE BOOKS / HAND BOOKS / YEAR BOOKS = about 2000 books available
+        COMPETITIVE EXAMINATION Books : GATE, IES, CAT, GRE, etc. available
+        AUTOMATION & NETWORKING : EZ LIBRARY SOFTWARE / INTRANET
+        LIBRARY ORIENTATION/AWARENESS : In Library Hours
+    ```
+    ## Staff:
+    ```
+        1. N.V. Sai Krishna
+            - Qualification: M.A., M.L.I.Sc., M.Phil., PGDCA
+            - Designation: Librarian
+
+
+        2. Dr. CH. Madhavi
+            - Qualification: M.L.I.Sc., Ph.D.
+            - Designation: Librarian - Circulation Section
+
+
+        3. Velaga Manavendra
+            - Qualification: M.A., M.L.I.Sc.
+            - Designation: Librarian - Reference Section
+
+
+        4. P. Sri Kalyan Chakravarthi
+            - Qualification: M.A., MHRM., HDSE
+            - Designation: Digital Library Assistant
+
+
+        5. E. Ushabala
+            - Qualification: B.A.
+            - Designation: Library Assistant
+
+
+        6. N. Hosanna
+            - Qualification: B.Sc., M.L.I.Sc.
+            - Designation: Library Assistant
+
+
+        7. E. Sumanth
+            - Qualification: B.Com., M.L.I.Sc.
+            - Designation: Library Assistant
+
+
+        8. K. Nagamani
+            - Qualification: B.Com.
+            - Designation: Helper
+
+
+        9. P. Bajimun
+            - Qualification: Intermediate
+            - Designation: Helper
+
+
+        10. N. Vimala
+            - Qualification: S.S.C.
+            - Designation: Attender
+
+
+        11. N. Navya Sri
+            - Qualification: S.S.C.
+            - Designation: Attender
+
+
+        12. T. Raja Rajeswari
+            - Qualification: 5th standard
+            - Designation: Sweeper
+    ```
+```
+
+# Canteen:
+```
+    VVIT takes pride in claiming that we have one of the best and the most experienced team that takes care in preparing and catering healthy food in a hygienic environment. Our aesthetically designed Canteen is one of the best places to eat.
+
+    ## Timings:
+    ```
+        Break Fast: 8:00 AM to 10:30 AM
+        Lunch: 12:00 to 2:00 PM
+    ```
+    ## Menu:
+    ```
+        Break Fast:- Idly, Vada, Chapathi, Rice Pongal, Mysore Bajji, Upma served with Chutney and Sambar.
+        Lunch:- A special item like Bajji, Sweet, Tomato Rice, Pulihora, Curd Rice, Fried Rice, Spiced Rice, Seasonal fruits etc, with White Rice, Dal, Vegetable Fry, Vegetable curry, Sambar, Vegetable Chutney or a pickle and Curd
+    ```
+
+    ## Charges:
+    ```
+        The present charges (subject to change) for meals are as shown below:
+        Break Fast: Rs 20.00 per item (Idly – 4 nos, Vada 3 Nos, Chapati 1, Upma or Rice Pongal 2 Scoops)
+        Lunch: Rs 38.00 per day, Monthly Card @ Rs 34.00 per working day
+        Tea: Rs. 5
+    ```
+```
+
+# Hostels:
+```
+    College run separate hostel facility with an integrated mess for both boys and girls.
+    ## Girls Hostel:
+    ```
+        Location – within the college campus so doesn’t require to spend more on transport.
+        Capacity – Well lit and Properly ventilated rooms with four beds, bath attached and ample study space
+        Mess – Dedicated mess which serves healthy and hygienic food.
+        Fee - Rs 95,000/-* (for the academic year 2024-25).
+        Security – 24 hours vigilant security personnel with closed circuit cameras.
+        Entertainment – Games, TV Programmes & Movies.
+        * Dhobi Charges Extra
+    ```
+    ## Boys Hostel:
+    ```
+        Location – near Kaza Toll Plaza
+        Capacity – Well lit and properly ventilated 25 Flats with 10 Beds, bath attached and ample study space
+        Mess – dedicated mess which serves healthy and hygienic food.
+        Fee - Rs 95,000/-* (for the academic year 2024-25) including Transport.
+        Security – 24 hours vigilant security services.
+        Transport – Students have to and fro bus service in the morning and evening from hostel and college as well.
+        * Dhobi charges extra.
+    ```
+```
+
+# Transport:
+```
+    VVIT operates a fleet of 67 buses to provide a smooth glitch less transportation for the students and staff from every important place in Guntur, Vijayawada, Mangalagiri, Tenali, Ponnur, Amaravathi, Tadikonda, Kantheru, Perecherla, Nuthakki, Pedhanandhipadu, Narasaraopet, Sattenapalle, Tulluru and Gannavaram.
+    link: ```https://www.vvitguntur.com/images/documents/Transport/BUS_FARES-2024.pdf```
+```
+
+# IUCEE:
+```
+    ## About:
+    ```
+        Vasireddy Venkatadri Institute of Technology welcomes the inaugural of the IUCEE-EWB Student Chapter with great gusto. Unveiled by our Beloved Chairman, Sri Vasireddy Vidhyasagar Garu, the EWB Student Wing envisions to assist students to spearhead the gallop towards advancing projects that help the socio-economic cause. The Wing aims to facilitate a deep-trenched research mindset and allow it to become an inherent second nature to tomorrow's key decision-makers.
+        The EWB Student Wing of VVIT was launched by Dr Showkath Ali (Director, EWB India), with more than 120 students registering their names during the initial drive. The chapter's four cornerstones are societal welfare, leadership, competition, and bringing forth a deep-seated understanding (towards valuing diverse opinions). The EWB will assist students in developing the empathy and industry-standard skills necessary to ensure a future of mutual growth. EWB works in over 68 countries and provides services to scholars from a variety of prestigious universities.
+    ```
+    ## Vision :
+    ```
+        To guide and motivate students and professionals to solve real-time problems faced by the community with a technology-based solution..
+    ```
+    ## Mission :
+    ```
+        Collaborate with non-profit organizations and social organizations, understand the potential problems faced by the community, and improve the quality of life for common people.
+    ```
+```
+
+# UiPath Academic Alliance Partnership:
+```
+    Vasireddy Venkatadri Institute of Technology is an Academic Alliance Partner with UiPath. UiPath is a leading Robotic Process Automation vendor providing a complete software platform to help organizations efficiently automate business processes.
+
+    As part of UiPath Academic Alliance, students can avail the following benefits –
+    ```
+        Approved courses delivered by certified or qualified educator
+        Learn at your own pace with UiPath Academy https://academy.uipath.com/
+        Free one-year UiPath software licenses to students, which could be installed on 2 machines
+        Events, competition, and engagement activities
+        Mentorship session with UiPath MVP and community leaders
+        Entrepreneurship opportunities
+        Dedicated community and discussion forum
+        https://forum.uipath.com/c/learn/academic-alliance/113
+        https://communityevents.uipath.com/students-in-automation/
+        50% discount on UiPath Certified Professional (UCP) exams
+        Connect with UiPath hiring partners for placement opportunities
+        Through this partnership program, 2 of our faculty have been trained by the UiPath on Robotic Process Automation (RPA) technology in the month of January 2020 at UiPath, Bangalore.
+    ```
+```
+
+# Placement Profile:
+```
+    VVIT is a top-notch engineering college in Andhra Pradesh and enjoys all prestigious accreditation. We offer B. Tech programs in new branches of technology like Artificial Intelligence and Data Science, Artificial Intelligence and Machine Learning, CSE Machine Learning, CSE Internet of Things and CSE- Cyber Security, Internet of Things with Blockchain Technology apart from the regular branches of EEE, ECE, CSE, IT, Civil and Mechanical Engineering.
+    We take immense pride in developing highly skilled and motivated individuals who are well-trained in Industry Micro-Credentials to contribute to various industries with high-demand skills. We have consistently produced graduates who possess a strong academic foundation, critical thinking abilities, and a dedication to excellence through aligning with emerging industry needs. The recently held Y20 Summit youth talk on the future of work – Industry 4.0, innovation and 21st Century Skills by G20 and Bharath Block-chain Yatra organized by Information Data Systems (IDS) Sponsored by AICTE are noteworthy examples of VVIT efforts..
+```
+
+# Placement Report for Academic Year 2022-23:
+```
+    ## Top Recruiters:
+    ```
+        - Amazon WOW: 2 students, salary package: Rs. 44 LPA
+        - Morgan Stanley: 1 student, salary package: Rs. 29.8 LPA
+        - Google: 1 student, salary package: Rs. 24 LPA
+        - BNY Mellon Technology Private Limited: 1 student, salary package: Rs. 22 LPA
+        - IBM: 1 student, salary package: Rs. 11 LPA
+    ```
+
+    ## Other Recruiters:
+    ```
+        - Salesforce: 5 students, salary package: Rs. 8.25 LPA
+        - Value labs-SD: 2 students, salary package: Rs. 8 LPA
+        - SOTI: 1 student, salary package: Rs. 8 LPA
+        - DRAG AND DROP: 2 students, salary package: Rs. 8 LPA
+        - WeCP Pvt. Ltd.: 1 student, salary package: Rs. 8 LPA
+        - Virtusa CoE-PC: 2 students, salary package: Rs. 7 LPA
+        - TCS-Digital: 14 students, salary package: Rs. 7 LPA
+        - HYUNDAI: 3 students, salary package: Rs. 6.8 LPA
+        - CTS GenC Next: 26 students, salary package: Rs. 6.75 LPA
+        - INFOR: 1 student, salary package: Rs. 6.67 LPA
+        - Hexaware: 2 students, salary package: Rs. 6 LPA
+        - SOCTRONICS: 1 student, salary package: Rs. 6 LPA
+        - Accolite Digital: 2 students, salary package: Rs. 6 LPA
+    ```
+
+    ## Complete List of Recruiters:
+    ```
+        - AverQ Tech: 1 student, salary package: Rs. 4.2 LPA
+        - CYIENT: 1 student, salary package: Rs. 4.2 LPA
+        - CTS Gen C: 131 students, salary package: Rs. 4 LPA
+        - KJ Systems: 17 students, salary package: Rs. 4 LPA
+        - Delta Technologies: 11 students, salary package: Rs. 4 LPA
+        - SMART ROTAMACH: 1 student, salary package: Rs. 4 LPA
+        - EDUSTATION: 5 students, salary package: Rs. 4 LPA
+        - Infosys: 2 students, salary package: Rs. 4 LPA
+        - Tecnics Reunidas Engineers Pvt Ltd: 1 student, salary package: Rs. 4 LPA
+        - TCS-Ninja: 6 students, salary package: Rs. 3.6 LPA
+        - Vem Technologies: 4 students, salary package: Rs. 3.6 LPA
+        - Infosys-SE: 104 students, salary package: Rs. 3.6 LPA
+        - Vintrus Edu tech: 6 students, salary package: Rs. 3.6 LPA
+        - Vintrus Edutech: 8 students, salary package: Rs. 3.6 LPA
+        - Tech Mahindra: 17 students, salary package: Rs. 3.5 LPA
+        - IMEG(OC-VRS): 1 student, salary package: Rs. 3.5 LPA
+        - SDVVL: 5 students, salary package: Rs. 3.5 LPA
+        - Clarivate Analytics: 1 student, salary package: Rs. 3.5 LPA
+        - TCS - SALESFORCE: 5 students, salary package: Rs. 3.36 LPA
+        - ATMECS: 2 students, salary package: Rs. 3.25 LPA
+        - HCL Technologies: 2 students, salary package: Rs. 3.25 LPA
+        - APARNA Constructions: 2 students, salary package: Rs. 3.2 LPA
+        - KODNEST(CSR DRIVE): 8 students, salary package: Rs. 3 LPA
+        - EXCEL R: 27 students, salary package: Rs. 3 LPA
+        - Qspiders: 10 students, salary package: Rs. 3 LPA
+        - NQC LABS: 5 students, salary package: Rs. 3 LPA
+        - FUCTCH Technology PVT LTD: 1 student, salary package: Rs. 3 LPA
+        - MOLD TEK: 1 student, salary package: Rs. 3 LPA
+        - VolTech Pvt Ltd: 6 students, salary package: Rs. 3 LPA
+        - Verzeo Edutech: 5 students, salary package: Rs. 3 LPA
+        - D.E.P: 8 students, salary package: Rs. 3 LPA
+        - Conflux Systems Inc.: 4 students, salary package: Rs. 2.6 LPA
+        - Efftronics: 7 students, salary package: Rs. 2.5 LPA
+        - ISUZU Motors: 32 students, salary package: Rs. 2.5 LPA
+        - MAHINDRA(GOWRA Aerospace): 5 students, salary package: Rs. 2.5 LPA
+        - ITC Ltd: 10 students, salary package: Rs. 2.5 LPA
+        - PVS STRUCTECH: 2 students, salary package: Rs. 2.5 LPA
+        - ACE BIM Solutions: 6 students, salary package: Rs. 2.5 LPA
+        - Transcendence PVT. LTD: 2 students, salary package: Rs. 2.5 LPA
+        - SPM: 11 students, salary package: Rs. 2.5 LPA
+        - Skolar Edtech Pvt Ltd: 5 students, salary package: Rs. 2.5 LPA
+        - Just Dial Ltd: 7 students, salary package: Rs. 2.5 LPA
+        - Academor: 6 students, salary package: Rs. 2.5 LPA
+        - Robo labs: 6 students, salary package: Rs. 2.5 LPA
+        - RAP: 7 students, salary package: Rs. 2.5 LPA
+        - NUCON Aerospace: 1 student, salary package: Rs. 2.5 LPA
+        - Q-Get Financial Technologies India Pvt Ltd: 2 students, salary package: Rs. 2.4 LPA
+        - NAVA: 8 students, salary package: Rs. 2.4 LPA
+        - Sriyan Constructions: 1 student, salary package: Rs. 2.4 LPA
+        - Dalmia Cements: 1 student, salary package: Rs. 2.4 LPA
+        - Universal Automation: 5 students, salary package: Rs. 2.16 LPA
+        - Formonictechnologies Pvt Ltd: 1 student, salary package: Rs. 2.16 LPA
+        - Young Mind Technologies: 1 student, salary package: Rs. 2 LPA
+        - Srinfotech: 3 students, salary package: Rs. 2 LPA
+        - Growcontrol Induction: 2 students, salary package: Rs. 1.5 LPA
+    ```
+
+    Placement Summary:
+    ```
+        - Total number of offers: 813
+        - Total number of placements (head count): 644
+        - Average salary package: Rs. 4.38 LPA
+    ```
+```
+
+# Branch wise placement:
+```
+    ## Civil Engineering:
+    ```
+        ### 2023:
+        ```
+            - Head Count (Placements): 46
+            - Higher Education: 3
+            - Entrepreneurship: 0
+            - Total Outcomes: 49
+            - Total Students Enrolled: 116
+            - Final Course Outcome Percentage: 42.24% (49/116)
+        ```
+
+        ### 2022:
+        ```
+            - Head Count (Placements): 56
+            - Higher Education: 4
+            - Entrepreneurship: 0
+            - Total Outcomes: 60
+            - Total Students Enrolled: 104
+            - Final Course Outcome Percentage: 57.69% (60/104)
+        ```
+
+        ### 2021:
+        ```
+            - Head Count (Placements): 41
+            - Higher Education: 15
+            - Entrepreneurship: 0
+            - Total Outcomes: 56
+            - Total Students Enrolled: 92
+            - Final Course Outcome Percentage: 60.87% (56/92)
+        ```
+
+    ## CSE:
+    ```
+        ### 2023:
+        ```
+            - Head Count (Placements): 168
+            - Higher Education: 40
+            - Entrepreneurship: 0
+            - Total Outcomes: 208
+            - Total Students Enrolled: 277
+            - Final Course Outcome Percentage: 75.09% (208/277)
+        ```
+
+        ### 2022:
+        ```
+            - Head Count (Placements): 197
+            - Higher Education: 28
+            - Entrepreneurship: 0
+            - Total Outcomes: 225
+            - Total Students Enrolled: 261
+            - Final Course Outcome Percentage: 86.21% (225/261)
+        ```
+
+        ### 2021:
+        ```
+            - Head Count (Placements): 164
+            - Higher Education: 25
+            - Entrepreneurship: 0
+            - Total Outcomes: 189
+            - Total Students Enrolled: 243
+            - Final Course Outcome Percentage: 77.78% (189/243)
+        ```
+    ```
+
+    ## EEE:
+    ```
+        ### 2023:
+        ```
+            - Head Count (Placements): 113
+            - Higher Education: 6
+            - Entrepreneurship: 0
+            - Total Outcomes: 119
+            - Total Students Enrolled: 197
+            - Final Course Outcome Percentage: 60.41% (119/197)
+        ```
+
+        ### 2022:
+        ```
+            - Head Count (Placements): 109
+            - Higher Education: 16
+            - Entrepreneurship: 0
+            - Total Outcomes: 125
+            - Total Students Enrolled: 193
+            - Final Course Outcome Percentage: 64.77% (125/193)
+        ```
+
+        ### 2021:
+        ```
+            - Head Count (Placements): 74
+            - Higher Education: 13
+            - Entrepreneurship: 0
+            - Total Outcomes: 87
+            - Total Students Enrolled: 137
+            - Final Course Outcome Percentage: 63.50% (87/137)
+        ```
+    ```
+    ## Mechanical:
+    ```
+        ### 2023:
+        ```
+            - Head Count (Placements): 100
+            - Higher Education: 10
+            - Entrepreneurship: 0
+            - Total Outcomes: 110
+            - Total Students Enrolled: 188
+            - Final Course Outcome Percentage: 58.51% (110/188)
+        ```
+
+        ### 2022:
+        ```
+            - Head Count (Placements): 89
+            - Higher Education: 13
+            - Entrepreneurship: 0
+            - Total Outcomes: 102
+            - Total Students Enrolled: 173
+            - Final Course Outcome Percentage: 58.96% (102/173)
+        ```
+
+        ### 2021:
+        ```
+            - Head Count (Placements): 68
+            - Higher Education: 15
+            - Entrepreneurship: 0
+            - Total Outcomes: 83
+            - Total Students Enrolled: 135
+            - Final Course Outcome Percentage: 61.48% (83/135)
+        ```
+    ```
+    ## ECE:
+    ```
+        ### 2023:
+        ```
+            - Head Count (Placements): 122
+            - Higher Education: 6
+            - Entrepreneurship: 0
+            - Total Outcomes: 128
+            - Total Students Enrolled: 189
+            - Final Course Outcome Percentage: 67.72% (128/189)
+        ```
+
+        ### 2022:
+        ```
+            - Head Count (Placements): 146
+            - Higher Education: 6
+            - Entrepreneurship: 0
+            - Total Outcomes: 152
+            - Total Students Enrolled: 211
+            - Final Course Outcome Percentage: 72.04% (152/211)
+        ```
+
+        ### 2021:
+        ```
+            - Head Count (Placements): 96
+            - Higher Education: 24
+            - Entrepreneurship: 0
+            - Total Outcomes: 120
+            - Total Students Enrolled: 217
+            - Final Course Outcome Percentage: 55.30% (120/217)
+        ```
+    ```
+    ## IT:
+    ```
+        ### 2023:
+        ```
+            - Head Count (Placements): 95
+            - Higher Education: 52
+            - Entrepreneurship: 0
+            - Total Outcomes: 147
+            - Total Students Enrolled: 204
+            - Final Course Outcome Percentage: 72.06% (147/204)
+        ```
+
+        ### 2022:
+        ```
+            - Head Count (Placements): 129
+            - Higher Education: 20
+            - Entrepreneurship: 0
+            - Total Outcomes: 149
+            - Total Students Enrolled: 176
+            - Final Course Outcome Percentage: 84.66% (149/176)
+        ```
+
+        ### 2021:
+        ```
+            - Head Count (Placements): 95
+            - Higher Education: 30
+            - Entrepreneurship: 0
+            - Total Outcomes: 125
+            - Total Students Enrolled: 165
+            - Final Course Outcome Percentage: 75.76% (125/165)
+        ```
+    ```
+```
+
+# Training & Placement Team:
+```
+    ## Faculty Members:
+    ```
+        1. Prof. M. V. Raghu Ram - Professor and Dean - Placements
+        2. Dr. Madhav U - Associate Professor and Head, Training & Placement
+        3. Mr. Subba Reddy Y V - Assistant Professor and Central In-charge - Internships
+    ```
+    ## Trainers:
+    ```
+        1. Dr. Prasanna Anjaneyulu P - Associate Professor and Trainer - Reasoning Ability
+        2. Dr. Nirmal D B - Associate Professor and Trainer - Quantitative Ability
+        3. Dr. Pawel Veliventi - Associate Professor and Trainer - Soft Skills
+        4. Mr. Eashwar Nath Rathod - Assistant Professor and Trainer - Soft Skills
+        5. Ms. Priyanka D - Assistant Professor and Trainer - Reasoning Ability
+        6. Mr. Govinda Raju G - Assistant Professor and Trainer - Quantitative Ability
+        7. Mr. Akbar Saleem Shaik - Assistant Professor and Trainer - Quant & Reasoning Ability
+        8. Mr. Poorna Chandra Rao M - Assistant Professor and Trainer - Quantitative Ability
+    ```
+    ## Support Staff:
+    ```
+        1. Mr. Satish G - Office Coordinator
+    ```
+```
+# Department Placement Coordinators:
+```
+    1. Civil Department:
+        - Mr. Naiyer Noor Ibrahim, Assistant Professor
+        - Mobile: 6300969337
+        - Email: nooribrahim@vvit.net, sk.ibm897@gmail.com
+
+
+    2. Electrical and Electronics Engineering (EEE) Department:
+        - Dr. Ch. Ram Babu, Associate Professor
+        - Mobile: 9885388799
+        - Email: rambabueee@vvit.net, rams_babu2001@yahoo.com
+        - Mr. J Anand, Assistant Professor
+        - Mobile: 7981812252
+        - Email: janand202@gmail.com
+
+
+    3. Mechanical Engineering (ME) Department:
+        - Mr. N Kishan, Assistant Professor
+        - Mobile: 9963314444
+        - Email: kishan.n1981@vvit.net, kishan.n1981@gmail.com
+
+
+    4. Electronics and Communication Engineering (ECE) Department:
+        - Dr. Shaik Riyazuddien, Associate Professor
+        - Mobile: 9700667247
+        - Email: riyazshaik@vvit.net, drshaik84@gmail.com
+
+
+    5. Computer Science and Engineering (CSE) Department:
+        - Mr. A. Vishnu Vardhan, Associate Professor
+        - Mobile: 7386368215
+        - Email: vishnuvardhan.a@vvit.net, vishnuvardhan.299@gmail.com
+
+
+    6. Information Technology (IT) Department:
+        - Mr. Nutalapati Ashok, Associate Professor
+        - Mobile: 9985678067
+        - Email: nutalapati.ashok@vvit.net, nutalapati.ashok@gmail.com
+
+
+    7. Computer Science and Systems Operation (CSO) Department:
+        - Smt. M. Rajya Lakshmi, Associate Professor
+        - Mobile: 9704122768
+        - Email: raajivvit@gmail.com
+
+
+    8. Centre for Interdisciplinary Courses (CIC):
+        - Prof. Ravi Kumar K, Associate Professor
+        - Mobile: 9985678067
+        - Email: ravikota16@vvit.net, ravikota16@gmail.com
+
+
+    9. Artificial Intelligence and Data Science (AID) Department:
+        - Mrs. Mounika V, Assistant Professor
+        - Mobile: 9059994995
+        - Email: mounica.vanapalli@vvit.net, mounica.vanapalli@gmail.com
+
+
+    10. Computer Science and Machine Learning (CSM & AIML) Department:
+        - Mr. V Muralidhar, Associate Professor
+        - Mobile: 6303956756
+        - Email: vmdhar@vvit.net
+```
+
+# MoU:
+```
+    - PERDUE UNIVERSITY: In Progress, Epics Community Service Program
+    - APSCHE: Govt. LMS
+    - RWTH Aachen University: January 10, 2024, Academic
+    - IES & FACTOR-Y INNOVATION IN INDIA: February 17, 2024, Academic & Higher Education
+    - TATA COMMUNITY INITIATIVE TRUST: February 17, 2024, CSR - Skilling
+    - SUITS CARE INDIA PVT LTD: January 31, 2024, Student Projects
+    - EDUNET FOUNDATION: November 2, 2023, Skilling
+    - CAPABL: October 30, 2023, Skilling
+    - APIRSQUARE PVT LTD: October 16, 2023, Skilling & Entrepreneurship
+    - SHIM OVERSEAS EDUCATION CONSULTANCY: October 16, 2023, Higher Education Consultant
+    - ATOMS DIGITAL SOLUTIONS PRIVATE LIMITED: October 3, 2023, Skilling & Placement
+    - VIHAAN ELECTRIX: July 17, 2023, Skilling & Placement
+    - EXCELR: July 4, 2023, Skilling & Placement
+    - EDUNET -IBM: June 26, 2023, Skilling & Placement
+    - CODETANTRA: June 21, 2023, Coding Practice
+    - INFOSYS SPRING BOARD: June 21, 2023, Skilling
+    - SENSE SEMI CONDUCTOR: May 24, 2023, Skilling & Placement
+    - GERMAN VARSITY FOR ADVANCED STUDIES -AACHEN, GERMANY: May 10, 2023, CoE for International Education and Employment Opportunities
+    - SGIT, STEINBEIS UNIVERSITY, BERLIN, GERMANY: May 8, 2023, Employment Linked Masters's program
+    - AWS ACADEMY PROGRAM GUIDE VERSION7: January 1, 2023, Skilling & Consultant
+    - ANU GROUP OF HOSPITALS(AGH): November 28, 2022, Student Projects
+    - SOCIETY FOR LEARNING TECHNOLOGIES: November 11, 2022, Skilling
+    - VIRTUSA: August 4, 2022, Skilling, Certification & Placement
+    - EPAM: August 1, 2022, Skilling, Certification & Placement
+    - QUANTUM LEARNINGS(CENTRE OF EXCELLENCE): March 23, 2022, Skilling & Certification
+    - INFORMATION DATA SYSTEMS INC. USA. (IDS): February 17, 2022, Skilling & Certification
+    - VALADRO TECHNOLOGIES PVT LTD: January 18, 2022, Skilling & Certification
+    - BLUE PRISM: December 6, 2021, Skilling & Certification
+    - EDU SKILLS: December 4, 2021, Skilling & Certification
+    - HIEE: August 25, 2021, Skilling & Placement
+    - ICT ACADEMY: February 1, 2021, Skilling & Certification
+    - ICT ACADEMY HUAWEI: October 9, 2020, Skilling & Certification
+    - UI PATH ACADEMIC ALLIANCE: July 26, 2019, Skilling & Certification
+    - INTERNSHALA: June 21, 2019, Skilling & Certification
+    - ELEVEN01 TECHNOLOGIES: July 25, 2018, Skilling & Certification
+    - VERAKKI TECH SERVICES PRIVATE LIMITED: February 1, 2018, Skilling & Placement
+    - APSSDC: April 25, 2016, Skilling, Certification & Placement
+```
